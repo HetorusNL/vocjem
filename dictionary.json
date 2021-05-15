@@ -1,0 +1,413 @@
+{
+  "vocabulary": [
+    {
+      "id": "1",
+      "chapter": "1",
+      "romaji": "anata",
+      "dutch": "jij"
+    },
+    {
+      "id": "2",
+      "chapter": "1",
+      "romaji": "botoru",
+      "dutch": "fles"
+    },
+    {
+      "id": "3",
+      "chapter": "1",
+      "romaji": "chuugoku",
+      "dutch": "China"
+    },
+    {
+      "id": "4",
+      "chapter": "1",
+      "romaji": "dare",
+      "dutch": "wie"
+    },
+    {
+      "id": "5",
+      "chapter": "1",
+      "romaji": "desu",
+      "dutch": "is/zijn"
+    },
+    {
+      "id": "6",
+      "chapter": "1",
+      "romaji": "doko",
+      "dutch": "waar"
+    },
+    {
+      "id": "7",
+      "chapter": "1",
+      "romaji": "gakusei",
+      "dutch": "student"
+    },
+    {
+      "id": "8",
+      "chapter": "1",
+      "romaji": "neko",
+      "dutch": "kat"
+    },
+    {
+      "id": "9",
+      "chapter": "1",
+      "romaji": "hajimemashite",
+      "dutch": "aangenaam"
+    },
+    {
+      "id": "10",
+      "chapter": "1",
+      "romaji": "hito",
+      "dutch": "mens/persoon"
+    },
+    {
+      "id": "11",
+      "chapter": "1",
+      "romaji": "hon",
+      "dutch": "boek"
+    },
+    {
+      "id": "12",
+      "chapter": "1",
+      "romaji": "igirisu",
+      "dutch": "Engeland"
+    },
+    {
+      "id": "13",
+      "chapter": "1",
+      "romaji": "inu",
+      "dutch": "hond"
+    },
+    {
+      "id": "14",
+      "chapter": "1",
+      "romaji": "ka",
+      "dutch": "vraag partikel"
+    },
+    {
+      "id": "15",
+      "chapter": "1",
+      "romaji": "kankoku",
+      "dutch": "Zuid-Korea"
+    },
+    {
+      "id": "16",
+      "chapter": "1",
+      "romaji": "kanojo",
+      "dutch": "zij/vriendin"
+    },
+    {
+      "id": "17",
+      "chapter": "1",
+      "romaji": "kare",
+      "dutch": "hij/vriend(je)"
+    },
+    {
+      "id": "18",
+      "chapter": "1",
+      "romaji": "kochira",
+      "dutch": "hier/deze richting/de persoon hier"
+    },
+    {
+      "id": "19",
+      "chapter": "1",
+      "romaji": "meishi",
+      "dutch": "visitekaartje"
+    },
+    {
+      "id": "20",
+      "chapter": "1",
+      "romaji": "moushimasu",
+      "dutch": "heten (beleefd)"
+    },
+    {
+      "id": "21",
+      "chapter": "1",
+      "romaji": "namae",
+      "dutch": "naam"
+    },
+    {
+      "id": "22",
+      "chapter": "1",
+      "romaji": "nani",
+      "dutch": "wat"
+    },
+    {
+      "id": "23",
+      "chapter": "1",
+      "romaji": "nanijin",
+      "dutch": "welke nationaliteit"
+    },
+    {
+      "id": "24",
+      "chapter": "1",
+      "romaji": "nihon",
+      "dutch": "Japan"
+    },
+    {
+      "id": "25",
+      "chapter": "1",
+      "romaji": "no",
+      "dutch": "bezit/relatie partikel"
+    },
+    {
+      "id": "26",
+      "chapter": "1",
+      "romaji": "pasokon",
+      "dutch": "computer"
+    },
+    {
+      "id": "27",
+      "chapter": "1",
+      "romaji": "pen",
+      "dutch": "pen"
+    },
+    {
+      "id": "28",
+      "chapter": "1",
+      "romaji": "ryuugakusei",
+      "dutch": "uitwisselingsstudent"
+    },
+    {
+      "id": "29",
+      "chapter": "1",
+      "romaji": "shima",
+      "dutch": "eiland"
+    },
+    {
+      "id": "30",
+      "chapter": "1",
+      "romaji": "sou desu",
+      "dutch": "dat is zo"
+    },
+    {
+      "id": "31",
+      "chapter": "1",
+      "romaji": "tokei",
+      "dutch": "klok"
+    },
+    {
+      "id": "32",
+      "chapter": "1",
+      "romaji": "udedokei",
+      "dutch": "horloge"
+    },
+    {
+      "id": "33",
+      "chapter": "1",
+      "romaji": "tori",
+      "dutch": "vogel"
+    },
+    {
+      "id": "34",
+      "chapter": "1",
+      "romaji": "toruko",
+      "dutch": "Turkije"
+    },
+    {
+      "id": "35",
+      "chapter": "1",
+      "romaji": "wa",
+      "dutch": "onderwerpspartikel"
+    },
+    {
+      "id": "36",
+      "chapter": "1",
+      "romaji": "yoroshiku onegaishimasu",
+      "dutch": "laten we goed met elkaar omgaan"
+    },
+    {
+      "id": "37",
+      "chapter": "1",
+      "romaji": "nomimasu",
+      "dutch": "drinken"
+    },
+    {
+      "id": "38",
+      "chapter": "1",
+      "romaji": "kaban",
+      "dutch": "tas"
+    },
+    {
+      "id": "39",
+      "chapter": "1",
+      "romaji": "piza",
+      "dutch": "pizza"
+    },
+    {
+      "id": "40",
+      "chapter": "1",
+      "romaji": "jikoshoukai",
+      "dutch": "zelf introductie"
+    },
+    {
+      "id": "41",
+      "chapter": "1",
+      "romaji": "kyoushi",
+      "dutch": "docent (beroep)"
+    },
+    {
+      "id": "42",
+      "chapter": "1",
+      "romaji": "kiritsu",
+      "dutch": "opstaan"
+    },
+    {
+      "id": "43",
+      "chapter": "1",
+      "romaji": "rei",
+      "dutch": "buig"
+    },
+    {
+      "id": "44",
+      "chapter": "1",
+      "romaji": "chakuseki",
+      "dutch": "neem plaats"
+    },
+    {
+      "id": "45",
+      "chapter": "1",
+      "romaji": "bijutsukan",
+      "dutch": "kunstmuseum"
+    },
+    {
+      "id": "46",
+      "chapter": "1",
+      "romaji": "ongaku",
+      "dutch": "muziek"
+    },
+    {
+      "id": "47",
+      "chapter": "1",
+      "romaji": "kore kara",
+      "dutch": "vanaf nu"
+    },
+    {
+      "id": "48",
+      "chapter": "1",
+      "romaji": "eigyou",
+      "dutch": "verkoop"
+    },
+    {
+      "id": "49",
+      "chapter": "1",
+      "romaji": "bu",
+      "dutch": "afdeling"
+    },
+    {
+      "id": "50",
+      "chapter": "1",
+      "romaji": "eigyouin",
+      "dutch": "verkoopmedewerker"
+    },
+    {
+      "id": "51",
+      "chapter": "1",
+      "romaji": "kankou",
+      "dutch": "toerisme"
+    },
+    {
+      "id": "52",
+      "chapter": "1",
+      "romaji": "watashi",
+      "dutch": "ik"
+    },
+    {
+      "id": "53",
+      "chapter": "1",
+      "romaji": "watashitachi",
+      "dutch": "wij"
+    },
+    {
+      "id": "54",
+      "chapter": "1",
+      "romaji": "oranda",
+      "dutch": "Nederland"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Introduceren van jezelf en anderen"
+    },
+    {
+      "id": "2",
+      "name": "Respect en cultuur in de taal"
+    },
+    {
+      "id": "3",
+      "name": "Tellen, leeftijd, telefoonnummer vragen en ontkennen"
+    },
+    {
+      "id": "4",
+      "name": "Klokkijken en tijden gebruiken"
+    },
+    {
+      "id": "5",
+      "name": "Ik ga naar..."
+    },
+    {
+      "id": "6",
+      "name": "Winkelen, yen en het wo partikel"
+    },
+    {
+      "id": "7",
+      "name": "Objecten omschrijven met adjectieven en telwoorden"
+    },
+    {
+      "id": "8",
+      "name": "Adjectieven in het negatief en datums"
+    },
+    {
+      "id": "9",
+      "name": "Bevinden van iets en opsommen"
+    },
+    {
+      "id": "10",
+      "name": "Negatieve werkwoordsvorm en voorzetsels"
+    },
+    {
+      "id": "11",
+      "name": "Verledentijdsvorm en verwerkwoorden"
+    },
+    {
+      "id": "12",
+      "name": "Frequentie aangeven en vervoersmiddelen"
+    },
+    {
+      "id": "13",
+      "name": "Nieuwe manier van ni gebruiken, reden aanduiden, geven en ontvangen"
+    },
+    {
+      "id": "14",
+      "name": "Werkwoorden en adjectieven vervoegen naar negatief v.t."
+    },
+    {
+      "id": "15",
+      "name": "Verzoek doen en ni/de arimasu"
+    },
+    {
+      "id": "16",
+      "name": "Start van de informele werkwoorden"
+    },
+    {
+      "id": "17",
+      "name": "Te-vorm voor meerdere werkwoorden in een zin"
+    },
+    {
+      "id": "18",
+      "name": "Alstublieft, instappen en uitstappen"
+    },
+    {
+      "id": "19",
+      "name": "Om toestemming vragen en de weg wijzen"
+    },
+    {
+      "id": "20",
+      "name": "Aangeven dat iets gaande is en houden van/haten"
+    }
+  ],
+  "lut": {
+    "chapter": "chapters"
+  }
+}
