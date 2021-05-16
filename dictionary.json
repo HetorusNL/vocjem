@@ -323,6 +323,228 @@
       "chapter": "1",
       "romaji": "oranda",
       "dutch": "Nederland"
+    },
+    {
+      "id": "55",
+      "chapter": "2",
+      "romaji": "ohayou",
+      "dutch": "goedemorgen"
+    },
+    {
+      "id": "56",
+      "chapter": "2",
+      "romaji": "ohayou gozaimasu",
+      "dutch": "goedemorgen (beleefd)"
+    },
+    {
+      "id": "57",
+      "chapter": "2",
+      "romaji": "konnichiwa",
+      "dutch": "goedendag/goedemiddag"
+    },
+    {
+      "id": "58",
+      "chapter": "2",
+      "romaji": "konbanwa",
+      "dutch": "goedenacht/goedenavond"
+    },
+    {
+      "id": "59",
+      "chapter": "2",
+      "romaji": "genki desu",
+      "dutch": "het gaat goed"
+    },
+    {
+      "id": "60",
+      "chapter": "2",
+      "romaji": "osaki ni",
+      "dutch": "alvast/voor"
+    },
+    {
+      "id": "61",
+      "chapter": "2",
+      "romaji": "ja mata",
+      "dutch": "tot later/tot dan"
+    },
+    {
+      "id": "62",
+      "chapter": "2",
+      "romaji": "wakarimashita",
+      "dutch": "begrepen"
+    },
+    {
+      "id": "63",
+      "chapter": "2",
+      "romaji": "oyasumi",
+      "dutch": "welterusten"
+    },
+    {
+      "id": "64",
+      "chapter": "2",
+      "romaji": "oyasuminasai",
+      "dutch": "welterusten (beleefd)"
+    },
+    {
+      "id": "65",
+      "chapter": "2",
+      "romaji": "douzo kochira he",
+      "dutch": "deze kant op alstublieft (beleefd)"
+    },
+    {
+      "id": "66",
+      "chapter": "2",
+      "romaji": "nemasu",
+      "dutch": "slapen"
+    },
+    {
+      "id": "67",
+      "chapter": "2",
+      "romaji": "sayounara",
+      "dutch": "vaarwel"
+    },
+    {
+      "id": "68",
+      "chapter": "2",
+      "romaji": "ringo",
+      "dutch": "appel"
+    },
+    {
+      "id": "69",
+      "chapter": "2",
+      "romaji": "tenin",
+      "dutch": "winkelmedewerker"
+    },
+    {
+      "id": "70",
+      "chapter": "2",
+      "romaji": "shain",
+      "dutch": "bedrijfsmedewerker"
+    },
+    {
+      "id": "71",
+      "chapter": "2",
+      "romaji": "doitsu",
+      "dutch": "Duitsland"
+    },
+    {
+      "id": "72",
+      "chapter": "2",
+      "romaji": "amerika",
+      "dutch": "Amerika"
+    },
+    {
+      "id": "73",
+      "chapter": "2",
+      "romaji": "furansu",
+      "dutch": "Frankrijk"
+    },
+    {
+      "id": "74",
+      "chapter": "2",
+      "romaji": "berugii",
+      "dutch": "Belgie"
+    },
+    {
+      "id": "75",
+      "chapter": "2",
+      "romaji": "indo",
+      "dutch": "India"
+    },
+    {
+      "id": "76",
+      "chapter": "2",
+      "romaji": "indoneshia",
+      "dutch": "Indonesie"
+    },
+    {
+      "id": "77",
+      "chapter": "2",
+      "romaji": "sensei",
+      "dutch": "leraar/dokter"
+    },
+    {
+      "id": "78",
+      "chapter": "2",
+      "romaji": "senpai",
+      "dutch": "hoger in rang/meerdere/senior"
+    },
+    {
+      "id": "79",
+      "chapter": "2",
+      "romaji": "kouhai",
+      "dutch": "lager in rang/mindere/junior"
+    },
+    {
+      "id": "80",
+      "chapter": "2",
+      "romaji": "shachou",
+      "dutch": "directeur/CEO"
+    },
+    {
+      "id": "81",
+      "chapter": "2",
+      "romaji": "buchou",
+      "dutch": "afdelingshoofd (manager)"
+    },
+    {
+      "id": "82",
+      "chapter": "2",
+      "romaji": "kachou",
+      "dutch": "sectie/team hoofd (manager)"
+    },
+    {
+      "id": "83",
+      "chapter": "2",
+      "romaji": "kaisha",
+      "dutch": "bedrijf"
+    },
+    {
+      "id": "84",
+      "chapter": "2",
+      "romaji": "ginkou",
+      "dutch": "bank"
+    },
+    {
+      "id": "85",
+      "chapter": "2",
+      "romaji": "gakkou",
+      "dutch": "school"
+    },
+    {
+      "id": "86",
+      "chapter": "2",
+      "romaji": "daigaku",
+      "dutch": "universiteit"
+    },
+    {
+      "id": "87",
+      "chapter": "2",
+      "romaji": "seki",
+      "dutch": "plaats/plek"
+    },
+    {
+      "id": "88",
+      "chapter": "2",
+      "romaji": "modorimasu",
+      "dutch": "terugkeren"
+    },
+    {
+      "id": "89",
+      "chapter": "2",
+      "romaji": "shitsurei shimasu",
+      "dutch": "excuseer mij"
+    },
+    {
+      "id": "90",
+      "chapter": "2",
+      "romaji": "jugyou",
+      "dutch": "les"
+    },
+    {
+      "id": "91",
+      "chapter": "2",
+      "romaji": "hajimarimasu",
+      "dutch": "beginnen"
     }
   ],
   "chapters": [
