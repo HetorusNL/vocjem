@@ -545,6 +545,4200 @@
       "chapter": "2",
       "romaji": "hajimarimasu",
       "dutch": "beginnen"
+    },
+    {
+      "id": "92",
+      "chapter": "3",
+      "romaji": "denwa",
+      "dutch": "telefoon"
+    },
+    {
+      "id": "93",
+      "chapter": "3",
+      "romaji": "ban",
+      "dutch": "cijfer/nummer"
+    },
+    {
+      "id": "94",
+      "chapter": "3",
+      "romaji": "bangou",
+      "dutch": "nummer (reeks)"
+    },
+    {
+      "id": "95",
+      "chapter": "3",
+      "romaji": "sai",
+      "dutch": "telwoord voor leeftijd"
+    },
+    {
+      "id": "96",
+      "chapter": "3",
+      "romaji": "ja/dewa arimasen",
+      "dutch": "zijn in het negatief 'niet zijn'"
+    },
+    {
+      "id": "97",
+      "chapter": "3",
+      "romaji": "iie",
+      "dutch": "nee"
+    },
+    {
+      "id": "98",
+      "chapter": "3",
+      "romaji": "sumimasen (deshita)",
+      "dutch": "excuseer mij/sorry"
+    },
+    {
+      "id": "99",
+      "chapter": "3",
+      "romaji": "gomenasai",
+      "dutch": "sorry"
+    },
+    {
+      "id": "100",
+      "chapter": "3",
+      "romaji": "ikutsu",
+      "dutch": "hoe oud/hoeveel"
+    },
+    {
+      "id": "101",
+      "chapter": "3",
+      "romaji": "musume",
+      "dutch": "dochter"
+    },
+    {
+      "id": "102",
+      "chapter": "3",
+      "romaji": "musuko",
+      "dutch": "zoon"
+    },
+    {
+      "id": "103",
+      "chapter": "3",
+      "romaji": "saifu",
+      "dutch": "portemonee"
+    },
+    {
+      "id": "104",
+      "chapter": "3",
+      "romaji": "sou",
+      "dutch": "zo (dat is zo)"
+    },
+    {
+      "id": "105",
+      "chapter": "3",
+      "romaji": "keitai",
+      "dutch": "mobiele telefoon"
+    },
+    {
+      "id": "106",
+      "chapter": "3",
+      "romaji": "no",
+      "dutch": "streepje in telefoonnummers ( - )"
+    },
+    {
+      "id": "107",
+      "chapter": "3",
+      "romaji": "hatachi",
+      "dutch": "20 (in leeftijd)"
+    },
+    {
+      "id": "108",
+      "chapter": "3",
+      "romaji": "mondai",
+      "dutch": "probleem/opdracht"
+    },
+    {
+      "id": "109",
+      "chapter": "3",
+      "romaji": "kore wo douzo",
+      "dutch": "hier, alsjeblieft (als je wat geeft)"
+    },
+    {
+      "id": "110",
+      "chapter": "3",
+      "romaji": "tasukarimasu",
+      "dutch": "gered/mee geholpen worden"
+    },
+    {
+      "id": "111",
+      "chapter": "4",
+      "romaji": "toki",
+      "dutch": "tijd"
+    },
+    {
+      "id": "112",
+      "chapter": "4",
+      "romaji": "kara",
+      "dutch": "vanaf/begin"
+    },
+    {
+      "id": "113",
+      "chapter": "4",
+      "romaji": "made",
+      "dutch": "tot/einde"
+    },
+    {
+      "id": "114",
+      "chapter": "4",
+      "romaji": "ima",
+      "dutch": "op dit moment/nu"
+    },
+    {
+      "id": "115",
+      "chapter": "4",
+      "romaji": "nanji",
+      "dutch": "hoe laat"
+    },
+    {
+      "id": "116",
+      "chapter": "4",
+      "romaji": "ji",
+      "dutch": "telwoord voor tijd of uur"
+    },
+    {
+      "id": "117",
+      "chapter": "4",
+      "romaji": "gozen",
+      "dutch": "a.m. (00:00 tot 12:00)"
+    },
+    {
+      "id": "118",
+      "chapter": "4",
+      "romaji": "gogo",
+      "dutch": "p.m. (12:00 tot 23:59)"
+    },
+    {
+      "id": "119",
+      "chapter": "4",
+      "romaji": "dou itashimashite",
+      "dutch": "alstublieft/graag gedaan"
+    },
+    {
+      "id": "120",
+      "chapter": "4",
+      "romaji": "ashita",
+      "dutch": "morgen"
+    },
+    {
+      "id": "121",
+      "chapter": "4",
+      "romaji": "han",
+      "dutch": "half"
+    },
+    {
+      "id": "122",
+      "chapter": "4",
+      "romaji": "kinou",
+      "dutch": "gisteren"
+    },
+    {
+      "id": "123",
+      "chapter": "4",
+      "romaji": "asatte",
+      "dutch": "overmorgen"
+    },
+    {
+      "id": "124",
+      "chapter": "4",
+      "romaji": "ototoi",
+      "dutch": "eergisteren"
+    },
+    {
+      "id": "125",
+      "chapter": "4",
+      "romaji": "getsuyoubi",
+      "dutch": "maandag"
+    },
+    {
+      "id": "126",
+      "chapter": "4",
+      "romaji": "kayoubi",
+      "dutch": "dinsdag"
+    },
+    {
+      "id": "127",
+      "chapter": "4",
+      "romaji": "suiyoubi",
+      "dutch": "woensdag"
+    },
+    {
+      "id": "128",
+      "chapter": "4",
+      "romaji": "mokuyoubi",
+      "dutch": "donderdag"
+    },
+    {
+      "id": "129",
+      "chapter": "4",
+      "romaji": "kinyoubi",
+      "dutch": "vrijdag"
+    },
+    {
+      "id": "130",
+      "chapter": "4",
+      "romaji": "doyoubi",
+      "dutch": "zaterdag"
+    },
+    {
+      "id": "131",
+      "chapter": "4",
+      "romaji": "nichiyoubi",
+      "dutch": "zondag"
+    },
+    {
+      "id": "132",
+      "chapter": "4",
+      "romaji": "ie",
+      "dutch": "huis (een huis)"
+    },
+    {
+      "id": "133",
+      "chapter": "4",
+      "romaji": "uchi",
+      "dutch": "huis (eigen huis)"
+    },
+    {
+      "id": "134",
+      "chapter": "4",
+      "romaji": "depaato",
+      "dutch": "warenhuis"
+    },
+    {
+      "id": "135",
+      "chapter": "4",
+      "romaji": "sushiya",
+      "dutch": "sushi winkel"
+    },
+    {
+      "id": "136",
+      "chapter": "4",
+      "romaji": "mise",
+      "dutch": "winkel"
+    },
+    {
+      "id": "137",
+      "chapter": "4",
+      "romaji": "resutoran",
+      "dutch": "restaurant"
+    },
+    {
+      "id": "138",
+      "chapter": "4",
+      "romaji": "panya",
+      "dutch": "bakkerij"
+    },
+    {
+      "id": "139",
+      "chapter": "4",
+      "romaji": "kusuriya",
+      "dutch": "apotheek (medicijn winkel)"
+    },
+    {
+      "id": "140",
+      "chapter": "4",
+      "romaji": "kyou",
+      "dutch": "vandaag"
+    },
+    {
+      "id": "141",
+      "chapter": "4",
+      "romaji": "daijoubu",
+      "dutch": "goed"
+    },
+    {
+      "id": "142",
+      "chapter": "4",
+      "romaji": "taihen",
+      "dutch": "erg/vreselijk/veel"
+    },
+    {
+      "id": "143",
+      "chapter": "4",
+      "romaji": "shigoto",
+      "dutch": "werk"
+    },
+    {
+      "id": "144",
+      "chapter": "4",
+      "romaji": "nan deshou ka",
+      "dutch": "wat is er/wat zal het zijn"
+    },
+    {
+      "id": "145",
+      "chapter": "4",
+      "romaji": "gohan",
+      "dutch": "rijst/eten"
+    },
+    {
+      "id": "146",
+      "chapter": "4",
+      "romaji": "asagohan",
+      "dutch": "ontbijt"
+    },
+    {
+      "id": "147",
+      "chapter": "4",
+      "romaji": "hirugohan",
+      "dutch": "lunch"
+    },
+    {
+      "id": "148",
+      "chapter": "4",
+      "romaji": "bangohan",
+      "dutch": "diner/avondeten"
+    },
+    {
+      "id": "149",
+      "chapter": "4",
+      "romaji": "muri",
+      "dutch": "onmogelijk/onredelijk"
+    },
+    {
+      "id": "150",
+      "chapter": "5",
+      "romaji": "moshimoshi",
+      "dutch": "hallo (telefoon)"
+    },
+    {
+      "id": "151",
+      "chapter": "5",
+      "romaji": "raishuu",
+      "dutch": "volgende week"
+    },
+    {
+      "id": "152",
+      "chapter": "5",
+      "romaji": "kaigi",
+      "dutch": "vergadering"
+    },
+    {
+      "id": "153",
+      "chapter": "5",
+      "romaji": "ikimasu",
+      "dutch": "gaan"
+    },
+    {
+      "id": "154",
+      "chapter": "5",
+      "romaji": "kimasu",
+      "dutch": "komen"
+    },
+    {
+      "id": "155",
+      "chapter": "5",
+      "romaji": "dewa mata",
+      "dutch": "nou dan, tot ziens"
+    },
+    {
+      "id": "156",
+      "chapter": "5",
+      "romaji": "paatii",
+      "dutch": "feestje"
+    },
+    {
+      "id": "157",
+      "chapter": "5",
+      "romaji": "baa",
+      "dutch": "bar"
+    },
+    {
+      "id": "158",
+      "chapter": "5",
+      "romaji": "tsukimasu",
+      "dutch": "aankomen/arriveren"
+    },
+    {
+      "id": "159",
+      "chapter": "5",
+      "romaji": "amusuterudamu",
+      "dutch": "Amsterdam"
+    },
+    {
+      "id": "160",
+      "chapter": "5",
+      "romaji": "rotterudamu",
+      "dutch": "Rotterdam"
+    },
+    {
+      "id": "161",
+      "chapter": "5",
+      "romaji": "sukebeningen",
+      "dutch": "Scheveningen"
+    },
+    {
+      "id": "162",
+      "chapter": "5",
+      "romaji": "byouin",
+      "dutch": "ziekenhuis"
+    },
+    {
+      "id": "163",
+      "chapter": "5",
+      "romaji": "isha",
+      "dutch": "dokter"
+    },
+    {
+      "id": "164",
+      "chapter": "5",
+      "romaji": "honsha",
+      "dutch": "hoofdkantoor"
+    },
+    {
+      "id": "165",
+      "chapter": "5",
+      "romaji": "shisha",
+      "dutch": "regionaal kantoor/vestiging"
+    },
+    {
+      "id": "166",
+      "chapter": "5",
+      "romaji": "zannen",
+      "dutch": "jammer/spijtig"
+    },
+    {
+      "id": "167",
+      "chapter": "5",
+      "romaji": "kaerimasu",
+      "dutch": "terugkeren (naar huis/land)"
+    },
+    {
+      "id": "168",
+      "chapter": "5",
+      "romaji": "shi",
+      "dutch": "achtervoegsel stad"
+    },
+    {
+      "id": "169",
+      "chapter": "5",
+      "romaji": "machi",
+      "dutch": "dorp/kleinere stad"
+    },
+    {
+      "id": "170",
+      "chapter": "5",
+      "romaji": "inaka",
+      "dutch": "platteland/buiten de steden"
+    },
+    {
+      "id": "171",
+      "chapter": "5",
+      "romaji": "machinaka",
+      "dutch": "in de stad"
+    },
+    {
+      "id": "172",
+      "chapter": "5",
+      "romaji": "okaasan",
+      "dutch": "moeder (een moeder)"
+    },
+    {
+      "id": "173",
+      "chapter": "5",
+      "romaji": "haha",
+      "dutch": "moeder (van de spreker)"
+    },
+    {
+      "id": "174",
+      "chapter": "5",
+      "romaji": "otousan",
+      "dutch": "vader (een vader)"
+    },
+    {
+      "id": "175",
+      "chapter": "5",
+      "romaji": "chichi",
+      "dutch": "vader (van de spreker)"
+    },
+    {
+      "id": "176",
+      "chapter": "5",
+      "romaji": "piiaaru",
+      "dutch": "PR"
+    },
+    {
+      "id": "177",
+      "chapter": "5",
+      "romaji": "machiawase",
+      "dutch": "bijeenkomst"
+    },
+    {
+      "id": "178",
+      "chapter": "5",
+      "romaji": "okyakusama",
+      "dutch": "klant"
+    },
+    {
+      "id": "179",
+      "chapter": "5",
+      "romaji": "shuppatsu",
+      "dutch": "vertrek"
+    },
+    {
+      "id": "180",
+      "chapter": "5",
+      "romaji": "yoru",
+      "dutch": "avond"
+    },
+    {
+      "id": "181",
+      "chapter": "5",
+      "romaji": "saraishuu",
+      "dutch": "week na volgende week"
+    },
+    {
+      "id": "182",
+      "chapter": "5",
+      "romaji": "ofisu",
+      "dutch": "kantoor"
+    },
+    {
+      "id": "183",
+      "chapter": "5",
+      "romaji": "jimusho",
+      "dutch": "kantoor"
+    },
+    {
+      "id": "184",
+      "chapter": "6",
+      "romaji": "irasshaimase",
+      "dutch": "welkomstbegroeting in winkels"
+    },
+    {
+      "id": "185",
+      "chapter": "6",
+      "romaji": "okashi",
+      "dutch": "snoep/lekkernijtjes/snacks"
+    },
+    {
+      "id": "186",
+      "chapter": "6",
+      "romaji": "misete kudasai",
+      "dutch": "laat zien a.u.b."
+    },
+    {
+      "id": "187",
+      "chapter": "6",
+      "romaji": "wo kudasai",
+      "dutch": "(dit/dat) graag"
+    },
+    {
+      "id": "188",
+      "chapter": "6",
+      "romaji": "osechiryouri",
+      "dutch": "traditioneel nieuwjaarsgerecht"
+    },
+    {
+      "id": "189",
+      "chapter": "6",
+      "romaji": "mochi",
+      "dutch": "Japanse kleefrijst"
+    },
+    {
+      "id": "190",
+      "chapter": "6",
+      "romaji": "chokoreeto",
+      "dutch": "chocola"
+    },
+    {
+      "id": "191",
+      "chapter": "6",
+      "romaji": "tabemasu",
+      "dutch": "eten"
+    },
+    {
+      "id": "192",
+      "chapter": "6",
+      "romaji": "tsukurimasu",
+      "dutch": "maken"
+    },
+    {
+      "id": "193",
+      "chapter": "6",
+      "romaji": "osake",
+      "dutch": "alcohol"
+    },
+    {
+      "id": "194",
+      "chapter": "6",
+      "romaji": "nihonshu",
+      "dutch": "Japanse alcohol/rijstwijn (sake)"
+    },
+    {
+      "id": "195",
+      "chapter": "6",
+      "romaji": "oniku",
+      "dutch": "vlees"
+    },
+    {
+      "id": "196",
+      "chapter": "6",
+      "romaji": "yakiniku",
+      "dutch": "barbecuevlees"
+    },
+    {
+      "id": "197",
+      "chapter": "6",
+      "romaji": "okonomiyaki",
+      "dutch": "Japanse pannekoek"
+    },
+    {
+      "id": "198",
+      "chapter": "6",
+      "romaji": "nabe",
+      "dutch": "Japanse hotspot"
+    },
+    {
+      "id": "199",
+      "chapter": "6",
+      "romaji": "biiru",
+      "dutch": "bier"
+    },
+    {
+      "id": "200",
+      "chapter": "6",
+      "romaji": "wain",
+      "dutch": "wijn"
+    },
+    {
+      "id": "201",
+      "chapter": "6",
+      "romaji": "tshatsu",
+      "dutch": "T-shirt"
+    },
+    {
+      "id": "202",
+      "chapter": "6",
+      "romaji": "fuku",
+      "dutch": "kleding"
+    },
+    {
+      "id": "203",
+      "chapter": "6",
+      "romaji": "kamera",
+      "dutch": "camera"
+    },
+    {
+      "id": "204",
+      "chapter": "6",
+      "romaji": "jaketto",
+      "dutch": "jas"
+    },
+    {
+      "id": "205",
+      "chapter": "6",
+      "romaji": "kasa",
+      "dutch": "paraplu"
+    },
+    {
+      "id": "206",
+      "chapter": "6",
+      "romaji": "terebi",
+      "dutch": "televisie"
+    },
+    {
+      "id": "207",
+      "chapter": "6",
+      "romaji": "shinbun",
+      "dutch": "krant"
+    },
+    {
+      "id": "208",
+      "chapter": "6",
+      "romaji": "hiruyasumi",
+      "dutch": "lunchpauze"
+    },
+    {
+      "id": "209",
+      "chapter": "6",
+      "romaji": "natsuyasumi",
+      "dutch": "zomervakantie"
+    },
+    {
+      "id": "210",
+      "chapter": "6",
+      "romaji": "fuyuyasumi",
+      "dutch": "wintervakantie"
+    },
+    {
+      "id": "211",
+      "chapter": "6",
+      "romaji": "kaimasu",
+      "dutch": "kopen"
+    },
+    {
+      "id": "212",
+      "chapter": "6",
+      "romaji": "kore",
+      "dutch": "dit hier bij de spreker"
+    },
+    {
+      "id": "213",
+      "chapter": "6",
+      "romaji": "sore",
+      "dutch": "dat daar bij de luisteraar"
+    },
+    {
+      "id": "214",
+      "chapter": "6",
+      "romaji": "sochira",
+      "dutch": "daar (formeel), bij de luisteraar"
+    },
+    {
+      "id": "215",
+      "chapter": "6",
+      "romaji": "are",
+      "dutch": "daarginds, weg van de spreker en luisteraar"
+    },
+    {
+      "id": "216",
+      "chapter": "6",
+      "romaji": "achira",
+      "dutch": "daarginds (formeel), weg van de spreker en luisteraar"
+    },
+    {
+      "id": "217",
+      "chapter": "6",
+      "romaji": "mo",
+      "dutch": "ook"
+    },
+    {
+      "id": "218",
+      "chapter": "6",
+      "romaji": "ikaga desu ka",
+      "dutch": "hoe zal ... zijn?"
+    },
+    {
+      "id": "219",
+      "chapter": "6",
+      "romaji": "kashikomarimashita",
+      "dutch": "begrepen (beleefd)"
+    },
+    {
+      "id": "220",
+      "chapter": "6",
+      "romaji": "douzo goyukkuri",
+      "dutch": "neem rustig uw tijd"
+    },
+    {
+      "id": "221",
+      "chapter": "6",
+      "romaji": "yappari",
+      "dutch": "ook/toch"
+    },
+    {
+      "id": "222",
+      "chapter": "6",
+      "romaji": "menyuu",
+      "dutch": "menu"
+    },
+    {
+      "id": "223",
+      "chapter": "6",
+      "romaji": "muzukashii",
+      "dutch": "moeilijk/lastig"
+    },
+    {
+      "id": "224",
+      "chapter": "6",
+      "romaji": "oishii",
+      "dutch": "lekker"
+    },
+    {
+      "id": "225",
+      "chapter": "6",
+      "romaji": "zenbu",
+      "dutch": "alles"
+    },
+    {
+      "id": "226",
+      "chapter": "6",
+      "romaji": "demo",
+      "dutch": "maar (voegwoord voor zinsdelen)"
+    },
+    {
+      "id": "227",
+      "chapter": "7",
+      "romaji": "goran kudasai",
+      "dutch": "kijk a.u.b. (keigo)"
+    },
+    {
+      "id": "228",
+      "chapter": "7",
+      "romaji": "dore",
+      "dutch": "welke (van de meer dan twee)"
+    },
+    {
+      "id": "229",
+      "chapter": "7",
+      "romaji": "ame",
+      "dutch": "regen"
+    },
+    {
+      "id": "230",
+      "chapter": "7",
+      "romaji": "furimasu",
+      "dutch": "vallen (voor regen/sneeuw/etc)"
+    },
+    {
+      "id": "231",
+      "chapter": "7",
+      "romaji": "kangae",
+      "dutch": "idee/gedachte"
+    },
+    {
+      "id": "232",
+      "chapter": "7",
+      "romaji": "ii/yoi",
+      "dutch": "goed"
+    },
+    {
+      "id": "233",
+      "chapter": "7",
+      "romaji": "kono",
+      "dutch": "dit hier (met zn.)"
+    },
+    {
+      "id": "234",
+      "chapter": "7",
+      "romaji": "sono",
+      "dutch": "dat (met zn.)"
+    },
+    {
+      "id": "235",
+      "chapter": "7",
+      "romaji": "ano",
+      "dutch": "dat daarginds (met zn.)"
+    },
+    {
+      "id": "236",
+      "chapter": "7",
+      "romaji": "takai",
+      "dutch": "duur/hoog"
+    },
+    {
+      "id": "237",
+      "chapter": "7",
+      "romaji": "yasui",
+      "dutch": "goedkoop"
+    },
+    {
+      "id": "238",
+      "chapter": "7",
+      "romaji": "aoi",
+      "dutch": "blauw"
+    },
+    {
+      "id": "239",
+      "chapter": "7",
+      "romaji": "akai",
+      "dutch": "rood"
+    },
+    {
+      "id": "240",
+      "chapter": "7",
+      "romaji": "kiiroi",
+      "dutch": "geel"
+    },
+    {
+      "id": "241",
+      "chapter": "7",
+      "romaji": "chairoi",
+      "dutch": "bruin"
+    },
+    {
+      "id": "242",
+      "chapter": "7",
+      "romaji": "murasaki iro",
+      "dutch": "paars"
+    },
+    {
+      "id": "243",
+      "chapter": "7",
+      "romaji": "shiroi",
+      "dutch": "wit"
+    },
+    {
+      "id": "244",
+      "chapter": "7",
+      "romaji": "kuroi",
+      "dutch": "zwart"
+    },
+    {
+      "id": "245",
+      "chapter": "7",
+      "romaji": "midori iro",
+      "dutch": "groen"
+    },
+    {
+      "id": "246",
+      "chapter": "7",
+      "romaji": "pinku",
+      "dutch": "roze"
+    },
+    {
+      "id": "247",
+      "chapter": "7",
+      "romaji": "momoiro",
+      "dutch": "perzikkleur"
+    },
+    {
+      "id": "248",
+      "chapter": "7",
+      "romaji": "haiiro/gurei",
+      "dutch": "grijs"
+    },
+    {
+      "id": "249",
+      "chapter": "7",
+      "romaji": "orenji",
+      "dutch": "oranje/sinaasappel"
+    },
+    {
+      "id": "250",
+      "chapter": "7",
+      "romaji": "ookii",
+      "dutch": "groot"
+    },
+    {
+      "id": "251",
+      "chapter": "7",
+      "romaji": "chiisai",
+      "dutch": "klein"
+    },
+    {
+      "id": "252",
+      "chapter": "7",
+      "romaji": "kantan",
+      "dutch": "makkelijk/simpel"
+    },
+    {
+      "id": "253",
+      "chapter": "7",
+      "romaji": "hidoi",
+      "dutch": "gemeen"
+    },
+    {
+      "id": "254",
+      "chapter": "7",
+      "romaji": "yasashii",
+      "dutch": "lief/aardig"
+    },
+    {
+      "id": "255",
+      "chapter": "7",
+      "romaji": "warui",
+      "dutch": "slecht"
+    },
+    {
+      "id": "256",
+      "chapter": "7",
+      "romaji": "atarashii",
+      "dutch": "nieuw"
+    },
+    {
+      "id": "257",
+      "chapter": "7",
+      "romaji": "furui",
+      "dutch": "oud"
+    },
+    {
+      "id": "258",
+      "chapter": "7",
+      "romaji": "nigiyaka",
+      "dutch": "levendig"
+    },
+    {
+      "id": "259",
+      "chapter": "7",
+      "romaji": "benri",
+      "dutch": "handig"
+    },
+    {
+      "id": "260",
+      "chapter": "7",
+      "romaji": "omatsuri",
+      "dutch": "festival"
+    },
+    {
+      "id": "261",
+      "chapter": "7",
+      "romaji": "kirei",
+      "dutch": "mooi"
+    },
+    {
+      "id": "262",
+      "chapter": "7",
+      "romaji": "nomimono",
+      "dutch": "drinken (zn.)"
+    },
+    {
+      "id": "263",
+      "chapter": "7",
+      "romaji": "tabemono",
+      "dutch": "eten (zn.)"
+    },
+    {
+      "id": "264",
+      "chapter": "7",
+      "romaji": "suutsukeesu",
+      "dutch": "koffer"
+    },
+    {
+      "id": "265",
+      "chapter": "7",
+      "romaji": "hairimasu",
+      "dutch": "naar binnen gaan"
+    },
+    {
+      "id": "266",
+      "chapter": "7",
+      "romaji": "docchi",
+      "dutch": "welke/waar"
+    },
+    {
+      "id": "267",
+      "chapter": "7",
+      "romaji": "dochira",
+      "dutch": "welke/waar (beleefd)"
+    },
+    {
+      "id": "268",
+      "chapter": "7",
+      "romaji": "maa maa",
+      "dutch": "ik vind het niet echt wat"
+    },
+    {
+      "id": "269",
+      "chapter": "7",
+      "romaji": "ocha",
+      "dutch": "thee"
+    },
+    {
+      "id": "270",
+      "chapter": "7",
+      "romaji": "mizu",
+      "dutch": "water"
+    },
+    {
+      "id": "271",
+      "chapter": "7",
+      "romaji": "chotto matte",
+      "dutch": "wacht eens even"
+    },
+    {
+      "id": "272",
+      "chapter": "8",
+      "romaji": "gogatsu",
+      "dutch": "mei (5e maand)"
+    },
+    {
+      "id": "273",
+      "chapter": "8",
+      "romaji": "futsuka",
+      "dutch": "de 2e (kalenderdag)"
+    },
+    {
+      "id": "274",
+      "chapter": "8",
+      "romaji": "dare to",
+      "dutch": "met wie"
+    },
+    {
+      "id": "275",
+      "chapter": "8",
+      "romaji": "hi",
+      "dutch": "dag"
+    },
+    {
+      "id": "276",
+      "chapter": "8",
+      "romaji": "nichi",
+      "dutch": "dag"
+    },
+    {
+      "id": "277",
+      "chapter": "8",
+      "romaji": "hatarakimasu",
+      "dutch": "werken"
+    },
+    {
+      "id": "278",
+      "chapter": "8",
+      "romaji": "itsu",
+      "dutch": "wanneer"
+    },
+    {
+      "id": "279",
+      "chapter": "8",
+      "romaji": "nani (w)o shimasu ka",
+      "dutch": "wat ga je doen?"
+    },
+    {
+      "id": "280",
+      "chapter": "8",
+      "romaji": "nannichi",
+      "dutch": "welke dag/kalenderdag"
+    },
+    {
+      "id": "281",
+      "chapter": "8",
+      "romaji": "nangatsu",
+      "dutch": "welke maand"
+    },
+    {
+      "id": "282",
+      "chapter": "8",
+      "romaji": "kongetsu",
+      "dutch": "deze maand"
+    },
+    {
+      "id": "283",
+      "chapter": "8",
+      "romaji": "raigetsu",
+      "dutch": "volgende maand"
+    },
+    {
+      "id": "284",
+      "chapter": "8",
+      "romaji": "omoshiroi",
+      "dutch": "interessant/leuk"
+    },
+    {
+      "id": "285",
+      "chapter": "8",
+      "romaji": "tanoshii",
+      "dutch": "leuk/gezellig"
+    },
+    {
+      "id": "286",
+      "chapter": "8",
+      "romaji": "tsumaranai",
+      "dutch": "saai"
+    },
+    {
+      "id": "287",
+      "chapter": "8",
+      "romaji": "atsui",
+      "dutch": "warm (klimaat)"
+    },
+    {
+      "id": "288",
+      "chapter": "8",
+      "romaji": "samui",
+      "dutch": "koud (klimaat)"
+    },
+    {
+      "id": "289",
+      "chapter": "8",
+      "romaji": "atatakai",
+      "dutch": "warm (gevoel)"
+    },
+    {
+      "id": "290",
+      "chapter": "8",
+      "romaji": "tsumetai",
+      "dutch": "koud (gevoel)"
+    },
+    {
+      "id": "291",
+      "chapter": "8",
+      "romaji": "chikai",
+      "dutch": "dichtbij"
+    },
+    {
+      "id": "292",
+      "chapter": "8",
+      "romaji": "tooi",
+      "dutch": "ver"
+    },
+    {
+      "id": "293",
+      "chapter": "8",
+      "romaji": "isogashii",
+      "dutch": "druk"
+    },
+    {
+      "id": "294",
+      "chapter": "8",
+      "romaji": "hima",
+      "dutch": "vrij"
+    },
+    {
+      "id": "295",
+      "chapter": "8",
+      "romaji": "mazui",
+      "dutch": "vies"
+    },
+    {
+      "id": "296",
+      "chapter": "8",
+      "romaji": "suki",
+      "dutch": "houden van/leuk vinden"
+    },
+    {
+      "id": "297",
+      "chapter": "8",
+      "romaji": "kirai",
+      "dutch": "haten"
+    },
+    {
+      "id": "298",
+      "chapter": "8",
+      "romaji": "yuumei",
+      "dutch": "beroemd/bekend"
+    },
+    {
+      "id": "299",
+      "chapter": "8",
+      "romaji": "genki",
+      "dutch": "gezond/energiek"
+    },
+    {
+      "id": "300",
+      "chapter": "8",
+      "romaji": "iroiro",
+      "dutch": "verschillende (soorten)/van alles"
+    },
+    {
+      "id": "301",
+      "chapter": "8",
+      "romaji": "tenki",
+      "dutch": "weer"
+    },
+    {
+      "id": "302",
+      "chapter": "8",
+      "romaji": "umaremashita",
+      "dutch": "geboren (ww van geboorte)"
+    },
+    {
+      "id": "303",
+      "chapter": "8",
+      "romaji": "shinema",
+      "dutch": "bioscoop (cinema)"
+    },
+    {
+      "id": "304",
+      "chapter": "8",
+      "romaji": "eigakan",
+      "dutch": "bioscoop"
+    },
+    {
+      "id": "305",
+      "chapter": "8",
+      "romaji": "soshite",
+      "dutch": "en (een voegwoord voor zinsdelen)"
+    },
+    {
+      "id": "306",
+      "chapter": "8",
+      "romaji": "soudanshimasu",
+      "dutch": "overleggen/consult/advies"
+    },
+    {
+      "id": "307",
+      "chapter": "8",
+      "romaji": "tsutaemasu",
+      "dutch": "doorgeven"
+    },
+    {
+      "id": "308",
+      "chapter": "8",
+      "romaji": "hidzuke",
+      "dutch": "datum"
+    },
+    {
+      "id": "309",
+      "chapter": "8",
+      "romaji": "kekkou desu",
+      "dutch": "nee, bedankt"
+    },
+    {
+      "id": "310",
+      "chapter": "8",
+      "romaji": "osusume",
+      "dutch": "aanbeveling"
+    },
+    {
+      "id": "311",
+      "chapter": "8",
+      "romaji": "koohii",
+      "dutch": "koffie"
+    },
+    {
+      "id": "312",
+      "chapter": "8",
+      "romaji": "suteki",
+      "dutch": "geweldig"
+    },
+    {
+      "id": "313",
+      "chapter": "8",
+      "romaji": "otanjoubi",
+      "dutch": "verjaardag"
+    },
+    {
+      "id": "314",
+      "chapter": "8",
+      "romaji": "koko",
+      "dutch": "hier"
+    },
+    {
+      "id": "315",
+      "chapter": "8",
+      "romaji": "sore ni",
+      "dutch": "en daarbij/bovendien"
+    },
+    {
+      "id": "316",
+      "chapter": "9",
+      "romaji": "to",
+      "dutch": "en"
+    },
+    {
+      "id": "317",
+      "chapter": "9",
+      "romaji": "naruhodo",
+      "dutch": "ik zie het/ik begrijp het"
+    },
+    {
+      "id": "318",
+      "chapter": "9",
+      "romaji": "arimasu",
+      "dutch": "bevinden/hebben (niet levend)"
+    },
+    {
+      "id": "319",
+      "chapter": "9",
+      "romaji": "mou sugu",
+      "dutch": "bijna"
+    },
+    {
+      "id": "320",
+      "chapter": "9",
+      "romaji": "maji",
+      "dutch": "echt"
+    },
+    {
+      "id": "321",
+      "chapter": "9",
+      "romaji": "umi",
+      "dutch": "strand(cultuur dingetje)/zee/oceaan"
+    },
+    {
+      "id": "322",
+      "chapter": "9",
+      "romaji": "otera",
+      "dutch": "tempel"
+    },
+    {
+      "id": "323",
+      "chapter": "9",
+      "romaji": "ippai",
+      "dutch": "veel"
+    },
+    {
+      "id": "324",
+      "chapter": "9",
+      "romaji": "kazoku",
+      "dutch": "familie"
+    },
+    {
+      "id": "325",
+      "chapter": "9",
+      "romaji": "imouto",
+      "dutch": "zusje (jonger)"
+    },
+    {
+      "id": "326",
+      "chapter": "9",
+      "romaji": "otouto",
+      "dutch": "broertje (jonger)"
+    },
+    {
+      "id": "327",
+      "chapter": "9",
+      "romaji": "chirigami",
+      "dutch": "toiletpapier"
+    },
+    {
+      "id": "328",
+      "chapter": "9",
+      "romaji": "toirettopeepaa",
+      "dutch": "toiletpapier"
+    },
+    {
+      "id": "329",
+      "chapter": "9",
+      "romaji": "ga imasu",
+      "dutch": "bevinden/hebben (levend)"
+    },
+    {
+      "id": "330",
+      "chapter": "9",
+      "romaji": "tsuma",
+      "dutch": "echtgenote (van jezelf)"
+    },
+    {
+      "id": "331",
+      "chapter": "9",
+      "romaji": "okusan",
+      "dutch": "echtgenote (van iemand anders)"
+    },
+    {
+      "id": "332",
+      "chapter": "9",
+      "romaji": "shujin",
+      "dutch": "echtgenoot (van jezelf)"
+    },
+    {
+      "id": "333",
+      "chapter": "9",
+      "romaji": "otto",
+      "dutch": "echtgenoot (een, eigen)"
+    },
+    {
+      "id": "334",
+      "chapter": "9",
+      "romaji": "ane",
+      "dutch": "zus (oudere, eigen)"
+    },
+    {
+      "id": "335",
+      "chapter": "9",
+      "romaji": "oneesan",
+      "dutch": "zus (oudere, met respect)"
+    },
+    {
+      "id": "336",
+      "chapter": "9",
+      "romaji": "ani",
+      "dutch": "broer (oudere, eigen)"
+    },
+    {
+      "id": "337",
+      "chapter": "9",
+      "romaji": "oniisan",
+      "dutch": "broer (oudere, met respect)"
+    },
+    {
+      "id": "338",
+      "chapter": "9",
+      "romaji": "otaerai",
+      "dutch": "toilet"
+    },
+    {
+      "id": "339",
+      "chapter": "9",
+      "romaji": "kouen",
+      "dutch": "park"
+    },
+    {
+      "id": "340",
+      "chapter": "9",
+      "romaji": "gyouen",
+      "dutch": "keizerlijk(e) park/tuin"
+    },
+    {
+      "id": "341",
+      "chapter": "9",
+      "romaji": "tokoro",
+      "dutch": "plek (abstract)"
+    },
+    {
+      "id": "342",
+      "chapter": "9",
+      "romaji": "hen",
+      "dutch": "gebied/regio"
+    },
+    {
+      "id": "343",
+      "chapter": "9",
+      "romaji": "heya",
+      "dutch": "kamer"
+    },
+    {
+      "id": "344",
+      "chapter": "9",
+      "romaji": "hiroba",
+      "dutch": "plein/open gebied/plaza"
+    },
+    {
+      "id": "345",
+      "chapter": "9",
+      "romaji": "sutaba",
+      "dutch": "Starbucks"
+    },
+    {
+      "id": "346",
+      "chapter": "9",
+      "romaji": "makudonarudo",
+      "dutch": "McDonald's"
+    },
+    {
+      "id": "347",
+      "chapter": "9",
+      "romaji": "makudo",
+      "dutch": "McDonald's (Kansai afkorting)"
+    },
+    {
+      "id": "348",
+      "chapter": "9",
+      "romaji": "hyakuenshoppu",
+      "dutch": "100 yen winkel"
+    },
+    {
+      "id": "349",
+      "chapter": "9",
+      "romaji": "konbini",
+      "dutch": "convenience store"
+    },
+    {
+      "id": "350",
+      "chapter": "9",
+      "romaji": "painappuru",
+      "dutch": "ananas"
+    },
+    {
+      "id": "351",
+      "chapter": "9",
+      "romaji": "hachikoumae",
+      "dutch": "ontmoetingsplek in Shibuya"
+    },
+    {
+      "id": "352",
+      "chapter": "9",
+      "romaji": "biru",
+      "dutch": "gebouw"
+    },
+    {
+      "id": "353",
+      "chapter": "9",
+      "romaji": "hitsuyou(na)",
+      "dutch": "benodigde"
+    },
+    {
+      "id": "354",
+      "chapter": "9",
+      "romaji": "hoka no",
+      "dutch": "andere"
+    },
+    {
+      "id": "355",
+      "chapter": "9",
+      "romaji": "keekiya",
+      "dutch": "banketbakkerij"
+    },
+    {
+      "id": "356",
+      "chapter": "9",
+      "romaji": "kaigi shitsu",
+      "dutch": "vergaderruimte"
+    },
+    {
+      "id": "357",
+      "chapter": "9",
+      "romaji": "nado",
+      "dutch": "enzovoort"
+    },
+    {
+      "id": "358",
+      "chapter": "9",
+      "romaji": "ato",
+      "dutch": "na (tijdsbepaling)"
+    },
+    {
+      "id": "359",
+      "chapter": "9",
+      "romaji": "dokoka",
+      "dutch": "ergens"
+    },
+    {
+      "id": "360",
+      "chapter": "9",
+      "romaji": "donna",
+      "dutch": "wat voor"
+    },
+    {
+      "id": "361",
+      "chapter": "9",
+      "romaji": "basho",
+      "dutch": "plek (gericht/direct)"
+    },
+    {
+      "id": "362",
+      "chapter": "9",
+      "romaji": "ichiban",
+      "dutch": "eerste/meeste"
+    },
+    {
+      "id": "363",
+      "chapter": "9",
+      "romaji": "arerugii",
+      "dutch": "allergie"
+    },
+    {
+      "id": "364",
+      "chapter": "9",
+      "romaji": "beddo",
+      "dutch": "bed"
+    },
+    {
+      "id": "365",
+      "chapter": "9",
+      "romaji": "asoko",
+      "dutch": "daar/daarginds"
+    },
+    {
+      "id": "366",
+      "chapter": "9",
+      "romaji": "shirimasen ka",
+      "dutch": "weet je dat niet?"
+    },
+    {
+      "id": "367",
+      "chapter": "9",
+      "romaji": "sukaato",
+      "dutch": "rok"
+    },
+    {
+      "id": "368",
+      "chapter": "9",
+      "romaji": "shoppingu mooru",
+      "dutch": "winkelcentrum"
+    },
+    {
+      "id": "369",
+      "chapter": "10",
+      "romaji": "shirimasu",
+      "dutch": "weten"
+    },
+    {
+      "id": "370",
+      "chapter": "10",
+      "romaji": "ki wo tsukemasu",
+      "dutch": "wees/doe voorzichtig"
+    },
+    {
+      "id": "371",
+      "chapter": "10",
+      "romaji": "kaette kudasai",
+      "dutch": "ga naar huis a.u.b."
+    },
+    {
+      "id": "372",
+      "chapter": "10",
+      "romaji": "doumo",
+      "dutch": "dank je"
+    },
+    {
+      "id": "373",
+      "chapter": "10",
+      "romaji": "reizouko",
+      "dutch": "koelkast"
+    },
+    {
+      "id": "374",
+      "chapter": "10",
+      "romaji": "kudamono",
+      "dutch": "fruit"
+    },
+    {
+      "id": "375",
+      "chapter": "10",
+      "romaji": "hontou",
+      "dutch": "echt/waarheid/correct"
+    },
+    {
+      "id": "376",
+      "chapter": "10",
+      "romaji": "hontou ni",
+      "dutch": "echt/heel (vergrotende stap)"
+    },
+    {
+      "id": "377",
+      "chapter": "10",
+      "romaji": "hontou desu ka",
+      "dutch": "echt waar?"
+    },
+    {
+      "id": "378",
+      "chapter": "10",
+      "romaji": "yasai",
+      "dutch": "groente"
+    },
+    {
+      "id": "379",
+      "chapter": "10",
+      "romaji": "hourensou",
+      "dutch": "spinazie"
+    },
+    {
+      "id": "380",
+      "chapter": "10",
+      "romaji": "keshigomu",
+      "dutch": "gum (om te wissen)"
+    },
+    {
+      "id": "381",
+      "chapter": "10",
+      "romaji": "enpitsu",
+      "dutch": "potlood"
+    },
+    {
+      "id": "382",
+      "chapter": "10",
+      "romaji": "kaado",
+      "dutch": "kaart"
+    },
+    {
+      "id": "383",
+      "chapter": "10",
+      "romaji": "genkin",
+      "dutch": "cash/geld"
+    },
+    {
+      "id": "384",
+      "chapter": "10",
+      "romaji": "yuubinkyoku",
+      "dutch": "postkantoor"
+    },
+    {
+      "id": "385",
+      "chapter": "10",
+      "romaji": "kami",
+      "dutch": "haar (op je hoofd)"
+    },
+    {
+      "id": "386",
+      "chapter": "10",
+      "romaji": "kami",
+      "dutch": "god"
+    },
+    {
+      "id": "387",
+      "chapter": "10",
+      "romaji": "atama",
+      "dutch": "hoofd"
+    },
+    {
+      "id": "388",
+      "chapter": "10",
+      "romaji": "hikidashi",
+      "dutch": "la/lade"
+    },
+    {
+      "id": "389",
+      "chapter": "10",
+      "romaji": "poketto",
+      "dutch": "broekzak"
+    },
+    {
+      "id": "390",
+      "chapter": "10",
+      "romaji": "kumo",
+      "dutch": "wolk(en)"
+    },
+    {
+      "id": "391",
+      "chapter": "10",
+      "romaji": "ue",
+      "dutch": "boven/op"
+    },
+    {
+      "id": "392",
+      "chapter": "10",
+      "romaji": "shita",
+      "dutch": "onder"
+    },
+    {
+      "id": "393",
+      "chapter": "10",
+      "romaji": "mae",
+      "dutch": "voor"
+    },
+    {
+      "id": "394",
+      "chapter": "10",
+      "romaji": "migi",
+      "dutch": "rechts"
+    },
+    {
+      "id": "395",
+      "chapter": "10",
+      "romaji": "hidari",
+      "dutch": "links"
+    },
+    {
+      "id": "396",
+      "chapter": "10",
+      "romaji": "tonari",
+      "dutch": "naast"
+    },
+    {
+      "id": "397",
+      "chapter": "10",
+      "romaji": "naka",
+      "dutch": "binnen/in"
+    },
+    {
+      "id": "398",
+      "chapter": "10",
+      "romaji": "soto",
+      "dutch": "buiten"
+    },
+    {
+      "id": "399",
+      "chapter": "10",
+      "romaji": "aida",
+      "dutch": "tussen"
+    },
+    {
+      "id": "400",
+      "chapter": "10",
+      "romaji": "chikaku",
+      "dutch": "dicht bij/in de buurt"
+    },
+    {
+      "id": "401",
+      "chapter": "10",
+      "romaji": "mango",
+      "dutch": "mango"
+    },
+    {
+      "id": "402",
+      "chapter": "10",
+      "romaji": "chiizukeeki",
+      "dutch": "cheesecake"
+    },
+    {
+      "id": "403",
+      "chapter": "10",
+      "romaji": "bentouya",
+      "dutch": "lunchbox winkel"
+    },
+    {
+      "id": "404",
+      "chapter": "10",
+      "romaji": "ojamashimasu",
+      "dutch": "excuseer me dat ik stoor"
+    },
+    {
+      "id": "405",
+      "chapter": "10",
+      "romaji": "hora",
+      "dutch": "kijk (expressie)"
+    },
+    {
+      "id": "406",
+      "chapter": "10",
+      "romaji": "ara",
+      "dutch": "oh (expressie)"
+    },
+    {
+      "id": "407",
+      "chapter": "10",
+      "romaji": "miemasu",
+      "dutch": "kunnen zien"
+    },
+    {
+      "id": "408",
+      "chapter": "10",
+      "romaji": "tashikani",
+      "dutch": "inderdaad/zeker/met zekerheid"
+    },
+    {
+      "id": "409",
+      "chapter": "10",
+      "romaji": "kedo",
+      "dutch": "maar"
+    },
+    {
+      "id": "410",
+      "chapter": "10",
+      "romaji": "dono",
+      "dutch": "welke (met zn.)"
+    },
+    {
+      "id": "411",
+      "chapter": "10",
+      "romaji": "haitte imasen",
+      "dutch": "niet in zitten/zijn"
+    },
+    {
+      "id": "412",
+      "chapter": "10",
+      "romaji": "ichigo",
+      "dutch": "aardbei"
+    },
+    {
+      "id": "413",
+      "chapter": "10",
+      "romaji": "mata ikimashou",
+      "dutch": "laten we weer (een keer) gaan"
+    },
+    {
+      "id": "414",
+      "chapter": "11",
+      "romaji": "ushiro",
+      "dutch": "achter"
+    },
+    {
+      "id": "415",
+      "chapter": "11",
+      "romaji": "wo shimasu",
+      "dutch": "... doen"
+    },
+    {
+      "id": "416",
+      "chapter": "11",
+      "romaji": "mina san",
+      "dutch": "iedereen (beleefder dan minna)"
+    },
+    {
+      "id": "417",
+      "chapter": "11",
+      "romaji": "kaimono",
+      "dutch": "winkelgoederen/het winkelen"
+    },
+    {
+      "id": "418",
+      "chapter": "11",
+      "romaji": "doushite",
+      "dutch": "waarom"
+    },
+    {
+      "id": "419",
+      "chapter": "11",
+      "romaji": "nanimo",
+      "dutch": "niks"
+    },
+    {
+      "id": "420",
+      "chapter": "11",
+      "romaji": "nanimo arimasen",
+      "dutch": "er is niks (aan de hand)"
+    },
+    {
+      "id": "421",
+      "chapter": "11",
+      "romaji": "ginza",
+      "dutch": "Ginza district in Japan"
+    },
+    {
+      "id": "422",
+      "chapter": "11",
+      "romaji": "yomimasu",
+      "dutch": "lezen"
+    },
+    {
+      "id": "423",
+      "chapter": "11",
+      "romaji": "mimasu",
+      "dutch": "kijken"
+    },
+    {
+      "id": "424",
+      "chapter": "11",
+      "romaji": "benkyou",
+      "dutch": "studie"
+    },
+    {
+      "id": "425",
+      "chapter": "11",
+      "romaji": "tenisu",
+      "dutch": "tennis"
+    },
+    {
+      "id": "426",
+      "chapter": "11",
+      "romaji": "senshuu",
+      "dutch": "vorige week"
+    },
+    {
+      "id": "427",
+      "chapter": "11",
+      "romaji": "sengetsu",
+      "dutch": "vorige maand"
+    },
+    {
+      "id": "428",
+      "chapter": "11",
+      "romaji": "kyonen",
+      "dutch": "vorig jaar"
+    },
+    {
+      "id": "429",
+      "chapter": "11",
+      "romaji": "washoku",
+      "dutch": "Japans eten"
+    },
+    {
+      "id": "430",
+      "chapter": "11",
+      "romaji": "chuuka(ryouri)",
+      "dutch": "Chinees eten"
+    },
+    {
+      "id": "431",
+      "chapter": "11",
+      "romaji": "ryouri",
+      "dutch": "het koken/cuisine(keuken)/gerecht"
+    },
+    {
+      "id": "432",
+      "chapter": "11",
+      "romaji": "dou deshita ka",
+      "dutch": "hoe was het?"
+    },
+    {
+      "id": "433",
+      "chapter": "11",
+      "romaji": "geemu",
+      "dutch": "game"
+    },
+    {
+      "id": "434",
+      "chapter": "11",
+      "romaji": "kintore",
+      "dutch": "fitness/spiertraining"
+    },
+    {
+      "id": "435",
+      "chapter": "11",
+      "romaji": "sore nara ii desu",
+      "dutch": "in dat geval is het goed"
+    },
+    {
+      "id": "436",
+      "chapter": "11",
+      "romaji": "yuuenchi",
+      "dutch": "pretpark"
+    },
+    {
+      "id": "437",
+      "chapter": "11",
+      "romaji": "asobimasu",
+      "dutch": "spelen/chillen"
+    },
+    {
+      "id": "438",
+      "chapter": "11",
+      "romaji": "chanto",
+      "dutch": "fatsoenlijk, zo goed mogelijk, proper"
+    },
+    {
+      "id": "439",
+      "chapter": "11",
+      "romaji": "daiji ni shimasu",
+      "dutch": "koesteren/met veel zorg"
+    },
+    {
+      "id": "440",
+      "chapter": "11",
+      "romaji": "tanoshimi",
+      "dutch": "naar uitkijken/plezier in hebben"
+    },
+    {
+      "id": "441",
+      "chapter": "11",
+      "romaji": "yatta",
+      "dutch": "joepie/yes/yay"
+    },
+    {
+      "id": "442",
+      "chapter": "11",
+      "romaji": "nihongo",
+      "dutch": "Japans (taal)"
+    },
+    {
+      "id": "443",
+      "chapter": "11",
+      "romaji": "dorama",
+      "dutch": "drama (serie)"
+    },
+    {
+      "id": "444",
+      "chapter": "11",
+      "romaji": "sooda",
+      "dutch": "frisdrank"
+    },
+    {
+      "id": "445",
+      "chapter": "11",
+      "romaji": "sakkaa",
+      "dutch": "voetbal"
+    },
+    {
+      "id": "446",
+      "chapter": "11",
+      "romaji": "manga",
+      "dutch": "Japanse strip"
+    },
+    {
+      "id": "447",
+      "chapter": "11",
+      "romaji": "kesa",
+      "dutch": "vanochtend"
+    },
+    {
+      "id": "448",
+      "chapter": "12",
+      "romaji": "supootsu",
+      "dutch": "sport"
+    },
+    {
+      "id": "449",
+      "chapter": "12",
+      "romaji": "nan(i) de",
+      "dutch": "met wat"
+    },
+    {
+      "id": "450",
+      "chapter": "12",
+      "romaji": "junbi",
+      "dutch": "voorbereiding"
+    },
+    {
+      "id": "451",
+      "chapter": "12",
+      "romaji": "bikkuri",
+      "dutch": "schrik/verbazing"
+    },
+    {
+      "id": "452",
+      "chapter": "12",
+      "romaji": "toshokan",
+      "dutch": "bibliotheek"
+    },
+    {
+      "id": "453",
+      "chapter": "12",
+      "romaji": "issho ni",
+      "dutch": "samen"
+    },
+    {
+      "id": "454",
+      "chapter": "12",
+      "romaji": "basu",
+      "dutch": "bus"
+    },
+    {
+      "id": "455",
+      "chapter": "12",
+      "romaji": "basu noriba",
+      "dutch": "busstation"
+    },
+    {
+      "id": "456",
+      "chapter": "12",
+      "romaji": "basutei",
+      "dutch": "bushalte"
+    },
+    {
+      "id": "457",
+      "chapter": "12",
+      "romaji": "densha",
+      "dutch": "trein"
+    },
+    {
+      "id": "458",
+      "chapter": "12",
+      "romaji": "eki",
+      "dutch": "station"
+    },
+    {
+      "id": "459",
+      "chapter": "12",
+      "romaji": "chikatetsu",
+      "dutch": "metro"
+    },
+    {
+      "id": "460",
+      "chapter": "12",
+      "romaji": "jitensha",
+      "dutch": "fiets"
+    },
+    {
+      "id": "461",
+      "chapter": "12",
+      "romaji": "fune",
+      "dutch": "veerboot/boot"
+    },
+    {
+      "id": "462",
+      "chapter": "12",
+      "romaji": "hikouki",
+      "dutch": "vliegtuig"
+    },
+    {
+      "id": "463",
+      "chapter": "12",
+      "romaji": "kuukou",
+      "dutch": "vliegveld"
+    },
+    {
+      "id": "464",
+      "chapter": "12",
+      "romaji": "takushii",
+      "dutch": "taxi"
+    },
+    {
+      "id": "465",
+      "chapter": "12",
+      "romaji": "takushii noriba",
+      "dutch": "taxistandplaats"
+    },
+    {
+      "id": "466",
+      "chapter": "12",
+      "romaji": "kippu uriba",
+      "dutch": "ticketverkoop plaats"
+    },
+    {
+      "id": "467",
+      "chapter": "12",
+      "romaji": "sanpo",
+      "dutch": "wandeling"
+    },
+    {
+      "id": "468",
+      "chapter": "12",
+      "romaji": "shitsumon",
+      "dutch": "vraag"
+    },
+    {
+      "id": "469",
+      "chapter": "12",
+      "romaji": "tyokou",
+      "dutch": "reis"
+    },
+    {
+      "id": "470",
+      "chapter": "12",
+      "romaji": "hitori",
+      "dutch": "alleen/1 persoon"
+    },
+    {
+      "id": "471",
+      "chapter": "12",
+      "romaji": "futari",
+      "dutch": "2 personen"
+    },
+    {
+      "id": "472",
+      "chapter": "12",
+      "romaji": "sannin",
+      "dutch": "3 personen"
+    },
+    {
+      "id": "473",
+      "chapter": "12",
+      "romaji": "yonin",
+      "dutch": "4 personen"
+    },
+    {
+      "id": "474",
+      "chapter": "12",
+      "romaji": "~nin",
+      "dutch": "telwoord voor personen"
+    },
+    {
+      "id": "475",
+      "chapter": "12",
+      "romaji": "shichinin",
+      "dutch": "7 personen"
+    },
+    {
+      "id": "476",
+      "chapter": "12",
+      "romaji": "nannin",
+      "dutch": "hoeveel personen"
+    },
+    {
+      "id": "477",
+      "chapter": "12",
+      "romaji": "itsumo",
+      "dutch": "altijd"
+    },
+    {
+      "id": "478",
+      "chapter": "12",
+      "romaji": "taitei",
+      "dutch": "over het algemeen"
+    },
+    {
+      "id": "479",
+      "chapter": "12",
+      "romaji": "yoku",
+      "dutch": "vaak"
+    },
+    {
+      "id": "480",
+      "chapter": "12",
+      "romaji": "tokidoki",
+      "dutch": "soms"
+    },
+    {
+      "id": "481",
+      "chapter": "12",
+      "romaji": "tama ni",
+      "dutch": "soms"
+    },
+    {
+      "id": "482",
+      "chapter": "12",
+      "romaji": "amari",
+      "dutch": "niet zo/amper"
+    },
+    {
+      "id": "483",
+      "chapter": "12",
+      "romaji": "zenzen",
+      "dutch": "nooit/helemaal niet"
+    },
+    {
+      "id": "484",
+      "chapter": "12",
+      "romaji": "atsumarimasu",
+      "dutch": "verzamelen"
+    },
+    {
+      "id": "485",
+      "chapter": "12",
+      "romaji": "kocchi kocchi",
+      "dutch": "hier (informeel)"
+    },
+    {
+      "id": "486",
+      "chapter": "12",
+      "romaji": "eakon",
+      "dutch": "airco"
+    },
+    {
+      "id": "487",
+      "chapter": "12",
+      "romaji": "daisuki",
+      "dutch": "heel erg houden van/leuk vinden"
+    },
+    {
+      "id": "488",
+      "chapter": "12",
+      "romaji": "mayoneezu",
+      "dutch": "mayonaise"
+    },
+    {
+      "id": "489",
+      "chapter": "12",
+      "romaji": "mochiron",
+      "dutch": "natuurlijk/zeker/uiteraard"
+    },
+    {
+      "id": "490",
+      "chapter": "12",
+      "romaji": "omiyage",
+      "dutch": "souvenir"
+    },
+    {
+      "id": "491",
+      "chapter": "12",
+      "romaji": "iro",
+      "dutch": "kleur"
+    },
+    {
+      "id": "492",
+      "chapter": "12",
+      "romaji": "douyatte",
+      "dutch": "hoe/op welke manier"
+    },
+    {
+      "id": "493",
+      "chapter": "12",
+      "romaji": "nen",
+      "dutch": "telwoord voor jaartallen"
+    },
+    {
+      "id": "494",
+      "chapter": "13",
+      "romaji": "benkyou wo shimasu",
+      "dutch": "studeren"
+    },
+    {
+      "id": "495",
+      "chapter": "13",
+      "romaji": "tsukaimasu",
+      "dutch": "gebruiken"
+    },
+    {
+      "id": "496",
+      "chapter": "13",
+      "romaji": "hanashimasu",
+      "dutch": "praten/converseren"
+    },
+    {
+      "id": "497",
+      "chapter": "13",
+      "romaji": "aimasu",
+      "dutch": "ontmoeten"
+    },
+    {
+      "id": "498",
+      "chapter": "13",
+      "romaji": "ganbatte (kudasai)",
+      "dutch": "doe je best (alsjeblieft/formeel)"
+    },
+    {
+      "id": "499",
+      "chapter": "13",
+      "romaji": "un",
+      "dutch": "ja (informeel)"
+    },
+    {
+      "id": "500",
+      "chapter": "13",
+      "romaji": "uun",
+      "dutch": "nee (informeel)"
+    },
+    {
+      "id": "501",
+      "chapter": "13",
+      "romaji": "meccha",
+      "dutch": "heel ... (zoals totemo)"
+    },
+    {
+      "id": "502",
+      "chapter": "13",
+      "romaji": "purezento",
+      "dutch": "cadeau"
+    },
+    {
+      "id": "503",
+      "chapter": "13",
+      "romaji": "agemasu",
+      "dutch": "geven"
+    },
+    {
+      "id": "504",
+      "chapter": "13",
+      "romaji": "moraimasu",
+      "dutch": "ontvangen/krijgen"
+    },
+    {
+      "id": "505",
+      "chapter": "13",
+      "romaji": "ofuro",
+      "dutch": "bad"
+    },
+    {
+      "id": "506",
+      "chapter": "13",
+      "romaji": "tomarimasu",
+      "dutch": "stoppen"
+    },
+    {
+      "id": "507",
+      "chapter": "13",
+      "romaji": "tomarimasu",
+      "dutch": "overnachten"
+    },
+    {
+      "id": "508",
+      "chapter": "13",
+      "romaji": "shiken",
+      "dutch": "toets"
+    },
+    {
+      "id": "509",
+      "chapter": "13",
+      "romaji": "wakaremasu",
+      "dutch": "uit elkaar gaan/halen"
+    },
+    {
+      "id": "510",
+      "chapter": "13",
+      "romaji": "tsurai",
+      "dutch": "pijnlijk (emotioneel zwaar)"
+    },
+    {
+      "id": "511",
+      "chapter": "13",
+      "romaji": "hanashi",
+      "dutch": "gesprek"
+    },
+    {
+      "id": "512",
+      "chapter": "13",
+      "romaji": "shiryou",
+      "dutch": "documenten/papieren"
+    },
+    {
+      "id": "513",
+      "chapter": "13",
+      "romaji": "yoroshiku wo tsutaete kudasai",
+      "dutch": "doe de groeten alsjeblieft"
+    },
+    {
+      "id": "514",
+      "chapter": "13",
+      "romaji": "deshou?",
+      "dutch": "toch?/vind je niet?"
+    },
+    {
+      "id": "515",
+      "chapter": "13",
+      "romaji": "shucchou",
+      "dutch": "zakenreis"
+    },
+    {
+      "id": "516",
+      "chapter": "13",
+      "romaji": "hana",
+      "dutch": "bloem"
+    },
+    {
+      "id": "517",
+      "chapter": "13",
+      "romaji": "mono",
+      "dutch": "ding (fysiek)"
+    },
+    {
+      "id": "518",
+      "chapter": "13",
+      "romaji": "kono mae",
+      "dutch": "laatst/recentelijk"
+    },
+    {
+      "id": "519",
+      "chapter": "13",
+      "romaji": "mondai arimasen",
+      "dutch": "het is geen probleem"
+    },
+    {
+      "id": "520",
+      "chapter": "13",
+      "romaji": "kirimasu",
+      "dutch": "snijden/verbreken/beeindigen"
+    },
+    {
+      "id": "521",
+      "chapter": "13",
+      "romaji": "jikan",
+      "dutch": "tijd"
+    },
+    {
+      "id": "522",
+      "chapter": "14",
+      "romaji": "nomikai",
+      "dutch": "bijeenkomst met drank"
+    },
+    {
+      "id": "523",
+      "chapter": "14",
+      "romaji": "totemo tanoshikatta",
+      "dutch": "het was heel gezellig"
+    },
+    {
+      "id": "524",
+      "chapter": "14",
+      "romaji": "sono toki",
+      "dutch": "toen/die tijd"
+    },
+    {
+      "id": "525",
+      "chapter": "14",
+      "romaji": "kibun",
+      "dutch": "gevoel (van lichaam)"
+    },
+    {
+      "id": "526",
+      "chapter": "14",
+      "romaji": "yokunakatta",
+      "dutch": "het was niet goed"
+    },
+    {
+      "id": "527",
+      "chapter": "14",
+      "romaji": "kicchin",
+      "dutch": "keuken"
+    },
+    {
+      "id": "528",
+      "chapter": "14",
+      "romaji": "yamete",
+      "dutch": "stop (gebiedende wijs)"
+    },
+    {
+      "id": "529",
+      "chapter": "14",
+      "romaji": "keisatsu",
+      "dutch": "politie"
+    },
+    {
+      "id": "530",
+      "chapter": "14",
+      "romaji": "abunai",
+      "dutch": "gevaarlijk"
+    },
+    {
+      "id": "531",
+      "chapter": "14",
+      "romaji": "kusai",
+      "dutch": "stinken"
+    },
+    {
+      "id": "532",
+      "chapter": "14",
+      "romaji": "kurai",
+      "dutch": "donker/negatieve stemming/somber"
+    },
+    {
+      "id": "533",
+      "chapter": "14",
+      "romaji": "usui",
+      "dutch": "dun/waterig"
+    },
+    {
+      "id": "534",
+      "chapter": "14",
+      "romaji": "atsui",
+      "dutch": "dik/zwaar"
+    },
+    {
+      "id": "535",
+      "chapter": "14",
+      "romaji": "anzen",
+      "dutch": "veilig"
+    },
+    {
+      "id": "536",
+      "chapter": "14",
+      "romaji": "anshin",
+      "dutch": "opluchting"
+    },
+    {
+      "id": "537",
+      "chapter": "14",
+      "romaji": "suzushii",
+      "dutch": "koel/verfrissend"
+    },
+    {
+      "id": "538",
+      "chapter": "14",
+      "romaji": "semai",
+      "dutch": "smal/krap"
+    },
+    {
+      "id": "539",
+      "chapter": "14",
+      "romaji": "hiroi",
+      "dutch": "wijd/open"
+    },
+    {
+      "id": "540",
+      "chapter": "14",
+      "romaji": "tsuyoi",
+      "dutch": "sterk"
+    },
+    {
+      "id": "541",
+      "chapter": "14",
+      "romaji": "yowai",
+      "dutch": "zwak"
+    },
+    {
+      "id": "542",
+      "chapter": "14",
+      "romaji": "shawaa wo abimasu",
+      "dutch": "douchen"
+    },
+    {
+      "id": "543",
+      "chapter": "14",
+      "romaji": "sashimasu",
+      "dutch": "openen (van een paraplu)"
+    },
+    {
+      "id": "544",
+      "chapter": "14",
+      "romaji": "uketsuke no hito",
+      "dutch": "receptioniste"
+    },
+    {
+      "id": "545",
+      "chapter": "14",
+      "romaji": "goukaku wo shimasu",
+      "dutch": "slagen (examen etc.)"
+    },
+    {
+      "id": "546",
+      "chapter": "14",
+      "romaji": "esuefuekusu (sfx)",
+      "dutch": "special effects"
+    },
+    {
+      "id": "547",
+      "chapter": "14",
+      "romaji": "kion",
+      "dutch": "temperatuur"
+    },
+    {
+      "id": "548",
+      "chapter": "14",
+      "romaji": "mitsukarimasu",
+      "dutch": "vinden"
+    },
+    {
+      "id": "549",
+      "chapter": "14",
+      "romaji": "nakushimasu",
+      "dutch": "verliezen/kwijt raken"
+    },
+    {
+      "id": "550",
+      "chapter": "14",
+      "romaji": "junbi wo shimasu",
+      "dutch": "voorbereiden"
+    },
+    {
+      "id": "551",
+      "chapter": "14",
+      "romaji": "tegami",
+      "dutch": "brief"
+    },
+    {
+      "id": "552",
+      "chapter": "14",
+      "romaji": "tamago",
+      "dutch": "ei"
+    },
+    {
+      "id": "553",
+      "chapter": "14",
+      "romaji": "ukemasu",
+      "dutch": "in ontvangst nemen/nemen (van een toets)/aanvaarden/vangen"
+    },
+    {
+      "id": "554",
+      "chapter": "14",
+      "romaji": "ureshii",
+      "dutch": "dolblij/verheugd"
+    },
+    {
+      "id": "555",
+      "chapter": "14",
+      "romaji": "nooto pasokon",
+      "dutch": "laptop"
+    },
+    {
+      "id": "556",
+      "chapter": "14",
+      "romaji": "okurimasu",
+      "dutch": "versturen/opsturen"
+    },
+    {
+      "id": "557",
+      "chapter": "15",
+      "romaji": "ikimasenka",
+      "dutch": "gaan we niet?"
+    },
+    {
+      "id": "558",
+      "chapter": "15",
+      "romaji": "ikimashou",
+      "dutch": "laten we gaan"
+    },
+    {
+      "id": "559",
+      "chapter": "15",
+      "romaji": "sugoi",
+      "dutch": "vet/cool/super"
+    },
+    {
+      "id": "560",
+      "chapter": "15",
+      "romaji": "sou deshou!",
+      "dutch": "ja he"
+    },
+    {
+      "id": "561",
+      "chapter": "15",
+      "romaji": "sasoimasu",
+      "dutch": "uitnodigen"
+    },
+    {
+      "id": "562",
+      "chapter": "15",
+      "romaji": "zehi",
+      "dutch": "graag"
+    },
+    {
+      "id": "563",
+      "chapter": "15",
+      "romaji": "kaishain",
+      "dutch": "bedrijfsmedewerker"
+    },
+    {
+      "id": "564",
+      "chapter": "15",
+      "romaji": "yakyuu",
+      "dutch": "honkbal"
+    },
+    {
+      "id": "565",
+      "chapter": "15",
+      "romaji": "takkyuu",
+      "dutch": "tafeltennis"
+    },
+    {
+      "id": "566",
+      "chapter": "15",
+      "romaji": "shiai",
+      "dutch": "wedstrijd"
+    },
+    {
+      "id": "567",
+      "chapter": "15",
+      "romaji": "taisetsu",
+      "dutch": "belangrijk"
+    },
+    {
+      "id": "568",
+      "chapter": "15",
+      "romaji": "ibento",
+      "dutch": "evenement"
+    },
+    {
+      "id": "569",
+      "chapter": "15",
+      "romaji": "teeburu",
+      "dutch": "tafel"
+    },
+    {
+      "id": "570",
+      "chapter": "15",
+      "romaji": "kosupure",
+      "dutch": "cosplay"
+    },
+    {
+      "id": "571",
+      "chapter": "15",
+      "romaji": "kowai",
+      "dutch": "eng"
+    },
+    {
+      "id": "572",
+      "chapter": "15",
+      "romaji": "rikuesto",
+      "dutch": "verzoek"
+    },
+    {
+      "id": "573",
+      "chapter": "15",
+      "romaji": "onegai",
+      "dutch": "verzoek/wens"
+    },
+    {
+      "id": "574",
+      "chapter": "15",
+      "romaji": "tatemono",
+      "dutch": "gebouw"
+    },
+    {
+      "id": "575",
+      "chapter": "15",
+      "romaji": "urusai",
+      "dutch": "luidruchtig"
+    },
+    {
+      "id": "576",
+      "chapter": "15",
+      "romaji": "kekkonshiki",
+      "dutch": "bruiloft"
+    },
+    {
+      "id": "577",
+      "chapter": "15",
+      "romaji": "sukaafu",
+      "dutch": "sjaal"
+    },
+    {
+      "id": "578",
+      "chapter": "15",
+      "romaji": "kowaremasu",
+      "dutch": "kapotgaan"
+    },
+    {
+      "id": "579",
+      "chapter": "15",
+      "romaji": "okonaimasu",
+      "dutch": "organiseren"
+    },
+    {
+      "id": "580",
+      "chapter": "15",
+      "romaji": "naoshimasu",
+      "dutch": "repareren/herstellen"
+    },
+    {
+      "id": "581",
+      "chapter": "15",
+      "romaji": "wakuwaku",
+      "dutch": "enthousiast"
+    },
+    {
+      "id": "582",
+      "chapter": "15",
+      "romaji": "josei",
+      "dutch": "vrouw"
+    },
+    {
+      "id": "583",
+      "chapter": "15",
+      "romaji": "shiriai",
+      "dutch": "kennis/bekende"
+    },
+    {
+      "id": "584",
+      "chapter": "15",
+      "romaji": "konban",
+      "dutch": "vanavond/deze avond"
+    },
+    {
+      "id": "585",
+      "chapter": "15",
+      "romaji": "konya",
+      "dutch": "vanavond/deze avond"
+    },
+    {
+      "id": "586",
+      "chapter": "15",
+      "romaji": "annai shimasu",
+      "dutch": "rondleiden/de weg wijzen"
+    },
+    {
+      "id": "587",
+      "chapter": "15",
+      "romaji": "horaa",
+      "dutch": "horror"
+    },
+    {
+      "id": "588",
+      "chapter": "15",
+      "romaji": "shoukai shimasu",
+      "dutch": "voorstellen (jezelf/iemand anders)"
+    },
+    {
+      "id": "589",
+      "chapter": "16",
+      "romaji": "iru (imasu)",
+      "dutch": "zich bevinden (levend)"
+    },
+    {
+      "id": "590",
+      "chapter": "16",
+      "romaji": "yasumu",
+      "dutch": "rusten"
+    },
+    {
+      "id": "591",
+      "chapter": "16",
+      "romaji": "sore wa chotto",
+      "dutch": "dat is een beetje... (negatief)"
+    },
+    {
+      "id": "592",
+      "chapter": "16",
+      "romaji": "wakaru",
+      "dutch": "begrijpen"
+    },
+    {
+      "id": "593",
+      "chapter": "16",
+      "romaji": "namakemono",
+      "dutch": "lui persoon"
+    },
+    {
+      "id": "594",
+      "chapter": "16",
+      "romaji": "da (desu)",
+      "dutch": "zijn"
+    },
+    {
+      "id": "595",
+      "chapter": "16",
+      "romaji": "kotaeru",
+      "dutch": "antwoorden"
+    },
+    {
+      "id": "596",
+      "chapter": "16",
+      "romaji": "hashiru",
+      "dutch": "rennen"
+    },
+    {
+      "id": "597",
+      "chapter": "16",
+      "romaji": "tsuku",
+      "dutch": "aankomen"
+    },
+    {
+      "id": "598",
+      "chapter": "16",
+      "romaji": "abiru",
+      "dutch": "wassen/douchen"
+    },
+    {
+      "id": "599",
+      "chapter": "16",
+      "romaji": "yaku (yakimasu)",
+      "dutch": "grillen/barbecueen"
+    },
+    {
+      "id": "600",
+      "chapter": "16",
+      "romaji": "okiru",
+      "dutch": "opstaan/wakker worden"
+    },
+    {
+      "id": "601",
+      "chapter": "16",
+      "romaji": "neru",
+      "dutch": "slapen"
+    },
+    {
+      "id": "602",
+      "chapter": "16",
+      "romaji": "tameguchi",
+      "dutch": "informeel taalgebruik"
+    },
+    {
+      "id": "603",
+      "chapter": "16",
+      "romaji": "yasumi",
+      "dutch": "vakantie/pauze/rust"
+    },
+    {
+      "id": "604",
+      "chapter": "16",
+      "romaji": "tabun",
+      "dutch": "waarschijnlijk"
+    },
+    {
+      "id": "605",
+      "chapter": "16",
+      "romaji": "tatsu",
+      "dutch": "staan"
+    },
+    {
+      "id": "606",
+      "chapter": "16",
+      "romaji": "matsu",
+      "dutch": "wachten"
+    },
+    {
+      "id": "607",
+      "chapter": "16",
+      "romaji": "shinjiru",
+      "dutch": "geloven"
+    },
+    {
+      "id": "608",
+      "chapter": "16",
+      "romaji": "douryou",
+      "dutch": "collega"
+    },
+    {
+      "id": "609",
+      "chapter": "16",
+      "romaji": "yakusoku",
+      "dutch": "belofte/afspraak"
+    },
+    {
+      "id": "610",
+      "chapter": "16",
+      "romaji": "gyuunyuu",
+      "dutch": "melk"
+    },
+    {
+      "id": "611",
+      "chapter": "16",
+      "romaji": "suupaa",
+      "dutch": "supermarkt"
+    },
+    {
+      "id": "612",
+      "chapter": "16",
+      "romaji": "zettai ni",
+      "dutch": "zeker/absoluut"
+    },
+    {
+      "id": "613",
+      "chapter": "16",
+      "romaji": "boku",
+      "dutch": "ik (mannelijk, minder formeel)"
+    },
+    {
+      "id": "614",
+      "chapter": "16",
+      "romaji": "ka na?",
+      "dutch": "ik vraag me af of ...?"
+    },
+    {
+      "id": "615",
+      "chapter": "16",
+      "romaji": "dou darou",
+      "dutch": "ik zou het niet weten"
+    },
+    {
+      "id": "616",
+      "chapter": "16",
+      "romaji": "atashi",
+      "dutch": "ik (vrouwelijk, minder formeel)"
+    },
+    {
+      "id": "617",
+      "chapter": "16",
+      "romaji": "acchi",
+      "dutch": "daarginds (informeel)"
+    },
+    {
+      "id": "618",
+      "chapter": "16",
+      "romaji": "iya",
+      "dutch": "nee"
+    },
+    {
+      "id": "619",
+      "chapter": "16",
+      "romaji": "bun",
+      "dutch": "deel"
+    },
+    {
+      "id": "620",
+      "chapter": "16",
+      "romaji": "tabi",
+      "dutch": "reis"
+    },
+    {
+      "id": "621",
+      "chapter": "16",
+      "romaji": "tetsudau",
+      "dutch": "helpen"
+    },
+    {
+      "id": "622",
+      "chapter": "16",
+      "romaji": "hikkoshi",
+      "dutch": "verhuizing"
+    },
+    {
+      "id": "623",
+      "chapter": "16",
+      "romaji": "nokoru",
+      "dutch": "overblijven"
+    },
+    {
+      "id": "624",
+      "chapter": "16",
+      "romaji": "okkee",
+      "dutch": "okay"
+    },
+    {
+      "id": "625",
+      "chapter": "16",
+      "romaji": "hayaku",
+      "dutch": "snel/haast"
+    },
+    {
+      "id": "626",
+      "chapter": "16",
+      "romaji": "warau",
+      "dutch": "lachen"
+    },
+    {
+      "id": "627",
+      "chapter": "17",
+      "romaji": "matte",
+      "dutch": "wacht"
+    },
+    {
+      "id": "628",
+      "chapter": "17",
+      "romaji": "mada",
+      "dutch": "nog niet"
+    },
+    {
+      "id": "629",
+      "chapter": "17",
+      "romaji": "katsudon",
+      "dutch": "rijstgerecht met Japanse schnitzel"
+    },
+    {
+      "id": "630",
+      "chapter": "17",
+      "romaji": "tsukuru",
+      "dutch": "maken/creeren"
+    },
+    {
+      "id": "631",
+      "chapter": "17",
+      "romaji": "warau",
+      "dutch": "lachen"
+    },
+    {
+      "id": "632",
+      "chapter": "17",
+      "romaji": "naku",
+      "dutch": "huilen"
+    },
+    {
+      "id": "633",
+      "chapter": "17",
+      "romaji": "nonbiri",
+      "dutch": "relaxed/rustig/zorgeloos"
+    },
+    {
+      "id": "634",
+      "chapter": "17",
+      "romaji": "isogu",
+      "dutch": "haasten"
+    },
+    {
+      "id": "635",
+      "chapter": "17",
+      "romaji": "yobu",
+      "dutch": "roepen/noemen"
+    },
+    {
+      "id": "636",
+      "chapter": "17",
+      "romaji": "kasu",
+      "dutch": "uitlenen"
+    },
+    {
+      "id": "637",
+      "chapter": "17",
+      "romaji": "kariru",
+      "dutch": "lenen"
+    },
+    {
+      "id": "638",
+      "chapter": "17",
+      "romaji": "zairyou",
+      "dutch": "ingredienten"
+    },
+    {
+      "id": "639",
+      "chapter": "17",
+      "romaji": "kasuri",
+      "dutch": "medicijnen"
+    },
+    {
+      "id": "640",
+      "chapter": "17",
+      "romaji": "tanomu",
+      "dutch": "verzoeken/vragen"
+    },
+    {
+      "id": "641",
+      "chapter": "17",
+      "romaji": "tobu",
+      "dutch": "vliegen"
+    },
+    {
+      "id": "642",
+      "chapter": "17",
+      "romaji": "migaku",
+      "dutch": "poetsen (van tanden, steen, etc.)"
+    },
+    {
+      "id": "643",
+      "chapter": "17",
+      "romaji": "ha",
+      "dutch": "tanden"
+    },
+    {
+      "id": "644",
+      "chapter": "17",
+      "romaji": "toru",
+      "dutch": "nemen (van foto/video)"
+    },
+    {
+      "id": "645",
+      "chapter": "17",
+      "romaji": "osu",
+      "dutch": "drukken"
+    },
+    {
+      "id": "646",
+      "chapter": "17",
+      "romaji": "oriru",
+      "dutch": "uitstappen/afstappen"
+    },
+    {
+      "id": "647",
+      "chapter": "17",
+      "romaji": "noru",
+      "dutch": "instappen/rijden"
+    },
+    {
+      "id": "648",
+      "chapter": "17",
+      "romaji": "tsukue",
+      "dutch": "bureau"
+    },
+    {
+      "id": "649",
+      "chapter": "17",
+      "romaji": "shokudou",
+      "dutch": "kantine"
+    },
+    {
+      "id": "650",
+      "chapter": "17",
+      "romaji": "shashin",
+      "dutch": "foto"
+    },
+    {
+      "id": "651",
+      "chapter": "17",
+      "romaji": "nimotsu",
+      "dutch": "baggage"
+    },
+    {
+      "id": "652",
+      "chapter": "17",
+      "romaji": "ireru",
+      "dutch": "in doen"
+    },
+    {
+      "id": "653",
+      "chapter": "17",
+      "romaji": "dasu",
+      "dutch": "inleveren (rapport/verslag etc.)"
+    },
+    {
+      "id": "654",
+      "chapter": "17",
+      "romaji": "motte kuru",
+      "dutch": "meenemen (naar hier)"
+    },
+    {
+      "id": "655",
+      "chapter": "17",
+      "romaji": "katadzukeru",
+      "dutch": "opruimen/wegleggen"
+    },
+    {
+      "id": "656",
+      "chapter": "17",
+      "romaji": "soujishimasu",
+      "dutch": "schoonmaken"
+    },
+    {
+      "id": "657",
+      "chapter": "17",
+      "romaji": "saikin",
+      "dutch": "laatst/recentelijk"
+    },
+    {
+      "id": "658",
+      "chapter": "17",
+      "romaji": "saikou",
+      "dutch": "allerbeste/top"
+    },
+    {
+      "id": "659",
+      "chapter": "17",
+      "romaji": "meeru wo shimasu",
+      "dutch": "mailen"
+    },
+    {
+      "id": "660",
+      "chapter": "17",
+      "romaji": "aisu kuriimu",
+      "dutch": "ijsje"
+    },
+    {
+      "id": "661",
+      "chapter": "17",
+      "romaji": "atama ga itai desu",
+      "dutch": "hoofd doet pijn"
+    },
+    {
+      "id": "662",
+      "chapter": "17",
+      "romaji": "kutsu wo nuide kudasai",
+      "dutch": "schoenen uit a.u.b."
+    },
+    {
+      "id": "663",
+      "chapter": "17",
+      "romaji": "haitte kudasai",
+      "dutch": "kom binnen a.u.b."
+    },
+    {
+      "id": "664",
+      "chapter": "17",
+      "romaji": "shigoto chuudoku",
+      "dutch": "werkverslaafde (workaholic)"
+    },
+    {
+      "id": "665",
+      "chapter": "17",
+      "romaji": "tokoro de",
+      "dutch": "trouwens"
+    },
+    {
+      "id": "666",
+      "chapter": "17",
+      "romaji": "tasukeru",
+      "dutch": "redden/helpen"
+    },
+    {
+      "id": "667",
+      "chapter": "17",
+      "romaji": "aisatsu",
+      "dutch": "groet(en)"
+    },
+    {
+      "id": "668",
+      "chapter": "18",
+      "romaji": "hisashiburi",
+      "dutch": "lange tijd geleden"
+    },
+    {
+      "id": "669",
+      "chapter": "18",
+      "romaji": "kissaten",
+      "dutch": "koffiehuis/cafe"
+    },
+    {
+      "id": "670",
+      "chapter": "18",
+      "romaji": "saisho",
+      "dutch": "vanaf het begin"
+    },
+    {
+      "id": "671",
+      "chapter": "18",
+      "romaji": "kudasai",
+      "dutch": "alstublieft"
+    },
+    {
+      "id": "672",
+      "chapter": "18",
+      "romaji": "wasureru",
+      "dutch": "vergeten"
+    },
+    {
+      "id": "673",
+      "chapter": "18",
+      "romaji": "sugu",
+      "dutch": "direct/onmiddelijk/meteen"
+    },
+    {
+      "id": "674",
+      "chapter": "18",
+      "romaji": "tadaima",
+      "dutch": "ik ben thuis (op dit moment)"
+    },
+    {
+      "id": "675",
+      "chapter": "18",
+      "romaji": "okaeri",
+      "dutch": "welkom thuis"
+    },
+    {
+      "id": "676",
+      "chapter": "18",
+      "romaji": "ittekuru",
+      "dutch": "ik ga (en kom weer terug)"
+    },
+    {
+      "id": "677",
+      "chapter": "18",
+      "romaji": "itterasshai",
+      "dutch": "tot later"
+    },
+    {
+      "id": "678",
+      "chapter": "18",
+      "romaji": "yameru",
+      "dutch": "stoppen (van actie/handeling)"
+    },
+    {
+      "id": "679",
+      "chapter": "18",
+      "romaji": "meido kafe",
+      "dutch": "maid cafe"
+    },
+    {
+      "id": "680",
+      "chapter": "18",
+      "romaji": "basu taaminaru",
+      "dutch": "bushalte"
+    },
+    {
+      "id": "681",
+      "chapter": "18",
+      "romaji": "bunpou",
+      "dutch": "grammatica"
+    },
+    {
+      "id": "682",
+      "chapter": "18",
+      "romaji": "getsumei wo suru",
+      "dutch": "uitleggen"
+    },
+    {
+      "id": "683",
+      "chapter": "18",
+      "romaji": "nootobukku",
+      "dutch": "schrift"
+    },
+    {
+      "id": "684",
+      "chapter": "18",
+      "romaji": "mou",
+      "dutch": "al"
+    },
+    {
+      "id": "685",
+      "chapter": "18",
+      "romaji": "juusho",
+      "dutch": "adres"
+    },
+    {
+      "id": "686",
+      "chapter": "18",
+      "romaji": "setsumei",
+      "dutch": "uitleg"
+    },
+    {
+      "id": "687",
+      "chapter": "18",
+      "romaji": "suwaru",
+      "dutch": "zitten"
+    },
+    {
+      "id": "688",
+      "chapter": "18",
+      "romaji": "shimeru",
+      "dutch": "dicht doen/afsluiten (actief)"
+    },
+    {
+      "id": "689",
+      "chapter": "18",
+      "romaji": "shimaru",
+      "dutch": "dicht doen/afsluiten (passief)"
+    },
+    {
+      "id": "690",
+      "chapter": "18",
+      "romaji": "nugu",
+      "dutch": "uitdoen/uittrekken (van kleding)"
+    },
+    {
+      "id": "691",
+      "chapter": "18",
+      "romaji": "hiku",
+      "dutch": "bespelen (van snaarinstrumenten)"
+    },
+    {
+      "id": "692",
+      "chapter": "18",
+      "romaji": "watasu",
+      "dutch": "overhandigen/geven"
+    },
+    {
+      "id": "693",
+      "chapter": "18",
+      "romaji": "jitsu wa",
+      "dutch": "eigenlijk"
+    },
+    {
+      "id": "694",
+      "chapter": "18",
+      "romaji": "dareka",
+      "dutch": "iemand"
+    },
+    {
+      "id": "695",
+      "chapter": "18",
+      "romaji": "mukaeru",
+      "dutch": "verwelkomen/ophalen"
+    },
+    {
+      "id": "696",
+      "chapter": "18",
+      "romaji": "mukae ni iku",
+      "dutch": "gaan om op te halen"
+    },
+    {
+      "id": "697",
+      "chapter": "18",
+      "romaji": "nagai aida",
+      "dutch": "een lange tijd"
+    },
+    {
+      "id": "698",
+      "chapter": "18",
+      "romaji": "anatatachi",
+      "dutch": "jullie"
+    },
+    {
+      "id": "699",
+      "chapter": "18",
+      "romaji": "osoi",
+      "dutch": "laat/traag"
+    },
+    {
+      "id": "700",
+      "chapter": "18",
+      "romaji": "michi ga mayoimasu",
+      "dutch": "de weg kwijtraken"
+    },
+    {
+      "id": "701",
+      "chapter": "18",
+      "romaji": "iu",
+      "dutch": "zeggen"
+    },
+    {
+      "id": "702",
+      "chapter": "18",
+      "romaji": "oboeru",
+      "dutch": "onthouden"
+    },
+    {
+      "id": "703",
+      "chapter": "18",
+      "romaji": "hajimeru",
+      "dutch": "beginnen/starten"
+    },
+    {
+      "id": "704",
+      "chapter": "18",
+      "romaji": "utau",
+      "dutch": "zingen"
+    },
+    {
+      "id": "705",
+      "chapter": "18",
+      "romaji": "kakarimasu",
+      "dutch": "duren"
+    },
+    {
+      "id": "706",
+      "chapter": "19",
+      "romaji": "kafe",
+      "dutch": "cafe"
+    },
+    {
+      "id": "707",
+      "chapter": "19",
+      "romaji": "magaru",
+      "dutch": "afslaan"
+    },
+    {
+      "id": "708",
+      "chapter": "19",
+      "romaji": "shingou",
+      "dutch": "verkeerslicht"
+    },
+    {
+      "id": "709",
+      "chapter": "19",
+      "romaji": "chinami ni",
+      "dutch": "trouwens"
+    },
+    {
+      "id": "710",
+      "chapter": "19",
+      "romaji": "minna",
+      "dutch": "iedereen/allen (informeel)"
+    },
+    {
+      "id": "711",
+      "chapter": "19",
+      "romaji": "kiku",
+      "dutch": "vragen/luisteren"
+    },
+    {
+      "id": "712",
+      "chapter": "19",
+      "romaji": "kousaten",
+      "dutch": "kruispunt"
+    },
+    {
+      "id": "713",
+      "chapter": "19",
+      "romaji": "kado",
+      "dutch": "hoek"
+    },
+    {
+      "id": "714",
+      "chapter": "19",
+      "romaji": "massugu",
+      "dutch": "rechtdoor"
+    },
+    {
+      "id": "715",
+      "chapter": "19",
+      "romaji": "oshieru",
+      "dutch": "vertellen/iets uitleggen (om te leren)"
+    },
+    {
+      "id": "716",
+      "chapter": "19",
+      "romaji": "mayou",
+      "dutch": "weg kwijt raken/verdwalen"
+    },
+    {
+      "id": "717",
+      "chapter": "19",
+      "romaji": "yoyaku",
+      "dutch": "reservering"
+    },
+    {
+      "id": "718",
+      "chapter": "19",
+      "romaji": "tsugi",
+      "dutch": "volgende"
+    },
+    {
+      "id": "719",
+      "chapter": "19",
+      "romaji": "hashi",
+      "dutch": "brug"
+    },
+    {
+      "id": "720",
+      "chapter": "19",
+      "romaji": "renshuu",
+      "dutch": "oefening"
+    },
+    {
+      "id": "721",
+      "chapter": "19",
+      "romaji": "sukippu suru",
+      "dutch": "overslaan"
+    },
+    {
+      "id": "722",
+      "chapter": "19",
+      "romaji": "dekakeru",
+      "dutch": "uit (huis) gaan"
+    },
+    {
+      "id": "723",
+      "chapter": "19",
+      "romaji": "tsurete iku",
+      "dutch": "begeleiden/meenemen"
+    },
+    {
+      "id": "724",
+      "chapter": "19",
+      "romaji": "chuusha wo suru",
+      "dutch": "parkeren"
+    },
+    {
+      "id": "725",
+      "chapter": "19",
+      "romaji": "ki",
+      "dutch": "boom"
+    },
+    {
+      "id": "726",
+      "chapter": "19",
+      "romaji": "hako",
+      "dutch": "doos"
+    },
+    {
+      "id": "727",
+      "chapter": "19",
+      "romaji": "yatto",
+      "dutch": "eindelijk"
+    },
+    {
+      "id": "728",
+      "chapter": "19",
+      "romaji": "onaka ga suita",
+      "dutch": "ik heb honger (letterlijk maag is leeg)"
+    },
+    {
+      "id": "729",
+      "chapter": "19",
+      "romaji": "sandoicchi",
+      "dutch": "sandwich"
+    },
+    {
+      "id": "730",
+      "chapter": "19",
+      "romaji": "suteru",
+      "dutch": "weggooien"
+    },
+    {
+      "id": "731",
+      "chapter": "19",
+      "romaji": "omoi",
+      "dutch": "zwaar"
+    },
+    {
+      "id": "732",
+      "chapter": "19",
+      "romaji": "buranketto",
+      "dutch": "deken"
+    },
+    {
+      "id": "733",
+      "chapter": "19",
+      "romaji": "gomibako",
+      "dutch": "prullenbak"
+    },
+    {
+      "id": "734",
+      "chapter": "19",
+      "romaji": "kanpai",
+      "dutch": "proost"
+    },
+    {
+      "id": "735",
+      "chapter": "19",
+      "romaji": "(tabako wo) suu",
+      "dutch": "roken (sigaret)"
+    },
+    {
+      "id": "736",
+      "chapter": "19",
+      "romaji": "hakobu",
+      "dutch": "dragen, transporteren"
+    },
+    {
+      "id": "737",
+      "chapter": "19",
+      "romaji": "aisutii",
+      "dutch": "ijsthee"
+    },
+    {
+      "id": "738",
+      "chapter": "19",
+      "romaji": "byouki",
+      "dutch": "ziek"
+    },
+    {
+      "id": "739",
+      "chapter": "19",
+      "romaji": "tsukaremashita",
+      "dutch": "ik ben moe geworden"
+    },
+    {
+      "id": "740",
+      "chapter": "19",
+      "romaji": "hidarite",
+      "dutch": "linkerhand/linkerzijde"
+    },
+    {
+      "id": "741",
+      "chapter": "19",
+      "romaji": "migite",
+      "dutch": "rechterhand/rechterzijde"
+    },
+    {
+      "id": "742",
+      "chapter": "19",
+      "romaji": "toru",
+      "dutch": "nemen/pakken"
+    },
+    {
+      "id": "743",
+      "chapter": "19",
+      "romaji": "aruku",
+      "dutch": "lopen"
+    },
+    {
+      "id": "744",
+      "chapter": "19",
+      "romaji": "deru",
+      "dutch": "verlaten/uitkomen"
+    },
+    {
+      "id": "745",
+      "chapter": "20",
+      "romaji": "ame",
+      "dutch": "snoep/toffee"
+    },
+    {
+      "id": "746",
+      "chapter": "20",
+      "romaji": "miso",
+      "dutch": "gefermenteerde sojabonen"
+    },
+    {
+      "id": "747",
+      "chapter": "20",
+      "romaji": "suupu",
+      "dutch": "soep"
+    },
+    {
+      "id": "748",
+      "chapter": "20",
+      "romaji": "sore to",
+      "dutch": "en daar bovenop"
+    },
+    {
+      "id": "749",
+      "chapter": "20",
+      "romaji": "kekkon",
+      "dutch": "huwelijk/trouwen (zn.)"
+    },
+    {
+      "id": "750",
+      "chapter": "20",
+      "romaji": "dare ka",
+      "dutch": "iemand"
+    },
+    {
+      "id": "751",
+      "chapter": "20",
+      "romaji": "futoru",
+      "dutch": "dik worden"
+    },
+    {
+      "id": "752",
+      "chapter": "20",
+      "romaji": "faasuto fuudo",
+      "dutch": "fast food"
+    },
+    {
+      "id": "753",
+      "chapter": "20",
+      "romaji": "tsutomeru",
+      "dutch": "werken (bij een organisatie)"
+    },
+    {
+      "id": "754",
+      "chapter": "20",
+      "romaji": "yopparau",
+      "dutch": "dronken worden"
+    },
+    {
+      "id": "755",
+      "chapter": "20",
+      "romaji": "daietto",
+      "dutch": "dieet"
+    },
+    {
+      "id": "756",
+      "chapter": "20",
+      "romaji": "karee raisu",
+      "dutch": "curry rice"
+    },
+    {
+      "id": "757",
+      "chapter": "20",
+      "romaji": "kau",
+      "dutch": "huisdier houden"
+    },
+    {
+      "id": "758",
+      "chapter": "20",
+      "romaji": "tsukiau",
+      "dutch": "verkering hebben"
+    },
+    {
+      "id": "759",
+      "chapter": "20",
+      "romaji": "baito",
+      "dutch": "baantje"
+    },
+    {
+      "id": "760",
+      "chapter": "20",
+      "romaji": "chiwawa",
+      "dutch": "chihuahua"
+    },
+    {
+      "id": "761",
+      "chapter": "20",
+      "romaji": "koosu",
+      "dutch": "cursus"
+    },
+    {
+      "id": "762",
+      "chapter": "20",
+      "romaji": "doubutsu",
+      "dutch": "dier(en)"
+    },
+    {
+      "id": "763",
+      "chapter": "20",
+      "romaji": "keizai",
+      "dutch": "economie"
+    },
+    {
+      "id": "764",
+      "chapter": "20",
+      "romaji": "gurafikku dezainaa",
+      "dutch": "grafisch ontwerper (designer)"
+    },
+    {
+      "id": "765",
+      "chapter": "20",
+      "romaji": "jimu",
+      "dutch": "gym"
+    },
+    {
+      "id": "766",
+      "chapter": "20",
+      "romaji": "shumi",
+      "dutch": "hobby"
+    },
+    {
+      "id": "767",
+      "chapter": "20",
+      "romaji": "inuha",
+      "dutch": "hondenmens"
+    },
+    {
+      "id": "768",
+      "chapter": "20",
+      "romaji": "no shusshin",
+      "dutch": "ik kom uit ..."
+    },
+    {
+      "id": "769",
+      "chapter": "20",
+      "romaji": "intaanashonaru bijinesu",
+      "dutch": "international business"
+    },
+    {
+      "id": "770",
+      "chapter": "20",
+      "romaji": "nekoha",
+      "dutch": "kattenmens"
+    },
+    {
+      "id": "771",
+      "chapter": "20",
+      "romaji": "sora",
+      "dutch": "lucht"
+    },
+    {
+      "id": "772",
+      "chapter": "20",
+      "romaji": "kaku",
+      "dutch": "schrijven/tekenen"
+    },
+    {
+      "id": "773",
+      "chapter": "20",
+      "romaji": "guuzen",
+      "dutch": "toeval/toevallig"
+    },
+    {
+      "id": "774",
+      "chapter": "20",
+      "romaji": "e",
+      "dutch": "tekening/schilderij"
+    },
+    {
+      "id": "775",
+      "chapter": "20",
+      "romaji": "kun kun",
+      "dutch": "snuf snuf"
+    },
+    {
+      "id": "776",
+      "chapter": "20",
+      "romaji": "wan wan",
+      "dutch": "woef woef"
+    },
+    {
+      "id": "777",
+      "chapter": "20",
+      "romaji": "kurasumeeto",
+      "dutch": "klasgenoot"
+    },
+    {
+      "id": "778",
+      "chapter": "20",
+      "romaji": "onaji",
+      "dutch": "hetzelfde/dezelfde"
+    },
+    {
+      "id": "779",
+      "chapter": "20",
+      "romaji": "shukudai",
+      "dutch": "huiswerk"
+    },
+    {
+      "id": "780",
+      "chapter": "20",
+      "romaji": "hansamu",
+      "dutch": "knap"
+    },
+    {
+      "id": "781",
+      "chapter": "20",
+      "romaji": "motte iru",
+      "dutch": "bij zich hebben"
+    },
+    {
+      "id": "782",
+      "chapter": "20",
+      "romaji": "jisho",
+      "dutch": "woordenboek"
+    },
+    {
+      "id": "783",
+      "chapter": "20",
+      "romaji": "sumu",
+      "dutch": "wonen"
+    },
+    {
+      "id": "784",
+      "chapter": "20",
+      "romaji": "ikemen",
+      "dutch": "knappe man"
+    },
+    {
+      "id": "785",
+      "chapter": "20",
+      "romaji": "kakkoii",
+      "dutch": "knap/cool/stoer"
+    },
+    {
+      "id": "786",
+      "chapter": "20",
+      "romaji": "amai",
+      "dutch": "zoet"
+    },
+    {
+      "id": "787",
+      "chapter": "20",
+      "romaji": "tai",
+      "dutch": "Thailand"
+    },
+    {
+      "id": "788",
+      "chapter": "20",
+      "romaji": "karai",
+      "dutch": "pittig"
+    },
+    {
+      "id": "789",
+      "chapter": "20",
+      "romaji": "doubutsuen",
+      "dutch": "dierentuin"
+    },
+    {
+      "id": "790",
+      "chapter": "20",
+      "romaji": "mainichi",
+      "dutch": "iedere dag"
     }
   ],
   "chapters": [
