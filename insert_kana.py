@@ -22,14 +22,24 @@ def get_user_input(kana):
 
 def parse_vocab(vocab, id, kana):
     with open("dictionary.json") as f:
-        dict = json.load(f)
-    obj = dict["vocabulary"][id]
-    obj[kana] = vocab
-    dict["vocabulary"][id] = obj
+        _dict = json.load(f)
+    for obj in _dict["vocabulary"]:
+        if str(id) == obj["id"]:
+            obj[kana] = vocab
     with open("dictionary.json", "w") as f:
-        json.dump(dict, f, indent=2)
+        json.dump(_dict, f, indent=2)
 
     return True
+
+
+def get_next_id(next_id):
+    with open("dictionary.json") as f:
+        _dict = json.load(f)
+        res = list(
+            filter(lambda a: a["id"] == str(next_id), _dict["vocabulary"])
+        )
+        romaji = res[0]["romaji"] if res else ""
+    return f"next id = {next_id} ({romaji}): "
 
 
 def main():
@@ -40,13 +50,13 @@ def main():
     print()
     print(f"add words by entering '{kana}' on every new line:")
 
-    next_vocab = input(f"next id = {next_id}: ")
+    next_vocab = input(get_next_id(next_id))
     while next_vocab:
         if parse_vocab(next_vocab, next_id, kana):
             next_id += 1
         else:
             print("invalid input, retry...")
-        next_vocab = input(f"next id = {next_id}: ")
+        next_vocab = input(get_next_id(next_id))
 
 
 if __name__ == "__main__":
