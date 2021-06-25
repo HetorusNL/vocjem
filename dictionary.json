@@ -4,2479 +4,2892 @@
       "id": "1",
       "chapter": "1",
       "romaji": "anata",
-      "dutch": "jij"
+      "dutch": "jij",
+      "hiragana": "\u3042\u306a\u305f"
     },
     {
       "id": "2",
       "chapter": "1",
       "romaji": "botoru",
-      "dutch": "fles"
+      "dutch": "fles",
+      "hiragana": "\u307c\u3068\u308b"
     },
     {
       "id": "3",
       "chapter": "1",
       "romaji": "chuugoku",
-      "dutch": "China"
+      "dutch": "China",
+      "hiragana": "\u3061\u3085\u3046\u3054\u304f"
     },
     {
       "id": "4",
       "chapter": "1",
       "romaji": "dare",
-      "dutch": "wie"
+      "dutch": "wie",
+      "hiragana": "\u3060\u308c"
     },
     {
       "id": "5",
       "chapter": "1",
       "romaji": "desu",
-      "dutch": "is/zijn"
+      "dutch": "is/zijn",
+      "hiragana": "\u3067\u3059"
     },
     {
       "id": "6",
       "chapter": "1",
       "romaji": "doko",
-      "dutch": "waar"
+      "dutch": "waar",
+      "hiragana": "\u3069\u3053"
     },
     {
       "id": "7",
       "chapter": "1",
       "romaji": "gakusei",
-      "dutch": "student"
+      "dutch": "student",
+      "hiragana": "\u304c\u304f\u305b\u3044"
     },
     {
       "id": "8",
       "chapter": "1",
       "romaji": "neko",
-      "dutch": "kat"
+      "dutch": "kat",
+      "hiragana": "\u306d\u3053"
     },
     {
       "id": "9",
       "chapter": "1",
       "romaji": "hajimemashite",
-      "dutch": "aangenaam"
+      "dutch": "aangenaam",
+      "hiragana": "\u306f\u3058\u3081\u307e\u3057\u3066"
     },
     {
       "id": "10",
       "chapter": "1",
       "romaji": "hito",
-      "dutch": "mens/persoon"
+      "dutch": "mens/persoon",
+      "hiragana": "\u3072\u3068"
     },
     {
       "id": "11",
       "chapter": "1",
       "romaji": "hon",
-      "dutch": "boek"
+      "dutch": "boek",
+      "hiragana": "\u307b\u3093"
     },
     {
       "id": "12",
       "chapter": "1",
       "romaji": "igirisu",
-      "dutch": "Engeland"
+      "dutch": "Engeland",
+      "hiragana": "\u3044\u304e\u308a\u3059"
     },
     {
       "id": "13",
       "chapter": "1",
       "romaji": "inu",
-      "dutch": "hond"
+      "dutch": "hond",
+      "hiragana": "\u3044\u306c"
     },
     {
       "id": "14",
       "chapter": "1",
       "romaji": "ka",
-      "dutch": "vraag partikel"
+      "dutch": "vraag partikel",
+      "hiragana": "\u304b"
     },
     {
       "id": "15",
       "chapter": "1",
       "romaji": "kankoku",
-      "dutch": "Zuid-Korea"
+      "dutch": "Zuid-Korea",
+      "hiragana": "\u304b\u3093\u3053\u304f"
     },
     {
       "id": "16",
       "chapter": "1",
       "romaji": "kanojo",
-      "dutch": "zij/vriendin"
+      "dutch": "zij/vriendin",
+      "hiragana": "\u304b\u306e\u3058\u3087"
     },
     {
       "id": "17",
       "chapter": "1",
       "romaji": "kare",
-      "dutch": "hij/vriend(je)"
+      "dutch": "hij/vriend(je)",
+      "hiragana": "\u304b\u308c"
     },
     {
       "id": "18",
       "chapter": "1",
       "romaji": "kochira",
-      "dutch": "hier/deze richting/de persoon hier"
+      "dutch": "hier/deze richting/de persoon hier",
+      "hiragana": "\u3053\u3061\u3089"
     },
     {
       "id": "19",
       "chapter": "1",
       "romaji": "meishi",
-      "dutch": "visitekaartje"
+      "dutch": "visitekaartje",
+      "hiragana": "\u3081\u3044\u3057"
     },
     {
       "id": "20",
       "chapter": "1",
       "romaji": "moushimasu",
-      "dutch": "heten (beleefd)"
+      "dutch": "heten (beleefd)",
+      "hiragana": "\u3082\u3046\u3057\u307e\u3059"
     },
     {
       "id": "21",
       "chapter": "1",
       "romaji": "namae",
-      "dutch": "naam"
+      "dutch": "naam",
+      "hiragana": "\u306a\u307e\u3048"
     },
     {
       "id": "22",
       "chapter": "1",
       "romaji": "nani",
-      "dutch": "wat"
+      "dutch": "wat",
+      "hiragana": "\u306a\u306b"
     },
     {
       "id": "23",
       "chapter": "1",
       "romaji": "nanijin",
-      "dutch": "welke nationaliteit"
+      "dutch": "welke nationaliteit",
+      "hiragana": "\u306a\u306b\u3058\u3093"
     },
     {
       "id": "24",
       "chapter": "1",
       "romaji": "nihon",
-      "dutch": "Japan"
+      "dutch": "Japan",
+      "hiragana": "\u306b\u307b\u3093"
     },
     {
       "id": "25",
       "chapter": "1",
       "romaji": "no",
-      "dutch": "bezit/relatie partikel"
+      "dutch": "bezit/relatie partikel",
+      "hiragana": "\u306e"
     },
     {
       "id": "26",
       "chapter": "1",
       "romaji": "pasokon",
-      "dutch": "computer"
+      "dutch": "computer",
+      "hiragana": "\u3071\u305d\u3053\u3093"
     },
     {
       "id": "27",
       "chapter": "1",
       "romaji": "pen",
-      "dutch": "pen"
+      "dutch": "pen",
+      "hiragana": "\u307a\u3093"
     },
     {
       "id": "28",
       "chapter": "1",
       "romaji": "ryuugakusei",
-      "dutch": "uitwisselingsstudent"
+      "dutch": "uitwisselingsstudent",
+      "hiragana": "\u308a\u3085\u3046\u304c\u304f\u305b\u3044"
     },
     {
       "id": "29",
       "chapter": "1",
       "romaji": "shima",
-      "dutch": "eiland"
+      "dutch": "eiland",
+      "hiragana": "\u3057\u307e"
     },
     {
       "id": "30",
       "chapter": "1",
       "romaji": "sou desu",
-      "dutch": "dat is zo"
+      "dutch": "dat is zo",
+      "hiragana": "\u305d\u3046\u3067\u3059"
     },
     {
       "id": "31",
       "chapter": "1",
       "romaji": "tokei",
-      "dutch": "klok"
+      "dutch": "klok",
+      "hiragana": "\u3068\u3051\u3044"
     },
     {
       "id": "32",
       "chapter": "1",
       "romaji": "udedokei",
-      "dutch": "horloge"
+      "dutch": "horloge",
+      "hiragana": "\u3046\u3067\u3069\u3051\u3044"
     },
     {
       "id": "33",
       "chapter": "1",
       "romaji": "tori",
-      "dutch": "vogel"
+      "dutch": "vogel",
+      "hiragana": "\u3068\u308a"
     },
     {
       "id": "34",
       "chapter": "1",
       "romaji": "toruko",
-      "dutch": "Turkije"
+      "dutch": "Turkije",
+      "hiragana": "\u3068\u308b\u3053"
     },
     {
       "id": "35",
       "chapter": "1",
       "romaji": "wa",
-      "dutch": "onderwerpspartikel"
+      "dutch": "onderwerpspartikel",
+      "hiragana": "\u306f"
     },
     {
       "id": "36",
       "chapter": "1",
       "romaji": "yoroshiku onegaishimasu",
-      "dutch": "laten we goed met elkaar omgaan"
+      "dutch": "laten we goed met elkaar omgaan",
+      "hiragana": "\u3088\u308b\u3057\u304f\u304a\u306d\u304c\u3044\u3057\u307e\u3059"
     },
     {
       "id": "37",
       "chapter": "1",
       "romaji": "nomimasu",
-      "dutch": "drinken"
+      "dutch": "drinken",
+      "hiragana": "\u306e\u307f\u307e\u3059"
     },
     {
       "id": "38",
       "chapter": "1",
       "romaji": "kaban",
-      "dutch": "tas"
+      "dutch": "tas",
+      "hiragana": "\u304b\u3070\u3093"
     },
     {
       "id": "39",
       "chapter": "1",
       "romaji": "piza",
-      "dutch": "pizza"
+      "dutch": "pizza",
+      "hiragana": "\u3074\u3056"
     },
     {
       "id": "40",
       "chapter": "1",
       "romaji": "jikoshoukai",
-      "dutch": "zelf introductie"
+      "dutch": "zelf introductie",
+      "hiragana": "\u3058\u3053\u3057\u3087\u3046\u304b\u3044"
     },
     {
       "id": "41",
       "chapter": "1",
       "romaji": "kyoushi",
-      "dutch": "docent (beroep)"
+      "dutch": "docent (beroep)",
+      "hiragana": "\u304d\u3087\u3046\u3057"
     },
     {
       "id": "42",
       "chapter": "1",
       "romaji": "kiritsu",
-      "dutch": "opstaan"
+      "dutch": "opstaan",
+      "hiragana": "\u304d\u308a\u3064"
     },
     {
       "id": "43",
       "chapter": "1",
       "romaji": "rei",
-      "dutch": "buig"
+      "dutch": "buig",
+      "hiragana": "\u308c\u3044"
     },
     {
       "id": "44",
       "chapter": "1",
       "romaji": "chakuseki",
-      "dutch": "neem plaats"
+      "dutch": "neem plaats",
+      "hiragana": "\u3061\u3083\u304f\u305b\u304d"
     },
     {
       "id": "45",
       "chapter": "1",
       "romaji": "bijutsukan",
-      "dutch": "kunstmuseum"
+      "dutch": "kunstmuseum",
+      "hiragana": "\u3073\u3058\u3085\u3064\u304b\u3093"
     },
     {
       "id": "46",
       "chapter": "1",
       "romaji": "ongaku",
-      "dutch": "muziek"
+      "dutch": "muziek",
+      "hiragana": "\u304a\u3093\u304c\u304f"
     },
     {
       "id": "47",
       "chapter": "1",
       "romaji": "kore kara",
-      "dutch": "vanaf nu"
+      "dutch": "vanaf nu",
+      "hiragana": "\u3053\u308c\u304b\u3089"
     },
     {
       "id": "48",
       "chapter": "1",
       "romaji": "eigyou",
-      "dutch": "verkoop"
+      "dutch": "verkoop",
+      "hiragana": "\u3048\u3044\u304e\u3087\u3046"
     },
     {
       "id": "49",
       "chapter": "1",
       "romaji": "bu",
-      "dutch": "afdeling"
+      "dutch": "afdeling",
+      "hiragana": "\u3076"
     },
     {
       "id": "50",
       "chapter": "1",
       "romaji": "eigyouin",
-      "dutch": "verkoopmedewerker"
+      "dutch": "verkoopmedewerker",
+      "hiragana": "\u3048\u3044\u304e\u3087\u3046\u3044\u3093"
     },
     {
       "id": "51",
       "chapter": "1",
       "romaji": "kankou",
-      "dutch": "toerisme"
+      "dutch": "toerisme",
+      "hiragana": "\u304b\u3093\u3053\u3046"
     },
     {
       "id": "52",
       "chapter": "1",
       "romaji": "watashi",
-      "dutch": "ik"
+      "dutch": "ik",
+      "hiragana": "\u308f\u305f\u3057"
     },
     {
       "id": "53",
       "chapter": "1",
       "romaji": "watashitachi",
-      "dutch": "wij"
+      "dutch": "wij",
+      "hiragana": "\u308f\u305f\u3057\u305f\u3061"
     },
     {
       "id": "54",
       "chapter": "1",
       "romaji": "oranda",
-      "dutch": "Nederland"
+      "dutch": "Nederland",
+      "hiragana": "\u304a\u3089\u3093\u3060"
     },
     {
       "id": "55",
       "chapter": "2",
       "romaji": "ohayou",
-      "dutch": "goedemorgen"
+      "dutch": "goedemorgen",
+      "hiragana": "\u304a\u306f\u3088\u3046"
     },
     {
       "id": "56",
       "chapter": "2",
       "romaji": "ohayou gozaimasu",
-      "dutch": "goedemorgen (beleefd)"
+      "dutch": "goedemorgen (beleefd)",
+      "hiragana": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059"
     },
     {
       "id": "57",
       "chapter": "2",
       "romaji": "konnichiwa",
-      "dutch": "goedendag/goedemiddag"
+      "dutch": "goedendag/goedemiddag",
+      "hiragana": "\u3053\u3093\u306b\u3061\u306f"
     },
     {
       "id": "58",
       "chapter": "2",
       "romaji": "konbanwa",
-      "dutch": "goedenacht/goedenavond"
+      "dutch": "goedenacht/goedenavond",
+      "hiragana": "\u3053\u3093\u3070\u3093\u306f"
     },
     {
       "id": "59",
       "chapter": "2",
       "romaji": "genki desu",
-      "dutch": "het gaat goed"
+      "dutch": "het gaat goed",
+      "hiragana": "\u3052\u3093\u304d\u3067\u3059"
     },
     {
       "id": "60",
       "chapter": "2",
       "romaji": "osaki ni",
-      "dutch": "alvast/voor"
+      "dutch": "alvast/voor",
+      "hiragana": "\u304a\u3055\u304d\u306b"
     },
     {
       "id": "61",
       "chapter": "2",
       "romaji": "ja mata",
-      "dutch": "tot later/tot dan"
+      "dutch": "tot later/tot dan",
+      "hiragana": "\u3058\u3083\u307e\u305f"
     },
     {
       "id": "62",
       "chapter": "2",
       "romaji": "wakarimashita",
-      "dutch": "begrepen"
+      "dutch": "begrepen",
+      "hiragana": "\u308f\u304b\u308a\u307e\u3057\u305f"
     },
     {
       "id": "63",
       "chapter": "2",
       "romaji": "oyasumi",
-      "dutch": "welterusten"
+      "dutch": "welterusten",
+      "hiragana": "\u304a\u3084\u3059\u307f"
     },
     {
       "id": "64",
       "chapter": "2",
       "romaji": "oyasuminasai",
-      "dutch": "welterusten (beleefd)"
+      "dutch": "welterusten (beleefd)",
+      "hiragana": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044"
     },
     {
       "id": "65",
       "chapter": "2",
       "romaji": "douzo kochira he",
-      "dutch": "deze kant op alstublieft (beleefd)"
+      "dutch": "deze kant op alstublieft (beleefd)",
+      "hiragana": "\u3069\u3046\u305e\u3053\u3061\u3089\u3078"
     },
     {
       "id": "66",
       "chapter": "2",
       "romaji": "nemasu",
-      "dutch": "slapen"
+      "dutch": "slapen",
+      "hiragana": "\u306d\u307e\u3059"
     },
     {
       "id": "67",
       "chapter": "2",
       "romaji": "sayounara",
-      "dutch": "vaarwel"
+      "dutch": "vaarwel",
+      "hiragana": "\u3055\u3088\u3046\u306a\u3089"
     },
     {
       "id": "68",
       "chapter": "2",
       "romaji": "ringo",
-      "dutch": "appel"
+      "dutch": "appel",
+      "hiragana": "\u308a\u3093\u3054"
     },
     {
       "id": "69",
       "chapter": "2",
       "romaji": "tenin",
-      "dutch": "winkelmedewerker"
+      "dutch": "winkelmedewerker",
+      "hiragana": "\u3066\u3093\u3044\u3093"
     },
     {
       "id": "70",
       "chapter": "2",
       "romaji": "shain",
-      "dutch": "bedrijfsmedewerker"
+      "dutch": "bedrijfsmedewerker",
+      "hiragana": "\u3057\u3083\u3044\u3093"
     },
     {
       "id": "71",
       "chapter": "2",
       "romaji": "doitsu",
-      "dutch": "Duitsland"
+      "dutch": "Duitsland",
+      "hiragana": "\u3069\u3044\u3064"
     },
     {
       "id": "72",
       "chapter": "2",
       "romaji": "amerika",
-      "dutch": "Amerika"
+      "dutch": "Amerika",
+      "hiragana": "\u3042\u3081\u308a\u304b"
     },
     {
       "id": "73",
       "chapter": "2",
       "romaji": "furansu",
-      "dutch": "Frankrijk"
+      "dutch": "Frankrijk",
+      "hiragana": "\u3075\u3089\u3093\u3059"
     },
     {
       "id": "74",
       "chapter": "2",
       "romaji": "berugii",
-      "dutch": "Belgie"
+      "dutch": "Belgie",
+      "hiragana": "\u3079\u308b\u304e\u3044"
     },
     {
       "id": "75",
       "chapter": "2",
       "romaji": "indo",
-      "dutch": "India"
+      "dutch": "India",
+      "hiragana": "\u3044\u3093\u3069"
     },
     {
       "id": "76",
       "chapter": "2",
       "romaji": "indoneshia",
-      "dutch": "Indonesie"
+      "dutch": "Indonesie",
+      "hiragana": "\u3044\u3093\u3069\u306d\u3057\u3042"
     },
     {
       "id": "77",
       "chapter": "2",
       "romaji": "sensei",
-      "dutch": "leraar/dokter"
+      "dutch": "leraar/dokter",
+      "hiragana": "\u305b\u3093\u305b\u3044"
     },
     {
       "id": "78",
       "chapter": "2",
       "romaji": "senpai",
-      "dutch": "hoger in rang/meerdere/senior"
+      "dutch": "hoger in rang/meerdere/senior",
+      "hiragana": "\u305b\u3093\u3071\u3044"
     },
     {
       "id": "79",
       "chapter": "2",
       "romaji": "kouhai",
-      "dutch": "lager in rang/mindere/junior"
+      "dutch": "lager in rang/mindere/junior",
+      "hiragana": "\u3053\u3046\u306f\u3044"
     },
     {
       "id": "80",
       "chapter": "2",
       "romaji": "shachou",
-      "dutch": "directeur/CEO"
+      "dutch": "directeur/CEO",
+      "hiragana": "\u3057\u3083\u3061\u3087\u3046"
     },
     {
       "id": "81",
       "chapter": "2",
       "romaji": "buchou",
-      "dutch": "afdelingshoofd (manager)"
+      "dutch": "afdelingshoofd (manager)",
+      "hiragana": "\u3076\u3061\u3087\u3046"
     },
     {
       "id": "82",
       "chapter": "2",
       "romaji": "kachou",
-      "dutch": "sectie/team hoofd (manager)"
+      "dutch": "sectie/team hoofd (manager)",
+      "hiragana": "\u304b\u3061\u3087\u3046"
     },
     {
       "id": "83",
       "chapter": "2",
       "romaji": "kaisha",
-      "dutch": "bedrijf"
+      "dutch": "bedrijf",
+      "hiragana": "\u304b\u3044\u3057\u3083"
     },
     {
       "id": "84",
       "chapter": "2",
       "romaji": "ginkou",
-      "dutch": "bank"
+      "dutch": "bank",
+      "hiragana": "\u304e\u3093\u3053\u3046"
     },
     {
       "id": "85",
       "chapter": "2",
       "romaji": "gakkou",
-      "dutch": "school"
+      "dutch": "school",
+      "hiragana": "\u304c\u3063\u3053\u3046"
     },
     {
       "id": "86",
       "chapter": "2",
       "romaji": "daigaku",
-      "dutch": "universiteit"
+      "dutch": "universiteit",
+      "hiragana": "\u3060\u3044\u304c\u304f"
     },
     {
       "id": "87",
       "chapter": "2",
       "romaji": "seki",
-      "dutch": "plaats/plek"
+      "dutch": "plaats/plek",
+      "hiragana": "\u305b\u304d"
     },
     {
       "id": "88",
       "chapter": "2",
       "romaji": "modorimasu",
-      "dutch": "terugkeren"
+      "dutch": "terugkeren",
+      "hiragana": "\u3082\u3069\u308a\u307e\u3059"
     },
     {
       "id": "89",
       "chapter": "2",
       "romaji": "shitsurei shimasu",
-      "dutch": "excuseer mij"
+      "dutch": "excuseer mij",
+      "hiragana": "\u3057\u3064\u308c\u3044\u3057\u307e\u3059"
     },
     {
       "id": "90",
       "chapter": "2",
       "romaji": "jugyou",
-      "dutch": "les"
+      "dutch": "les",
+      "hiragana": "\u3058\u3085\u304e\u3087\u3046"
     },
     {
       "id": "91",
       "chapter": "2",
       "romaji": "hajimarimasu",
-      "dutch": "beginnen"
+      "dutch": "beginnen",
+      "hiragana": "\u306f\u3058\u307e\u308a\u307e\u3059"
     },
     {
       "id": "92",
       "chapter": "3",
       "romaji": "denwa",
-      "dutch": "telefoon"
+      "dutch": "telefoon",
+      "hiragana": "\u3067\u3093\u308f"
     },
     {
       "id": "93",
       "chapter": "3",
       "romaji": "ban",
-      "dutch": "cijfer/nummer"
+      "dutch": "cijfer/nummer",
+      "hiragana": "\u3070\u3093"
     },
     {
       "id": "94",
       "chapter": "3",
       "romaji": "bangou",
-      "dutch": "nummer (reeks)"
+      "dutch": "nummer (reeks)",
+      "hiragana": "\u3070\u3093\u3054\u3046"
     },
     {
       "id": "95",
       "chapter": "3",
       "romaji": "sai",
-      "dutch": "telwoord voor leeftijd"
+      "dutch": "telwoord voor leeftijd",
+      "hiragana": "\u3055\u3044"
     },
     {
       "id": "96",
       "chapter": "3",
       "romaji": "ja/dewa arimasen",
-      "dutch": "zijn in het negatief 'niet zijn'"
+      "dutch": "zijn in het negatief 'niet zijn'",
+      "hiragana": "\u3058\u3083/\u3067\u308f\u3042\u308a\u307e\u305b\u3093"
     },
     {
       "id": "97",
       "chapter": "3",
       "romaji": "iie",
-      "dutch": "nee"
+      "dutch": "nee",
+      "hiragana": "\u3044\u3044\u3048"
     },
     {
       "id": "98",
       "chapter": "3",
       "romaji": "sumimasen (deshita)",
-      "dutch": "excuseer mij/sorry"
+      "dutch": "excuseer mij/sorry",
+      "hiragana": "\u3059\u307f\u307e\u305b\u3093(\u3067\u3057\u305f)"
     },
     {
       "id": "99",
       "chapter": "3",
-      "romaji": "gomenasai",
-      "dutch": "sorry"
+      "romaji": "gomennasai",
+      "dutch": "sorry",
+      "hiragana": "\u3054\u3081\u3093\u306a\u3055\u3044"
     },
     {
       "id": "100",
       "chapter": "3",
       "romaji": "ikutsu",
-      "dutch": "hoe oud/hoeveel"
+      "dutch": "hoe oud/hoeveel",
+      "hiragana": "\u3044\u304f\u3064"
     },
     {
       "id": "101",
       "chapter": "3",
       "romaji": "musume",
-      "dutch": "dochter"
+      "dutch": "dochter",
+      "hiragana": "\u3080\u3059\u3081"
     },
     {
       "id": "102",
       "chapter": "3",
       "romaji": "musuko",
-      "dutch": "zoon"
+      "dutch": "zoon",
+      "hiragana": "\u3080\u3059\u3053"
     },
     {
       "id": "103",
       "chapter": "3",
       "romaji": "saifu",
-      "dutch": "portemonee"
+      "dutch": "portemonee",
+      "hiragana": "\u3055\u3044\u3075"
     },
     {
       "id": "104",
       "chapter": "3",
       "romaji": "sou",
-      "dutch": "zo (dat is zo)"
+      "dutch": "zo (dat is zo)",
+      "hiragana": "\u305d\u3046"
     },
     {
       "id": "105",
       "chapter": "3",
       "romaji": "keitai",
-      "dutch": "mobiele telefoon"
+      "dutch": "mobiele telefoon",
+      "hiragana": "\u3051\u3044\u305f\u3044"
     },
     {
       "id": "106",
       "chapter": "3",
       "romaji": "no",
-      "dutch": "streepje in telefoonnummers ( - )"
+      "dutch": "streepje in telefoonnummers ( - )",
+      "hiragana": "\u306e"
     },
     {
       "id": "107",
       "chapter": "3",
       "romaji": "hatachi",
-      "dutch": "20 (in leeftijd)"
+      "dutch": "20 (in leeftijd)",
+      "hiragana": "\u306f\u305f\u3061"
     },
     {
       "id": "108",
       "chapter": "3",
       "romaji": "mondai",
-      "dutch": "probleem/opdracht"
+      "dutch": "probleem/opdracht",
+      "hiragana": "\u3082\u3093\u3060\u3044"
     },
     {
       "id": "109",
       "chapter": "3",
       "romaji": "kore wo douzo",
-      "dutch": "hier, alsjeblieft (als je wat geeft)"
+      "dutch": "hier, alsjeblieft (als je wat geeft)",
+      "hiragana": "\u3053\u308c\u3092\u3069\u3046\u305e"
     },
     {
       "id": "110",
       "chapter": "3",
       "romaji": "tasukarimasu",
-      "dutch": "gered/mee geholpen worden"
+      "dutch": "gered/mee geholpen worden",
+      "hiragana": "\u305f\u3059\u304b\u308a\u307e\u3059"
     },
     {
       "id": "111",
       "chapter": "4",
       "romaji": "toki",
-      "dutch": "tijd"
+      "dutch": "tijd",
+      "hiragana": "\u3068\u304d"
     },
     {
       "id": "112",
       "chapter": "4",
       "romaji": "kara",
-      "dutch": "vanaf/begin"
+      "dutch": "vanaf/begin",
+      "hiragana": "\u304b\u3089"
     },
     {
       "id": "113",
       "chapter": "4",
       "romaji": "made",
-      "dutch": "tot/einde"
+      "dutch": "tot/einde",
+      "hiragana": "\u307e\u3067"
     },
     {
       "id": "114",
       "chapter": "4",
       "romaji": "ima",
-      "dutch": "op dit moment/nu"
+      "dutch": "op dit moment/nu",
+      "hiragana": "\u3044\u307e"
     },
     {
       "id": "115",
       "chapter": "4",
       "romaji": "nanji",
-      "dutch": "hoe laat"
+      "dutch": "hoe laat",
+      "hiragana": "\u306a\u3093\u3058"
     },
     {
       "id": "116",
       "chapter": "4",
       "romaji": "ji",
-      "dutch": "telwoord voor tijd of uur"
+      "dutch": "telwoord voor tijd of uur",
+      "hiragana": "\u3058"
     },
     {
       "id": "117",
       "chapter": "4",
       "romaji": "gozen",
-      "dutch": "a.m. (00:00 tot 12:00)"
+      "dutch": "a.m. (00:00 tot 12:00)",
+      "hiragana": "\u3054\u305c\u3093"
     },
     {
       "id": "118",
       "chapter": "4",
       "romaji": "gogo",
-      "dutch": "p.m. (12:00 tot 23:59)"
+      "dutch": "p.m. (12:00 tot 23:59)",
+      "hiragana": "\u3054\u3054"
     },
     {
       "id": "119",
       "chapter": "4",
       "romaji": "dou itashimashite",
-      "dutch": "alstublieft/graag gedaan"
+      "dutch": "alstublieft/graag gedaan",
+      "hiragana": "\u3069\u3046\u3044\u305f\u3057\u307e\u3057\u3066"
     },
     {
       "id": "120",
       "chapter": "4",
       "romaji": "ashita",
-      "dutch": "morgen"
+      "dutch": "morgen",
+      "hiragana": "\u3042\u3057\u305f"
     },
     {
       "id": "121",
       "chapter": "4",
       "romaji": "han",
-      "dutch": "half"
+      "dutch": "half",
+      "hiragana": "\u306f\u3093"
     },
     {
       "id": "122",
       "chapter": "4",
       "romaji": "kinou",
-      "dutch": "gisteren"
+      "dutch": "gisteren",
+      "hiragana": "\u304d\u306e\u3046"
     },
     {
       "id": "123",
       "chapter": "4",
       "romaji": "asatte",
-      "dutch": "overmorgen"
+      "dutch": "overmorgen",
+      "hiragana": "\u3042\u3055\u3063\u3066"
     },
     {
       "id": "124",
       "chapter": "4",
       "romaji": "ototoi",
-      "dutch": "eergisteren"
+      "dutch": "eergisteren",
+      "hiragana": "\u304a\u3068\u3068\u3044"
     },
     {
       "id": "125",
       "chapter": "4",
       "romaji": "getsuyoubi",
-      "dutch": "maandag"
+      "dutch": "maandag",
+      "hiragana": "\u3052\u3064\u3088\u3046\u3073"
     },
     {
       "id": "126",
       "chapter": "4",
       "romaji": "kayoubi",
-      "dutch": "dinsdag"
+      "dutch": "dinsdag",
+      "hiragana": "\u304b\u3088\u3046\u3073"
     },
     {
       "id": "127",
       "chapter": "4",
       "romaji": "suiyoubi",
-      "dutch": "woensdag"
+      "dutch": "woensdag",
+      "hiragana": "\u3059\u3044\u3088\u3046\u3073"
     },
     {
       "id": "128",
       "chapter": "4",
       "romaji": "mokuyoubi",
-      "dutch": "donderdag"
+      "dutch": "donderdag",
+      "hiragana": "\u3082\u304f\u3088\u3046\u3073"
     },
     {
       "id": "129",
       "chapter": "4",
       "romaji": "kinyoubi",
-      "dutch": "vrijdag"
+      "dutch": "vrijdag",
+      "hiragana": "\u304d\u306b\u3087\u3046\u3073"
     },
     {
       "id": "130",
       "chapter": "4",
       "romaji": "doyoubi",
-      "dutch": "zaterdag"
+      "dutch": "zaterdag",
+      "hiragana": "\u3069\u3088\u3046\u3073"
     },
     {
       "id": "131",
       "chapter": "4",
       "romaji": "nichiyoubi",
-      "dutch": "zondag"
+      "dutch": "zondag",
+      "hiragana": "\u306b\u3061\u3088\u3046\u3073"
     },
     {
       "id": "132",
       "chapter": "4",
       "romaji": "ie",
-      "dutch": "huis (een huis)"
+      "dutch": "huis (een huis)",
+      "hiragana": "\u3044\u3048"
     },
     {
       "id": "133",
       "chapter": "4",
       "romaji": "uchi",
-      "dutch": "huis (eigen huis)"
+      "dutch": "huis (eigen huis)",
+      "hiragana": "\u3046\u3061"
     },
     {
       "id": "134",
       "chapter": "4",
       "romaji": "depaato",
-      "dutch": "warenhuis"
+      "dutch": "warenhuis",
+      "hiragana": "\u3067\u3071\u3042\u3068"
     },
     {
       "id": "135",
       "chapter": "4",
       "romaji": "sushiya",
-      "dutch": "sushi winkel"
+      "dutch": "sushi winkel",
+      "hiragana": "\u3059\u3057\u3084"
     },
     {
       "id": "136",
       "chapter": "4",
       "romaji": "mise",
-      "dutch": "winkel"
+      "dutch": "winkel",
+      "hiragana": "\u307f\u305b"
     },
     {
       "id": "137",
       "chapter": "4",
       "romaji": "resutoran",
-      "dutch": "restaurant"
+      "dutch": "restaurant",
+      "hiragana": "\u308c\u3059\u3068\u3089\u3093"
     },
     {
       "id": "138",
       "chapter": "4",
       "romaji": "panya",
-      "dutch": "bakkerij"
+      "dutch": "bakkerij",
+      "hiragana": "\u3071\u3093\u3084"
     },
     {
       "id": "139",
       "chapter": "4",
       "romaji": "kusuriya",
-      "dutch": "apotheek (medicijn winkel)"
+      "dutch": "apotheek (medicijn winkel)",
+      "hiragana": "\u304f\u3059\u308a\u3084"
     },
     {
       "id": "140",
       "chapter": "4",
       "romaji": "kyou",
-      "dutch": "vandaag"
+      "dutch": "vandaag",
+      "hiragana": "\u304d\u3087\u3046"
     },
     {
       "id": "141",
       "chapter": "4",
       "romaji": "daijoubu",
-      "dutch": "goed"
+      "dutch": "goed",
+      "hiragana": "\u3060\u3044\u3058\u3087\u3046\u3076"
     },
     {
       "id": "142",
       "chapter": "4",
       "romaji": "taihen",
-      "dutch": "erg/vreselijk/veel"
+      "dutch": "erg/vreselijk/veel",
+      "hiragana": "\u305f\u3044\u3078\u3093"
     },
     {
       "id": "143",
       "chapter": "4",
       "romaji": "shigoto",
-      "dutch": "werk"
+      "dutch": "werk",
+      "hiragana": "\u3057\u3054\u3068"
     },
     {
       "id": "144",
       "chapter": "4",
       "romaji": "nan deshou ka",
-      "dutch": "wat is er/wat zal het zijn"
+      "dutch": "wat is er/wat zal het zijn",
+      "hiragana": "\u306a\u3093\u3067\u3057\u3087\u3046\u304b"
     },
     {
       "id": "145",
       "chapter": "4",
       "romaji": "gohan",
-      "dutch": "rijst/eten"
+      "dutch": "rijst/eten",
+      "hiragana": "\u3054\u306f\u3093"
     },
     {
       "id": "146",
       "chapter": "4",
       "romaji": "asagohan",
-      "dutch": "ontbijt"
+      "dutch": "ontbijt",
+      "hiragana": "\u3042\u3055\u3054\u306f\u3093"
     },
     {
       "id": "147",
       "chapter": "4",
       "romaji": "hirugohan",
-      "dutch": "lunch"
+      "dutch": "lunch",
+      "hiragana": "\u3072\u308b\u3054\u306f\u3093"
     },
     {
       "id": "148",
       "chapter": "4",
       "romaji": "bangohan",
-      "dutch": "diner/avondeten"
+      "dutch": "diner/avondeten",
+      "hiragana": "\u3070\u3093\u3054\u306f\u3093"
     },
     {
       "id": "149",
       "chapter": "4",
       "romaji": "muri",
-      "dutch": "onmogelijk/onredelijk"
+      "dutch": "onmogelijk/onredelijk",
+      "hiragana": "\u3080\u308a"
     },
     {
       "id": "150",
       "chapter": "5",
       "romaji": "moshimoshi",
-      "dutch": "hallo (telefoon)"
+      "dutch": "hallo (telefoon)",
+      "hiragana": "\u3082\u3057\u3082\u3057"
     },
     {
       "id": "151",
       "chapter": "5",
       "romaji": "raishuu",
-      "dutch": "volgende week"
+      "dutch": "volgende week",
+      "hiragana": "\u3089\u3044\u3057\u3085\u3046"
     },
     {
       "id": "152",
       "chapter": "5",
       "romaji": "kaigi",
-      "dutch": "vergadering"
+      "dutch": "vergadering",
+      "hiragana": "\u304b\u3044\u304e"
     },
     {
       "id": "153",
       "chapter": "5",
       "romaji": "ikimasu",
-      "dutch": "gaan"
+      "dutch": "gaan",
+      "hiragana": "\u3044\u304d\u307e\u3059"
     },
     {
       "id": "154",
       "chapter": "5",
       "romaji": "kimasu",
-      "dutch": "komen"
+      "dutch": "komen",
+      "hiragana": "\u304d\u307e\u3059"
     },
     {
       "id": "155",
       "chapter": "5",
       "romaji": "dewa mata",
-      "dutch": "nou dan, tot ziens"
+      "dutch": "nou dan, tot ziens",
+      "hiragana": "\u3067\u306f\u307e\u305f"
     },
     {
       "id": "156",
       "chapter": "5",
       "romaji": "paatii",
-      "dutch": "feestje"
+      "dutch": "feestje",
+      "hiragana": "\u3071\u3042\u3066\u3043\u3044"
     },
     {
       "id": "157",
       "chapter": "5",
       "romaji": "baa",
-      "dutch": "bar"
+      "dutch": "bar",
+      "hiragana": "\u3070\u3042"
     },
     {
       "id": "158",
       "chapter": "5",
       "romaji": "tsukimasu",
-      "dutch": "aankomen/arriveren"
+      "dutch": "aankomen/arriveren",
+      "hiragana": "\u3064\u304d\u307e\u3059"
     },
     {
       "id": "159",
       "chapter": "5",
       "romaji": "amusuterudamu",
-      "dutch": "Amsterdam"
+      "dutch": "Amsterdam",
+      "hiragana": "\u3042\u3080\u3059\u3066\u308b\u3060\u3080"
     },
     {
       "id": "160",
       "chapter": "5",
       "romaji": "rotterudamu",
-      "dutch": "Rotterdam"
+      "dutch": "Rotterdam",
+      "hiragana": "\u308d\u3063\u3066\u308b\u3060\u3080"
     },
     {
       "id": "161",
       "chapter": "5",
       "romaji": "sukebeningen",
-      "dutch": "Scheveningen"
+      "dutch": "Scheveningen",
+      "hiragana": "\u3059\u3051\u3079\u306b\u3093\u3052\u3093"
     },
     {
       "id": "162",
       "chapter": "5",
       "romaji": "byouin",
-      "dutch": "ziekenhuis"
+      "dutch": "ziekenhuis",
+      "hiragana": "\u3073\u3087\u3046\u3044\u3093"
     },
     {
       "id": "163",
       "chapter": "5",
       "romaji": "isha",
-      "dutch": "dokter"
+      "dutch": "dokter",
+      "hiragana": "\u3044\u3057\u3083"
     },
     {
       "id": "164",
       "chapter": "5",
       "romaji": "honsha",
-      "dutch": "hoofdkantoor"
+      "dutch": "hoofdkantoor",
+      "hiragana": "\u307b\u3093\u3057\u3083"
     },
     {
       "id": "165",
       "chapter": "5",
       "romaji": "shisha",
-      "dutch": "regionaal kantoor/vestiging"
+      "dutch": "regionaal kantoor/vestiging",
+      "hiragana": "\u3057\u3057\u3083"
     },
     {
       "id": "166",
       "chapter": "5",
       "romaji": "zannen",
-      "dutch": "jammer/spijtig"
+      "dutch": "jammer/spijtig",
+      "hiragana": "\u3056\u3093\u306d\u3093"
     },
     {
       "id": "167",
       "chapter": "5",
       "romaji": "kaerimasu",
-      "dutch": "terugkeren (naar huis/land)"
+      "dutch": "terugkeren (naar huis/land)",
+      "hiragana": "\u304b\u3048\u308a\u307e\u3059"
     },
     {
       "id": "168",
       "chapter": "5",
       "romaji": "shi",
-      "dutch": "achtervoegsel stad"
+      "dutch": "achtervoegsel stad",
+      "hiragana": "\u3057"
     },
     {
       "id": "169",
       "chapter": "5",
       "romaji": "machi",
-      "dutch": "dorp/kleinere stad"
+      "dutch": "dorp/kleinere stad",
+      "hiragana": "\u307e\u3061"
     },
     {
       "id": "170",
       "chapter": "5",
       "romaji": "inaka",
-      "dutch": "platteland/buiten de steden"
+      "dutch": "platteland/buiten de steden",
+      "hiragana": "\u3044\u306a\u304b"
     },
     {
       "id": "171",
       "chapter": "5",
       "romaji": "machinaka",
-      "dutch": "in de stad"
+      "dutch": "in de stad",
+      "hiragana": "\u307e\u3061\u306a\u304b"
     },
     {
       "id": "172",
       "chapter": "5",
       "romaji": "okaasan",
-      "dutch": "moeder (een moeder)"
+      "dutch": "moeder (een moeder)",
+      "hiragana": "\u304a\u304b\u3042\u3055\u3093"
     },
     {
       "id": "173",
       "chapter": "5",
       "romaji": "haha",
-      "dutch": "moeder (van de spreker)"
+      "dutch": "moeder (van de spreker)",
+      "hiragana": "\u306f\u306f"
     },
     {
       "id": "174",
       "chapter": "5",
       "romaji": "otousan",
-      "dutch": "vader (een vader)"
+      "dutch": "vader (een vader)",
+      "hiragana": "\u304a\u3068\u3046\u3055\u3093"
     },
     {
       "id": "175",
       "chapter": "5",
       "romaji": "chichi",
-      "dutch": "vader (van de spreker)"
+      "dutch": "vader (van de spreker)",
+      "hiragana": "\u3061\u3061"
     },
     {
       "id": "176",
       "chapter": "5",
       "romaji": "piiaaru",
-      "dutch": "PR"
+      "dutch": "PR",
+      "hiragana": "\u3074\u3044\u3042\u3042\u308b"
     },
     {
       "id": "177",
       "chapter": "5",
       "romaji": "machiawase",
-      "dutch": "bijeenkomst"
+      "dutch": "bijeenkomst",
+      "hiragana": "\u307e\u3061\u3042\u308f\u305b"
     },
     {
       "id": "178",
       "chapter": "5",
       "romaji": "okyakusama",
-      "dutch": "klant"
+      "dutch": "klant",
+      "hiragana": "\u304a\u304d\u3083\u304f\u3055\u307e"
     },
     {
       "id": "179",
       "chapter": "5",
       "romaji": "shuppatsu",
-      "dutch": "vertrek"
+      "dutch": "vertrek",
+      "hiragana": "\u3057\u3085\u3063\u3071\u3064"
     },
     {
       "id": "180",
       "chapter": "5",
       "romaji": "yoru",
-      "dutch": "avond"
+      "dutch": "avond",
+      "hiragana": "\u3088\u308b"
     },
     {
       "id": "181",
       "chapter": "5",
       "romaji": "saraishuu",
-      "dutch": "week na volgende week"
+      "dutch": "week na volgende week",
+      "hiragana": "\u3055\u3089\u3044\u3057\u3085\u3046"
     },
     {
       "id": "182",
       "chapter": "5",
       "romaji": "ofisu",
-      "dutch": "kantoor"
+      "dutch": "kantoor",
+      "hiragana": "\u304a\u3075\u3043\u3059"
     },
     {
       "id": "183",
       "chapter": "5",
       "romaji": "jimusho",
-      "dutch": "kantoor"
+      "dutch": "kantoor",
+      "hiragana": "\u3058\u3080\u3057\u3087"
     },
     {
       "id": "184",
       "chapter": "6",
       "romaji": "irasshaimase",
-      "dutch": "welkomstbegroeting in winkels"
+      "dutch": "welkomstbegroeting in winkels",
+      "hiragana": "\u3044\u3089\u3063\u3057\u3083\u3044\u307e\u305b"
     },
     {
       "id": "185",
       "chapter": "6",
       "romaji": "okashi",
-      "dutch": "snoep/lekkernijtjes/snacks"
+      "dutch": "snoep/lekkernijtjes/snacks",
+      "hiragana": "\u304a\u304b\u3057"
     },
     {
       "id": "186",
       "chapter": "6",
       "romaji": "misete kudasai",
-      "dutch": "laat zien a.u.b."
+      "dutch": "laat zien a.u.b.",
+      "hiragana": "\u307f\u305b\u3066\u304f\u3060\u3055\u3044"
     },
     {
       "id": "187",
       "chapter": "6",
       "romaji": "wo kudasai",
-      "dutch": "(dit/dat) graag"
+      "dutch": "(dit/dat) graag",
+      "hiragana": "\u3092\u304f\u3060\u3055\u3044"
     },
     {
       "id": "188",
       "chapter": "6",
       "romaji": "osechiryouri",
-      "dutch": "traditioneel nieuwjaarsgerecht"
+      "dutch": "traditioneel nieuwjaarsgerecht",
+      "hiragana": "\u304a\u305b\u3061\u308a\u3087\u3046\u308a"
     },
     {
       "id": "189",
       "chapter": "6",
       "romaji": "mochi",
-      "dutch": "Japanse kleefrijst"
+      "dutch": "Japanse kleefrijst",
+      "hiragana": "\u3082\u3061"
     },
     {
       "id": "190",
       "chapter": "6",
       "romaji": "chokoreeto",
-      "dutch": "chocola"
+      "dutch": "chocola",
+      "hiragana": "\u3061\u3087\u3053\u308c\u3048\u3068"
     },
     {
       "id": "191",
       "chapter": "6",
       "romaji": "tabemasu",
-      "dutch": "eten"
+      "dutch": "eten",
+      "hiragana": "\u305f\u3079\u307e\u3059"
     },
     {
       "id": "192",
       "chapter": "6",
       "romaji": "tsukurimasu",
-      "dutch": "maken"
+      "dutch": "maken",
+      "hiragana": "\u3064\u304f\u308a\u307e\u3059"
     },
     {
       "id": "193",
       "chapter": "6",
       "romaji": "osake",
-      "dutch": "alcohol"
+      "dutch": "alcohol",
+      "hiragana": "\u304a\u3055\u3051"
     },
     {
       "id": "194",
       "chapter": "6",
       "romaji": "nihonshu",
-      "dutch": "Japanse alcohol/rijstwijn (sake)"
+      "dutch": "Japanse alcohol/rijstwijn (sake)",
+      "hiragana": "\u306b\u307b\u3093\u3057\u3085"
     },
     {
       "id": "195",
       "chapter": "6",
       "romaji": "oniku",
-      "dutch": "vlees"
+      "dutch": "vlees",
+      "hiragana": "\u304a\u306b\u304f"
     },
     {
       "id": "196",
       "chapter": "6",
       "romaji": "yakiniku",
-      "dutch": "barbecuevlees"
+      "dutch": "barbecuevlees",
+      "hiragana": "\u3084\u304d\u306b\u304f"
     },
     {
       "id": "197",
       "chapter": "6",
       "romaji": "okonomiyaki",
-      "dutch": "Japanse pannekoek"
+      "dutch": "Japanse pannekoek",
+      "hiragana": "\u304a\u3053\u306e\u307f\u3084\u304d"
     },
     {
       "id": "198",
       "chapter": "6",
       "romaji": "nabe",
-      "dutch": "Japanse hotspot"
+      "dutch": "Japanse hotspot",
+      "hiragana": "\u306a\u3079"
     },
     {
       "id": "199",
       "chapter": "6",
       "romaji": "biiru",
-      "dutch": "bier"
+      "dutch": "bier",
+      "hiragana": "\u3073\u3044\u308b"
     },
     {
       "id": "200",
       "chapter": "6",
       "romaji": "wain",
-      "dutch": "wijn"
+      "dutch": "wijn",
+      "hiragana": "\u308f\u3044\u3093"
     },
     {
       "id": "201",
       "chapter": "6",
       "romaji": "tshatsu",
-      "dutch": "T-shirt"
+      "dutch": "T-shirt",
+      "hiragana": "T-\u3057\u3083\u3064"
     },
     {
       "id": "202",
       "chapter": "6",
       "romaji": "fuku",
-      "dutch": "kleding"
+      "dutch": "kleding",
+      "hiragana": "\u3075\u304f"
     },
     {
       "id": "203",
       "chapter": "6",
       "romaji": "kamera",
-      "dutch": "camera"
+      "dutch": "camera",
+      "hiragana": "\u304b\u3081\u3089"
     },
     {
       "id": "204",
       "chapter": "6",
       "romaji": "jaketto",
-      "dutch": "jas"
+      "dutch": "jas",
+      "hiragana": "\u3058\u3083\u3051\u3063\u3068"
     },
     {
       "id": "205",
       "chapter": "6",
       "romaji": "kasa",
-      "dutch": "paraplu"
+      "dutch": "paraplu",
+      "hiragana": "\u304b\u3055"
     },
     {
       "id": "206",
       "chapter": "6",
       "romaji": "terebi",
-      "dutch": "televisie"
+      "dutch": "televisie",
+      "hiragana": "\u3066\u308c\u3073"
     },
     {
       "id": "207",
       "chapter": "6",
       "romaji": "shinbun",
-      "dutch": "krant"
+      "dutch": "krant",
+      "hiragana": "\u3057\u3093\u3076\u3093"
     },
     {
       "id": "208",
       "chapter": "6",
       "romaji": "hiruyasumi",
-      "dutch": "lunchpauze"
+      "dutch": "lunchpauze",
+      "hiragana": "\u3072\u308b\u3084\u3059\u307f"
     },
     {
       "id": "209",
       "chapter": "6",
       "romaji": "natsuyasumi",
-      "dutch": "zomervakantie"
+      "dutch": "zomervakantie",
+      "hiragana": "\u306a\u3064\u3084\u3059\u307f"
     },
     {
       "id": "210",
       "chapter": "6",
       "romaji": "fuyuyasumi",
-      "dutch": "wintervakantie"
+      "dutch": "wintervakantie",
+      "hiragana": "\u3075\u3086\u3084\u3059\u307f"
     },
     {
       "id": "211",
       "chapter": "6",
       "romaji": "kaimasu",
-      "dutch": "kopen"
+      "dutch": "kopen",
+      "hiragana": "\u304b\u3044\u307e\u3059"
     },
     {
       "id": "212",
       "chapter": "6",
       "romaji": "kore",
-      "dutch": "dit hier bij de spreker"
+      "dutch": "dit hier bij de spreker",
+      "hiragana": "\u3053\u308c"
     },
     {
       "id": "213",
       "chapter": "6",
       "romaji": "sore",
-      "dutch": "dat daar bij de luisteraar"
+      "dutch": "dat daar bij de luisteraar",
+      "hiragana": "\u305d\u308c"
     },
     {
       "id": "214",
       "chapter": "6",
       "romaji": "sochira",
-      "dutch": "daar (formeel), bij de luisteraar"
+      "dutch": "daar (formeel), bij de luisteraar",
+      "hiragana": "\u305d\u3061\u3089"
     },
     {
       "id": "215",
       "chapter": "6",
       "romaji": "are",
-      "dutch": "daarginds, weg van de spreker en luisteraar"
+      "dutch": "daarginds, weg van de spreker en luisteraar",
+      "hiragana": "\u3042\u308c"
     },
     {
       "id": "216",
       "chapter": "6",
       "romaji": "achira",
-      "dutch": "daarginds (formeel), weg van de spreker en luisteraar"
+      "dutch": "daarginds (formeel), weg van de spreker en luisteraar",
+      "hiragana": "\u3042\u3061\u3089"
     },
     {
       "id": "217",
       "chapter": "6",
       "romaji": "mo",
-      "dutch": "ook"
+      "dutch": "ook",
+      "hiragana": "\u3082"
     },
     {
       "id": "218",
       "chapter": "6",
       "romaji": "ikaga desu ka",
-      "dutch": "hoe zal ... zijn?"
+      "dutch": "hoe zal ... zijn?",
+      "hiragana": "\u3044\u304b\u304c\u3067\u3059\u304b"
     },
     {
       "id": "219",
       "chapter": "6",
       "romaji": "kashikomarimashita",
-      "dutch": "begrepen (beleefd)"
+      "dutch": "begrepen (beleefd)",
+      "hiragana": "\u304b\u3057\u3053\u307e\u308a\u307e\u3057\u305f"
     },
     {
       "id": "220",
       "chapter": "6",
       "romaji": "douzo goyukkuri",
-      "dutch": "neem rustig uw tijd"
+      "dutch": "neem rustig uw tijd",
+      "hiragana": "\u3069\u3046\u305e\u3054\u3086\u3063\u304f\u308a"
     },
     {
       "id": "221",
       "chapter": "6",
       "romaji": "yappari",
-      "dutch": "ook/toch"
+      "dutch": "ook/toch",
+      "hiragana": "\u3084\u3063\u3071\u308a"
     },
     {
       "id": "222",
       "chapter": "6",
       "romaji": "menyuu",
-      "dutch": "menu"
+      "dutch": "menu",
+      "hiragana": "\u3081\u306b\u3085\u3046"
     },
     {
       "id": "223",
       "chapter": "6",
       "romaji": "muzukashii",
-      "dutch": "moeilijk/lastig"
+      "dutch": "moeilijk/lastig",
+      "hiragana": "\u3080\u305a\u304b\u3057\u3044"
     },
     {
       "id": "224",
       "chapter": "6",
       "romaji": "oishii",
-      "dutch": "lekker"
+      "dutch": "lekker",
+      "hiragana": "\u304a\u3044\u3057\u3044"
     },
     {
       "id": "225",
       "chapter": "6",
       "romaji": "zenbu",
-      "dutch": "alles"
+      "dutch": "alles",
+      "hiragana": "\u305c\u3093\u3076"
     },
     {
       "id": "226",
       "chapter": "6",
       "romaji": "demo",
-      "dutch": "maar (voegwoord voor zinsdelen)"
+      "dutch": "maar (voegwoord voor zinsdelen)",
+      "hiragana": "\u3067\u3082"
     },
     {
       "id": "227",
       "chapter": "7",
       "romaji": "goran kudasai",
-      "dutch": "kijk a.u.b. (keigo)"
+      "dutch": "kijk a.u.b. (keigo)",
+      "hiragana": "\u3054\u3089\u3093\u304f\u3060\u3055\u3044"
     },
     {
       "id": "228",
       "chapter": "7",
       "romaji": "dore",
-      "dutch": "welke (van de meer dan twee)"
+      "dutch": "welke (van de meer dan twee)",
+      "hiragana": "\u3069\u308c"
     },
     {
       "id": "229",
       "chapter": "7",
       "romaji": "ame",
-      "dutch": "regen"
+      "dutch": "regen",
+      "hiragana": "\u3042\u3081"
     },
     {
       "id": "230",
       "chapter": "7",
       "romaji": "furimasu",
-      "dutch": "vallen (voor regen/sneeuw/etc)"
+      "dutch": "vallen (voor regen/sneeuw/etc)",
+      "hiragana": "\u3075\u308a\u307e\u3059"
     },
     {
       "id": "231",
       "chapter": "7",
       "romaji": "kangae",
-      "dutch": "idee/gedachte"
+      "dutch": "idee/gedachte",
+      "hiragana": "\u304b\u3093\u304c\u3048"
     },
     {
       "id": "232",
       "chapter": "7",
       "romaji": "ii/yoi",
-      "dutch": "goed"
+      "dutch": "goed",
+      "hiragana": "\u3044\u3044/\u3088\u3044"
     },
     {
       "id": "233",
       "chapter": "7",
       "romaji": "kono",
-      "dutch": "dit hier (met zn.)"
+      "dutch": "dit hier (met zn.)",
+      "hiragana": "\u3053\u306e"
     },
     {
       "id": "234",
       "chapter": "7",
       "romaji": "sono",
-      "dutch": "dat (met zn.)"
+      "dutch": "dat (met zn.)",
+      "hiragana": "\u305d\u306e"
     },
     {
       "id": "235",
       "chapter": "7",
       "romaji": "ano",
-      "dutch": "dat daarginds (met zn.)"
+      "dutch": "dat daarginds (met zn.)",
+      "hiragana": "\u3042\u306e"
     },
     {
       "id": "236",
       "chapter": "7",
       "romaji": "takai",
-      "dutch": "duur/hoog"
+      "dutch": "duur/hoog",
+      "hiragana": "\u305f\u304b\u3044"
     },
     {
       "id": "237",
       "chapter": "7",
       "romaji": "yasui",
-      "dutch": "goedkoop"
+      "dutch": "goedkoop",
+      "hiragana": "\u3084\u3059\u3044"
     },
     {
       "id": "238",
       "chapter": "7",
       "romaji": "aoi",
-      "dutch": "blauw"
+      "dutch": "blauw",
+      "hiragana": "\u3042\u304a\u3044"
     },
     {
       "id": "239",
       "chapter": "7",
       "romaji": "akai",
-      "dutch": "rood"
+      "dutch": "rood",
+      "hiragana": "\u3042\u304b\u3044"
     },
     {
       "id": "240",
       "chapter": "7",
       "romaji": "kiiroi",
-      "dutch": "geel"
+      "dutch": "geel",
+      "hiragana": "\u304d\u3044\u308d\u3044"
     },
     {
       "id": "241",
       "chapter": "7",
       "romaji": "chairoi",
-      "dutch": "bruin"
+      "dutch": "bruin",
+      "hiragana": "\u3061\u3083\u3044\u308d\u3044"
     },
     {
       "id": "242",
       "chapter": "7",
       "romaji": "murasaki iro",
-      "dutch": "paars"
+      "dutch": "paars",
+      "hiragana": "\u3080\u3089\u3055\u304d\u3044\u308d"
     },
     {
       "id": "243",
       "chapter": "7",
       "romaji": "shiroi",
-      "dutch": "wit"
+      "dutch": "wit",
+      "hiragana": "\u3057\u308d\u3044"
     },
     {
       "id": "244",
       "chapter": "7",
       "romaji": "kuroi",
-      "dutch": "zwart"
+      "dutch": "zwart",
+      "hiragana": "\u304f\u308d\u3044"
     },
     {
       "id": "245",
       "chapter": "7",
       "romaji": "midori iro",
-      "dutch": "groen"
+      "dutch": "groen",
+      "hiragana": "\u307f\u3069\u308a\u3044\u308d"
     },
     {
       "id": "246",
       "chapter": "7",
       "romaji": "pinku",
-      "dutch": "roze"
+      "dutch": "roze",
+      "hiragana": "\u3074\u3093\u304f"
     },
     {
       "id": "247",
       "chapter": "7",
       "romaji": "momoiro",
-      "dutch": "perzikkleur"
+      "dutch": "perzikkleur",
+      "hiragana": "\u3082\u3082\u3044\u308d"
     },
     {
       "id": "248",
       "chapter": "7",
       "romaji": "haiiro/gurei",
-      "dutch": "grijs"
+      "dutch": "grijs",
+      "hiragana": "\u306f\u3044\u3044\u308d/\u3050\u308c\u3044"
     },
     {
       "id": "249",
       "chapter": "7",
       "romaji": "orenji",
-      "dutch": "oranje/sinaasappel"
+      "dutch": "oranje/sinaasappel",
+      "hiragana": "\u304a\u308c\u3093\u3058"
     },
     {
       "id": "250",
       "chapter": "7",
       "romaji": "ookii",
-      "dutch": "groot"
+      "dutch": "groot",
+      "hiragana": "\u304a\u304a\u304d\u3044"
     },
     {
       "id": "251",
       "chapter": "7",
       "romaji": "chiisai",
-      "dutch": "klein"
+      "dutch": "klein",
+      "hiragana": "\u3061\u3044\u3055\u3044"
     },
     {
       "id": "252",
       "chapter": "7",
       "romaji": "kantan",
-      "dutch": "makkelijk/simpel"
+      "dutch": "makkelijk/simpel",
+      "hiragana": "\u304b\u3093\u305f\u3093"
     },
     {
       "id": "253",
       "chapter": "7",
       "romaji": "hidoi",
-      "dutch": "gemeen"
+      "dutch": "gemeen",
+      "hiragana": "\u3072\u3069\u3044"
     },
     {
       "id": "254",
       "chapter": "7",
       "romaji": "yasashii",
-      "dutch": "lief/aardig"
+      "dutch": "lief/aardig",
+      "hiragana": "\u3084\u3055\u3057\u3044"
     },
     {
       "id": "255",
       "chapter": "7",
       "romaji": "warui",
-      "dutch": "slecht"
+      "dutch": "slecht",
+      "hiragana": "\u308f\u308b\u3044"
     },
     {
       "id": "256",
       "chapter": "7",
       "romaji": "atarashii",
-      "dutch": "nieuw"
+      "dutch": "nieuw",
+      "hiragana": "\u3042\u305f\u3089\u3057\u3044"
     },
     {
       "id": "257",
       "chapter": "7",
       "romaji": "furui",
-      "dutch": "oud"
+      "dutch": "oud",
+      "hiragana": "\u3075\u308b\u3044"
     },
     {
       "id": "258",
       "chapter": "7",
       "romaji": "nigiyaka",
-      "dutch": "levendig"
+      "dutch": "levendig",
+      "hiragana": "\u306b\u304e\u3084\u304b"
     },
     {
       "id": "259",
       "chapter": "7",
       "romaji": "benri",
-      "dutch": "handig"
+      "dutch": "handig",
+      "hiragana": "\u3079\u3093\u308a"
     },
     {
       "id": "260",
       "chapter": "7",
       "romaji": "omatsuri",
-      "dutch": "festival"
+      "dutch": "festival",
+      "hiragana": "\u304a\u307e\u3064\u308a"
     },
     {
       "id": "261",
       "chapter": "7",
       "romaji": "kirei",
-      "dutch": "mooi"
+      "dutch": "mooi",
+      "hiragana": "\u304d\u308c\u3044"
     },
     {
       "id": "262",
       "chapter": "7",
       "romaji": "nomimono",
-      "dutch": "drinken (zn.)"
+      "dutch": "drinken (zn.)",
+      "hiragana": "\u306e\u307f\u3082\u306e"
     },
     {
       "id": "263",
       "chapter": "7",
       "romaji": "tabemono",
-      "dutch": "eten (zn.)"
+      "dutch": "eten (zn.)",
+      "hiragana": "\u305f\u3079\u3082\u306e"
     },
     {
       "id": "264",
       "chapter": "7",
       "romaji": "suutsukeesu",
-      "dutch": "koffer"
+      "dutch": "koffer",
+      "hiragana": "\u3059\u3046\u3064\u3051\u3048\u3059"
     },
     {
       "id": "265",
       "chapter": "7",
       "romaji": "hairimasu",
-      "dutch": "naar binnen gaan"
+      "dutch": "naar binnen gaan",
+      "hiragana": "\u306f\u3044\u308a\u307e\u3059"
     },
     {
       "id": "266",
       "chapter": "7",
       "romaji": "docchi",
-      "dutch": "welke/waar"
+      "dutch": "welke/waar",
+      "hiragana": "\u3069\u3063\u3061"
     },
     {
       "id": "267",
       "chapter": "7",
       "romaji": "dochira",
-      "dutch": "welke/waar (beleefd)"
+      "dutch": "welke/waar (beleefd)",
+      "hiragana": "\u3069\u3061\u3089"
     },
     {
       "id": "268",
       "chapter": "7",
       "romaji": "maa maa",
-      "dutch": "ik vind het niet echt wat"
+      "dutch": "ik vind het niet echt wat",
+      "hiragana": "\u307e\u3042\u307e\u3042"
     },
     {
       "id": "269",
       "chapter": "7",
       "romaji": "ocha",
-      "dutch": "thee"
+      "dutch": "thee",
+      "hiragana": "\u304a\u3061\u3083"
     },
     {
       "id": "270",
       "chapter": "7",
       "romaji": "mizu",
-      "dutch": "water"
+      "dutch": "water",
+      "hiragana": "\u307f\u305a"
     },
     {
       "id": "271",
       "chapter": "7",
       "romaji": "chotto matte",
-      "dutch": "wacht eens even"
+      "dutch": "wacht eens even",
+      "hiragana": "\u3061\u3087\u3063\u3068\u307e\u3063\u3066"
     },
     {
       "id": "272",
       "chapter": "8",
       "romaji": "gogatsu",
-      "dutch": "mei (5e maand)"
+      "dutch": "mei (5e maand)",
+      "hiragana": "\u3054\u304c\u3064"
     },
     {
       "id": "273",
       "chapter": "8",
       "romaji": "futsuka",
-      "dutch": "de 2e (kalenderdag)"
+      "dutch": "de 2e (kalenderdag)",
+      "hiragana": "\u3075\u3064\u304b"
     },
     {
       "id": "274",
       "chapter": "8",
       "romaji": "dare to",
-      "dutch": "met wie"
+      "dutch": "met wie",
+      "hiragana": "\u3060\u308c\u3068"
     },
     {
       "id": "275",
       "chapter": "8",
       "romaji": "hi",
-      "dutch": "dag"
+      "dutch": "dag",
+      "hiragana": "\u3072"
     },
     {
       "id": "276",
       "chapter": "8",
       "romaji": "nichi",
-      "dutch": "dag"
+      "dutch": "dag",
+      "hiragana": "\u306b\u3061"
     },
     {
       "id": "277",
       "chapter": "8",
       "romaji": "hatarakimasu",
-      "dutch": "werken"
+      "dutch": "werken",
+      "hiragana": "\u306f\u305f\u3089\u304d\u307e\u3059"
     },
     {
       "id": "278",
       "chapter": "8",
       "romaji": "itsu",
-      "dutch": "wanneer"
+      "dutch": "wanneer",
+      "hiragana": "\u3044\u3064"
     },
     {
       "id": "279",
       "chapter": "8",
       "romaji": "nani (w)o shimasu ka",
-      "dutch": "wat ga je doen?"
+      "dutch": "wat ga je doen?",
+      "hiragana": "\u306a\u306b\u3092\u3057\u307e\u3059\u304b"
     },
     {
       "id": "280",
       "chapter": "8",
       "romaji": "nannichi",
-      "dutch": "welke dag/kalenderdag"
+      "dutch": "welke dag/kalenderdag",
+      "hiragana": "\u306a\u3093\u306b\u3061"
     },
     {
       "id": "281",
       "chapter": "8",
       "romaji": "nangatsu",
-      "dutch": "welke maand"
+      "dutch": "welke maand",
+      "hiragana": "\u306a\u3093\u304c\u3064"
     },
     {
       "id": "282",
       "chapter": "8",
       "romaji": "kongetsu",
-      "dutch": "deze maand"
+      "dutch": "deze maand",
+      "hiragana": "\u3053\u3093\u3052\u3064"
     },
     {
       "id": "283",
       "chapter": "8",
       "romaji": "raigetsu",
-      "dutch": "volgende maand"
+      "dutch": "volgende maand",
+      "hiragana": "\u3089\u3044\u3052\u3064"
     },
     {
       "id": "284",
       "chapter": "8",
       "romaji": "omoshiroi",
-      "dutch": "interessant/leuk"
+      "dutch": "interessant/leuk",
+      "hiragana": "\u304a\u3082\u3057\u308d\u3044"
     },
     {
       "id": "285",
       "chapter": "8",
       "romaji": "tanoshii",
-      "dutch": "leuk/gezellig"
+      "dutch": "leuk/gezellig",
+      "hiragana": "\u305f\u306e\u3057\u3044"
     },
     {
       "id": "286",
       "chapter": "8",
       "romaji": "tsumaranai",
-      "dutch": "saai"
+      "dutch": "saai",
+      "hiragana": "\u3064\u307e\u3089\u306a\u3044"
     },
     {
       "id": "287",
       "chapter": "8",
       "romaji": "atsui",
-      "dutch": "warm (klimaat)"
+      "dutch": "warm (klimaat)",
+      "hiragana": "\u3042\u3064\u3044"
     },
     {
       "id": "288",
       "chapter": "8",
       "romaji": "samui",
-      "dutch": "koud (klimaat)"
+      "dutch": "koud (klimaat)",
+      "hiragana": "\u3055\u3080\u3044"
     },
     {
       "id": "289",
       "chapter": "8",
       "romaji": "atatakai",
-      "dutch": "warm (gevoel)"
+      "dutch": "warm (gevoel)",
+      "hiragana": "\u3042\u305f\u305f\u304b\u3044"
     },
     {
       "id": "290",
       "chapter": "8",
       "romaji": "tsumetai",
-      "dutch": "koud (gevoel)"
+      "dutch": "koud (gevoel)",
+      "hiragana": "\u3064\u3081\u305f\u3044"
     },
     {
       "id": "291",
       "chapter": "8",
       "romaji": "chikai",
-      "dutch": "dichtbij"
+      "dutch": "dichtbij",
+      "hiragana": "\u3061\u304b\u3044"
     },
     {
       "id": "292",
       "chapter": "8",
       "romaji": "tooi",
-      "dutch": "ver"
+      "dutch": "ver",
+      "hiragana": "\u3068\u304a\u3044"
     },
     {
       "id": "293",
       "chapter": "8",
       "romaji": "isogashii",
-      "dutch": "druk"
+      "dutch": "druk",
+      "hiragana": "\u3044\u305d\u304c\u3057\u3044"
     },
     {
       "id": "294",
       "chapter": "8",
       "romaji": "hima",
-      "dutch": "vrij"
+      "dutch": "vrij",
+      "hiragana": "\u3072\u307e"
     },
     {
       "id": "295",
       "chapter": "8",
       "romaji": "mazui",
-      "dutch": "vies"
+      "dutch": "vies",
+      "hiragana": "\u307e\u305a\u3044"
     },
     {
       "id": "296",
       "chapter": "8",
       "romaji": "suki",
-      "dutch": "houden van/leuk vinden"
+      "dutch": "houden van/leuk vinden",
+      "hiragana": "\u3059\u304d"
     },
     {
       "id": "297",
       "chapter": "8",
       "romaji": "kirai",
-      "dutch": "haten"
+      "dutch": "haten",
+      "hiragana": "\u304d\u3089\u3044"
     },
     {
       "id": "298",
       "chapter": "8",
       "romaji": "yuumei",
-      "dutch": "beroemd/bekend"
+      "dutch": "beroemd/bekend",
+      "hiragana": "\u3086\u3046\u3081\u3044"
     },
     {
       "id": "299",
       "chapter": "8",
       "romaji": "genki",
-      "dutch": "gezond/energiek"
+      "dutch": "gezond/energiek",
+      "hiragana": "\u3052\u3093\u304d"
     },
     {
       "id": "300",
       "chapter": "8",
       "romaji": "iroiro",
-      "dutch": "verschillende (soorten)/van alles"
+      "dutch": "verschillende (soorten)/van alles",
+      "hiragana": "\u3044\u308d\u3044\u308d"
     },
     {
       "id": "301",
       "chapter": "8",
       "romaji": "tenki",
-      "dutch": "weer"
+      "dutch": "weer",
+      "hiragana": "\u3066\u3093\u304d"
     },
     {
       "id": "302",
       "chapter": "8",
       "romaji": "umaremashita",
-      "dutch": "geboren (ww van geboorte)"
+      "dutch": "geboren (ww van geboorte)",
+      "hiragana": "\u3046\u307e\u308c\u307e\u3057\u305f"
     },
     {
       "id": "303",
       "chapter": "8",
       "romaji": "shinema",
-      "dutch": "bioscoop (cinema)"
+      "dutch": "bioscoop (cinema)",
+      "hiragana": "\u3057\u306d\u307e"
     },
     {
       "id": "304",
       "chapter": "8",
       "romaji": "eigakan",
-      "dutch": "bioscoop"
+      "dutch": "bioscoop",
+      "hiragana": "\u3048\u3044\u304c\u304b\u3093"
     },
     {
       "id": "305",
       "chapter": "8",
       "romaji": "soshite",
-      "dutch": "en (een voegwoord voor zinsdelen)"
+      "dutch": "en (een voegwoord voor zinsdelen)",
+      "hiragana": "\u305d\u3057\u3066"
     },
     {
       "id": "306",
       "chapter": "8",
       "romaji": "soudanshimasu",
-      "dutch": "overleggen/consult/advies"
+      "dutch": "overleggen/consult/advies",
+      "hiragana": "\u305d\u3046\u3060\u3093\u3057\u307e\u3059"
     },
     {
       "id": "307",
       "chapter": "8",
       "romaji": "tsutaemasu",
-      "dutch": "doorgeven"
+      "dutch": "doorgeven",
+      "hiragana": "\u3064\u305f\u3048\u307e\u3059"
     },
     {
       "id": "308",
       "chapter": "8",
       "romaji": "hidzuke",
-      "dutch": "datum"
+      "dutch": "datum",
+      "hiragana": "\u3072\u3065\u3051"
     },
     {
       "id": "309",
       "chapter": "8",
       "romaji": "kekkou desu",
-      "dutch": "nee, bedankt"
+      "dutch": "nee, bedankt",
+      "hiragana": "\u3051\u3063\u3053\u3046\u3067\u3059"
     },
     {
       "id": "310",
       "chapter": "8",
       "romaji": "osusume",
-      "dutch": "aanbeveling"
+      "dutch": "aanbeveling",
+      "hiragana": "\u304a\u3059\u3059\u3081"
     },
     {
       "id": "311",
       "chapter": "8",
       "romaji": "koohii",
-      "dutch": "koffie"
+      "dutch": "koffie",
+      "hiragana": "\u3053\u304a\u3072\u3044"
     },
     {
       "id": "312",
       "chapter": "8",
       "romaji": "suteki",
-      "dutch": "geweldig"
+      "dutch": "geweldig",
+      "hiragana": "\u3059\u3066\u304d"
     },
     {
       "id": "313",
       "chapter": "8",
       "romaji": "otanjoubi",
-      "dutch": "verjaardag"
+      "dutch": "verjaardag",
+      "hiragana": "\u304a\u305f\u3093\u3058\u3087\u3046\u3073"
     },
     {
       "id": "314",
       "chapter": "8",
       "romaji": "koko",
-      "dutch": "hier"
+      "dutch": "hier",
+      "hiragana": "\u3053\u3053"
     },
     {
       "id": "315",
       "chapter": "8",
       "romaji": "sore ni",
-      "dutch": "en daarbij/bovendien"
+      "dutch": "en daarbij/bovendien",
+      "hiragana": "\u305d\u308c\u306b"
     },
     {
       "id": "316",
       "chapter": "9",
       "romaji": "to",
-      "dutch": "en"
+      "dutch": "en",
+      "hiragana": "\u3068"
     },
     {
       "id": "317",
       "chapter": "9",
       "romaji": "naruhodo",
-      "dutch": "ik zie het/ik begrijp het"
+      "dutch": "ik zie het/ik begrijp het",
+      "hiragana": "\u306a\u308b\u307b\u3069"
     },
     {
       "id": "318",
       "chapter": "9",
       "romaji": "arimasu",
-      "dutch": "bevinden/hebben (niet levend)"
+      "dutch": "bevinden/hebben (niet levend)",
+      "hiragana": "\u3042\u308a\u307e\u3059"
     },
     {
       "id": "319",
       "chapter": "9",
       "romaji": "mou sugu",
-      "dutch": "bijna"
+      "dutch": "bijna",
+      "hiragana": "\u3082\u3046\u3059\u3050"
     },
     {
       "id": "320",
       "chapter": "9",
       "romaji": "maji",
-      "dutch": "echt"
+      "dutch": "echt",
+      "hiragana": "\u307e\u3058"
     },
     {
       "id": "321",
       "chapter": "9",
       "romaji": "umi",
-      "dutch": "strand(cultuur dingetje)/zee/oceaan"
+      "dutch": "strand(cultuur dingetje)/zee/oceaan",
+      "hiragana": "\u3046\u307f"
     },
     {
       "id": "322",
       "chapter": "9",
       "romaji": "otera",
-      "dutch": "tempel"
+      "dutch": "tempel",
+      "hiragana": "\u304a\u3066\u3089"
     },
     {
       "id": "323",
       "chapter": "9",
       "romaji": "ippai",
-      "dutch": "veel"
+      "dutch": "veel",
+      "hiragana": "\u3044\u3063\u3071\u3044"
     },
     {
       "id": "324",
       "chapter": "9",
       "romaji": "kazoku",
-      "dutch": "familie"
+      "dutch": "familie",
+      "hiragana": "\u304b\u305e\u304f"
     },
     {
       "id": "325",
       "chapter": "9",
       "romaji": "imouto",
-      "dutch": "zusje (jonger)"
+      "dutch": "zusje (jonger)",
+      "hiragana": "\u3044\u3082\u3046\u3068"
     },
     {
       "id": "326",
       "chapter": "9",
       "romaji": "otouto",
-      "dutch": "broertje (jonger)"
+      "dutch": "broertje (jonger)",
+      "hiragana": "\u304a\u3068\u3046\u3068"
     },
     {
       "id": "327",
       "chapter": "9",
       "romaji": "chirigami",
-      "dutch": "toiletpapier"
+      "dutch": "toiletpapier",
+      "hiragana": "\u3061\u308a\u304c\u307f"
     },
     {
       "id": "328",
       "chapter": "9",
       "romaji": "toirettopeepaa",
-      "dutch": "toiletpapier"
+      "dutch": "toiletpapier",
+      "hiragana": "\u3068\u3044\u308c\u3063\u3068\u307a\u3048\u3071\u3042"
     },
     {
       "id": "329",
       "chapter": "9",
       "romaji": "ga imasu",
-      "dutch": "bevinden/hebben (levend)"
+      "dutch": "bevinden/hebben (levend)",
+      "hiragana": "\u304c\u3044\u307e\u3059"
     },
     {
       "id": "330",
       "chapter": "9",
       "romaji": "tsuma",
-      "dutch": "echtgenote (van jezelf)"
+      "dutch": "echtgenote (van jezelf)",
+      "hiragana": "\u3064\u307e"
     },
     {
       "id": "331",
       "chapter": "9",
       "romaji": "okusan",
-      "dutch": "echtgenote (van iemand anders)"
+      "dutch": "echtgenote (van iemand anders)",
+      "hiragana": "\u304a\u304f\u3055\u3093"
     },
     {
       "id": "332",
       "chapter": "9",
       "romaji": "shujin",
-      "dutch": "echtgenoot (van jezelf)"
+      "dutch": "echtgenoot (van jezelf)",
+      "hiragana": "\u3057\u3085\u3058\u3093"
     },
     {
       "id": "333",
       "chapter": "9",
       "romaji": "otto",
-      "dutch": "echtgenoot (een, eigen)"
+      "dutch": "echtgenoot (een, eigen)",
+      "hiragana": "\u304a\u3063\u3068"
     },
     {
       "id": "334",
       "chapter": "9",
       "romaji": "ane",
-      "dutch": "zus (oudere, eigen)"
+      "dutch": "zus (oudere, eigen)",
+      "hiragana": "\u3042\u306d"
     },
     {
       "id": "335",
       "chapter": "9",
       "romaji": "oneesan",
-      "dutch": "zus (oudere, met respect)"
+      "dutch": "zus (oudere, met respect)",
+      "hiragana": "\u304a\u306d\u3048\u3055\u3093"
     },
     {
       "id": "336",
       "chapter": "9",
       "romaji": "ani",
-      "dutch": "broer (oudere, eigen)"
+      "dutch": "broer (oudere, eigen)",
+      "hiragana": "\u3042\u306b"
     },
     {
       "id": "337",
       "chapter": "9",
       "romaji": "oniisan",
-      "dutch": "broer (oudere, met respect)"
+      "dutch": "broer (oudere, met respect)",
+      "hiragana": "\u304a\u306b\u3044\u3055\u3093"
     },
     {
       "id": "338",
       "chapter": "9",
       "romaji": "otaerai",
-      "dutch": "toilet"
+      "dutch": "toilet",
+      "hiragana": "\u304a\u3066\u3042\u3089\u3044"
     },
     {
       "id": "339",
       "chapter": "9",
       "romaji": "kouen",
-      "dutch": "park"
+      "dutch": "park",
+      "hiragana": "\u3053\u3046\u3048\u3093"
     },
     {
       "id": "340",
       "chapter": "9",
       "romaji": "gyouen",
-      "dutch": "keizerlijk(e) park/tuin"
+      "dutch": "keizerlijk(e) park/tuin",
+      "hiragana": "\u304e\u3087\u3046\u3048\u3093"
     },
     {
       "id": "341",
       "chapter": "9",
       "romaji": "tokoro",
-      "dutch": "plek (abstract)"
+      "dutch": "plek (abstract)",
+      "hiragana": "\u3068\u3053\u308d"
     },
     {
       "id": "342",
       "chapter": "9",
       "romaji": "hen",
-      "dutch": "gebied/regio"
+      "dutch": "gebied/regio",
+      "hiragana": "\u3078\u3093"
     },
     {
       "id": "343",
       "chapter": "9",
       "romaji": "heya",
-      "dutch": "kamer"
+      "dutch": "kamer",
+      "hiragana": "\u3078\u3084"
     },
     {
       "id": "344",
       "chapter": "9",
       "romaji": "hiroba",
-      "dutch": "plein/open gebied/plaza"
+      "dutch": "plein/open gebied/plaza",
+      "hiragana": "\u3072\u308d\u3070"
     },
     {
       "id": "345",
       "chapter": "9",
       "romaji": "sutaba",
-      "dutch": "Starbucks"
+      "dutch": "Starbucks",
+      "hiragana": "\u3059\u305f\u3070"
     },
     {
       "id": "346",
       "chapter": "9",
       "romaji": "makudonarudo",
-      "dutch": "McDonald's"
+      "dutch": "McDonald's",
+      "hiragana": "\u307e\u304f\u3069\u306a\u308b\u3069"
     },
     {
       "id": "347",
       "chapter": "9",
       "romaji": "makudo",
-      "dutch": "McDonald's (Kansai afkorting)"
+      "dutch": "McDonald's (Kansai afkorting)",
+      "hiragana": "\u307e\u304f\u3069"
     },
     {
       "id": "348",
       "chapter": "9",
       "romaji": "hyakuenshoppu",
-      "dutch": "100 yen winkel"
+      "dutch": "100 yen winkel",
+      "hiragana": "\u3072\u3083\u304f\u3048\u3093\u3057\u3087\u3063\u3077"
     },
     {
       "id": "349",
       "chapter": "9",
       "romaji": "konbini",
-      "dutch": "convenience store"
+      "dutch": "convenience store",
+      "hiragana": "\u3053\u3093\u3073\u306b"
     },
     {
       "id": "350",
       "chapter": "9",
       "romaji": "painappuru",
-      "dutch": "ananas"
+      "dutch": "ananas",
+      "hiragana": "\u3071\u3044\u306a\u3063\u3077\u308b"
     },
     {
       "id": "351",
       "chapter": "9",
       "romaji": "hachikoumae",
-      "dutch": "ontmoetingsplek in Shibuya"
+      "dutch": "ontmoetingsplek in Shibuya",
+      "hiragana": "\u306f\u3061\u3053\u3046\u307e\u3048"
     },
     {
       "id": "352",
       "chapter": "9",
       "romaji": "biru",
-      "dutch": "gebouw"
+      "dutch": "gebouw",
+      "hiragana": "\u3073\u308b"
     },
     {
       "id": "353",
       "chapter": "9",
       "romaji": "hitsuyou(na)",
-      "dutch": "benodigde"
+      "dutch": "benodigde",
+      "hiragana": "\u3072\u3064\u3088\u3046(\u306a)"
     },
     {
       "id": "354",
       "chapter": "9",
       "romaji": "hoka no",
-      "dutch": "andere"
+      "dutch": "andere",
+      "hiragana": "\u307b\u304b\u306e"
     },
     {
       "id": "355",
       "chapter": "9",
       "romaji": "keekiya",
-      "dutch": "banketbakkerij"
+      "dutch": "banketbakkerij",
+      "hiragana": "\u3051\u3048\u304d\u3084"
     },
     {
       "id": "356",
       "chapter": "9",
       "romaji": "kaigi shitsu",
-      "dutch": "vergaderruimte"
+      "dutch": "vergaderruimte",
+      "hiragana": "\u304b\u3044\u304e\u3057\u3064"
     },
     {
       "id": "357",
       "chapter": "9",
       "romaji": "nado",
-      "dutch": "enzovoort"
+      "dutch": "enzovoort",
+      "hiragana": "\u306a\u3069"
     },
     {
       "id": "358",
       "chapter": "9",
       "romaji": "ato",
-      "dutch": "na (tijdsbepaling)"
+      "dutch": "na (tijdsbepaling)",
+      "hiragana": "\u3042\u3068"
     },
     {
       "id": "359",
       "chapter": "9",
       "romaji": "dokoka",
-      "dutch": "ergens"
+      "dutch": "ergens",
+      "hiragana": "\u3069\u3053\u304b"
     },
     {
       "id": "360",
       "chapter": "9",
       "romaji": "donna",
-      "dutch": "wat voor"
+      "dutch": "wat voor",
+      "hiragana": "\u3069\u3093\u306a"
     },
     {
       "id": "361",
       "chapter": "9",
       "romaji": "basho",
-      "dutch": "plek (gericht/direct)"
+      "dutch": "plek (gericht/direct)",
+      "hiragana": "\u3070\u3057\u3087"
     },
     {
       "id": "362",
       "chapter": "9",
       "romaji": "ichiban",
-      "dutch": "eerste/meeste"
+      "dutch": "eerste/meeste",
+      "hiragana": "\u3044\u3061\u3070\u3093"
     },
     {
       "id": "363",
       "chapter": "9",
       "romaji": "arerugii",
-      "dutch": "allergie"
+      "dutch": "allergie",
+      "hiragana": "\u3042\u308c\u308b\u304e\u3044"
     },
     {
       "id": "364",
       "chapter": "9",
       "romaji": "beddo",
-      "dutch": "bed"
+      "dutch": "bed",
+      "hiragana": "\u3079\u3063\u3069"
     },
     {
       "id": "365",
       "chapter": "9",
       "romaji": "asoko",
-      "dutch": "daar/daarginds"
+      "dutch": "daar/daarginds",
+      "hiragana": "\u3042\u305d\u3053"
     },
     {
       "id": "366",
       "chapter": "9",
       "romaji": "shirimasen ka",
-      "dutch": "weet je dat niet?"
+      "dutch": "weet je dat niet?",
+      "hiragana": "\u3057\u308a\u307e\u305b\u3093\u304b"
     },
     {
       "id": "367",
       "chapter": "9",
       "romaji": "sukaato",
-      "dutch": "rok"
+      "dutch": "rok",
+      "hiragana": "\u3059\u304b\u3042\u3068"
     },
     {
       "id": "368",
       "chapter": "9",
       "romaji": "shoppingu mooru",
-      "dutch": "winkelcentrum"
+      "dutch": "winkelcentrum",
+      "hiragana": "\u3057\u3087\u3063\u3074\u3093\u3050\u3082\u304a\u308b"
     },
     {
       "id": "369",
       "chapter": "10",
       "romaji": "shirimasu",
-      "dutch": "weten"
+      "dutch": "weten",
+      "hiragana": "\u3057\u308a\u307e\u3059"
     },
     {
       "id": "370",
       "chapter": "10",
       "romaji": "ki wo tsukemasu",
-      "dutch": "wees/doe voorzichtig"
+      "dutch": "wees/doe voorzichtig",
+      "hiragana": "\u304d\u3092\u3064\u3051\u307e\u3059"
     },
     {
       "id": "371",
       "chapter": "10",
       "romaji": "kaette kudasai",
-      "dutch": "ga naar huis a.u.b."
+      "dutch": "ga naar huis a.u.b.",
+      "hiragana": "\u304b\u3048\u3063\u3066\u304f\u3060\u3055\u3044"
     },
     {
       "id": "372",
       "chapter": "10",
       "romaji": "doumo",
-      "dutch": "dank je"
+      "dutch": "dank je",
+      "hiragana": "\u3069\u3046\u3082"
     },
     {
       "id": "373",
       "chapter": "10",
       "romaji": "reizouko",
-      "dutch": "koelkast"
+      "dutch": "koelkast",
+      "hiragana": "\u308c\u3044\u305e\u3046\u3053"
     },
     {
       "id": "374",
       "chapter": "10",
       "romaji": "kudamono",
-      "dutch": "fruit"
+      "dutch": "fruit",
+      "hiragana": "\u304f\u3060\u3082\u306e"
     },
     {
       "id": "375",
       "chapter": "10",
       "romaji": "hontou",
-      "dutch": "echt/waarheid/correct"
+      "dutch": "echt/waarheid/correct",
+      "hiragana": "\u307b\u3093\u3068\u3046"
     },
     {
       "id": "376",
       "chapter": "10",
       "romaji": "hontou ni",
-      "dutch": "echt/heel (vergrotende stap)"
+      "dutch": "echt/heel (vergrotende stap)",
+      "hiragana": "\u307b\u3093\u3068\u3046\u306b"
     },
     {
       "id": "377",
       "chapter": "10",
       "romaji": "hontou desu ka",
-      "dutch": "echt waar?"
+      "dutch": "echt waar?",
+      "hiragana": "\u307b\u3093\u3068\u3046\u3067\u3059\u304b"
     },
     {
       "id": "378",
       "chapter": "10",
       "romaji": "yasai",
-      "dutch": "groente"
+      "dutch": "groente",
+      "hiragana": "\u3084\u3055\u3044"
     },
     {
       "id": "379",
       "chapter": "10",
       "romaji": "hourensou",
-      "dutch": "spinazie"
+      "dutch": "spinazie",
+      "hiragana": "\u307b\u3046\u308c\u3093\u305d\u3046"
     },
     {
       "id": "380",
       "chapter": "10",
       "romaji": "keshigomu",
-      "dutch": "gum (om te wissen)"
+      "dutch": "gum (om te wissen)",
+      "hiragana": "\u3051\u3057\u3054\u3080"
     },
     {
       "id": "381",
       "chapter": "10",
       "romaji": "enpitsu",
-      "dutch": "potlood"
+      "dutch": "potlood",
+      "hiragana": "\u3048\u3093\u3074\u3064"
     },
     {
       "id": "382",
       "chapter": "10",
       "romaji": "kaado",
-      "dutch": "kaart"
+      "dutch": "kaart",
+      "hiragana": "\u304b\u3042\u3069"
     },
     {
       "id": "383",
       "chapter": "10",
       "romaji": "genkin",
-      "dutch": "cash/geld"
+      "dutch": "cash/geld",
+      "hiragana": "\u3052\u3093\u304d\u3093"
     },
     {
       "id": "384",
       "chapter": "10",
       "romaji": "yuubinkyoku",
-      "dutch": "postkantoor"
+      "dutch": "postkantoor",
+      "hiragana": "\u3086\u3046\u3073\u3093\u304d\u3087\u304f"
     },
     {
       "id": "385",
       "chapter": "10",
       "romaji": "kami",
-      "dutch": "haar (op je hoofd)"
+      "dutch": "haar (op je hoofd)",
+      "hiragana": "\u304b\u307f"
     },
     {
       "id": "386",
       "chapter": "10",
       "romaji": "kami",
-      "dutch": "god"
+      "dutch": "god",
+      "hiragana": "\u304b\u307f"
     },
     {
       "id": "387",
       "chapter": "10",
       "romaji": "atama",
-      "dutch": "hoofd"
+      "dutch": "hoofd",
+      "hiragana": "\u3042\u305f\u307e"
     },
     {
       "id": "388",
       "chapter": "10",
       "romaji": "hikidashi",
-      "dutch": "la/lade"
+      "dutch": "la/lade",
+      "hiragana": "\u3072\u304d\u3060\u3057"
     },
     {
       "id": "389",
       "chapter": "10",
       "romaji": "poketto",
-      "dutch": "broekzak"
+      "dutch": "broekzak",
+      "hiragana": "\u307d\u3051\u3063\u3068"
     },
     {
       "id": "390",
       "chapter": "10",
       "romaji": "kumo",
-      "dutch": "wolk(en)"
+      "dutch": "wolk(en)",
+      "hiragana": "\u304f\u3082"
     },
     {
       "id": "391",
       "chapter": "10",
       "romaji": "ue",
-      "dutch": "boven/op"
+      "dutch": "boven/op",
+      "hiragana": "\u3046\u3048"
     },
     {
       "id": "392",
       "chapter": "10",
       "romaji": "shita",
-      "dutch": "onder"
+      "dutch": "onder",
+      "hiragana": "\u3057\u305f"
     },
     {
       "id": "393",
       "chapter": "10",
       "romaji": "mae",
-      "dutch": "voor"
+      "dutch": "voor",
+      "hiragana": "\u307e\u3048"
     },
     {
       "id": "394",
       "chapter": "10",
       "romaji": "migi",
-      "dutch": "rechts"
+      "dutch": "rechts",
+      "hiragana": "\u307f\u304e"
     },
     {
       "id": "395",
       "chapter": "10",
       "romaji": "hidari",
-      "dutch": "links"
+      "dutch": "links",
+      "hiragana": "\u3072\u3060\u308a"
     },
     {
       "id": "396",
       "chapter": "10",
       "romaji": "tonari",
-      "dutch": "naast"
+      "dutch": "naast",
+      "hiragana": "\u3068\u306a\u308a"
     },
     {
       "id": "397",
       "chapter": "10",
       "romaji": "naka",
-      "dutch": "binnen/in"
+      "dutch": "binnen/in",
+      "hiragana": "\u306a\u304b"
     },
     {
       "id": "398",
       "chapter": "10",
       "romaji": "soto",
-      "dutch": "buiten"
+      "dutch": "buiten",
+      "hiragana": "\u305d\u3068"
     },
     {
       "id": "399",
       "chapter": "10",
       "romaji": "aida",
-      "dutch": "tussen"
+      "dutch": "tussen",
+      "hiragana": "\u3042\u3044\u3060"
     },
     {
       "id": "400",
       "chapter": "10",
       "romaji": "chikaku",
-      "dutch": "dicht bij/in de buurt"
+      "dutch": "dicht bij/in de buurt",
+      "hiragana": "\u3061\u304b\u304f"
     },
     {
       "id": "401",
       "chapter": "10",
       "romaji": "mango",
-      "dutch": "mango"
+      "dutch": "mango",
+      "hiragana": "\u307e\u3093\u3054"
     },
     {
       "id": "402",
       "chapter": "10",
       "romaji": "chiizukeeki",
-      "dutch": "cheesecake"
+      "dutch": "cheesecake",
+      "hiragana": "\u3061\u3044\u305a\u3051\u3048\u304d"
     },
     {
       "id": "403",
       "chapter": "10",
       "romaji": "bentouya",
-      "dutch": "lunchbox winkel"
+      "dutch": "lunchbox winkel",
+      "hiragana": "\u3079\u3093\u3068\u3046\u3084"
     },
     {
       "id": "404",
       "chapter": "10",
       "romaji": "ojamashimasu",
-      "dutch": "excuseer me dat ik stoor"
+      "dutch": "excuseer me dat ik stoor",
+      "hiragana": "\u304a\u3058\u3083\u307e\u3057\u307e\u3059"
     },
     {
       "id": "405",
       "chapter": "10",
       "romaji": "hora",
-      "dutch": "kijk (expressie)"
+      "dutch": "kijk (expressie)",
+      "hiragana": "\u307b\u3089"
     },
     {
       "id": "406",
       "chapter": "10",
       "romaji": "ara",
-      "dutch": "oh (expressie)"
+      "dutch": "oh (expressie)",
+      "hiragana": "\u3042\u3089"
     },
     {
       "id": "407",
       "chapter": "10",
       "romaji": "miemasu",
-      "dutch": "kunnen zien"
+      "dutch": "kunnen zien",
+      "hiragana": "\u307f\u3048\u307e\u3059"
     },
     {
       "id": "408",
       "chapter": "10",
       "romaji": "tashikani",
-      "dutch": "inderdaad/zeker/met zekerheid"
+      "dutch": "inderdaad/zeker/met zekerheid",
+      "hiragana": "\u305f\u3057\u304b\u306b"
     },
     {
       "id": "409",
       "chapter": "10",
       "romaji": "kedo",
-      "dutch": "maar"
+      "dutch": "maar",
+      "hiragana": "\u3051\u3069"
     },
     {
       "id": "410",
       "chapter": "10",
       "romaji": "dono",
-      "dutch": "welke (met zn.)"
+      "dutch": "welke (met zn.)",
+      "hiragana": "\u3069\u306e"
     },
     {
       "id": "411",
       "chapter": "10",
       "romaji": "haitte imasen",
-      "dutch": "niet in zitten/zijn"
+      "dutch": "niet in zitten/zijn",
+      "hiragana": "\u306f\u3044\u3063\u3066\u3044\u307e\u305b\u3093"
     },
     {
       "id": "412",
       "chapter": "10",
       "romaji": "ichigo",
-      "dutch": "aardbei"
+      "dutch": "aardbei",
+      "hiragana": "\u3044\u3061\u3054"
     },
     {
       "id": "413",
       "chapter": "10",
       "romaji": "mata ikimashou",
-      "dutch": "laten we weer (een keer) gaan"
+      "dutch": "laten we weer (een keer) gaan",
+      "hiragana": "\u307e\u305f\u3044\u304d\u307e\u3057\u3087\u3046"
     },
     {
       "id": "414",
