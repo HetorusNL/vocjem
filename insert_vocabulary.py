@@ -43,7 +43,7 @@ def parse_vocab(vocab, id, chapter, course, fields_to_enter):
         "chapter": f"{course}-{str(chapter)}",
     }
     for i in range(len(parsed_vocab)):
-        obj[fields_to_enter[i]] = parsed_vocab[i]
+        obj[fields_to_enter[i]] = parsed_vocab[i].strip()
     dict["vocabulary"].append(obj)
     with open("dictionary.json", "w") as f:
         json.dump(dict, f, indent=2)
@@ -66,7 +66,7 @@ def main():
     with open("dictionary.json") as f:
         dict = json.load(f)
     chapter_text = list(
-        filter(lambda a: a["id"] == str(chapter), dict["chapters"])
+        filter(lambda a: a["id"] == f"{course}-{chapter}", dict["chapters"])
     )
     chapter_text = chapter_text[0]["name"] if len(chapter_text) else ""
     print(f"next chapter: {chapter} ({chapter_text})")
