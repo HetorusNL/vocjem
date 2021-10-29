@@ -8,7 +8,7 @@ def get_user_input(course, kana):
         max_id = f"{course}-0"
         # ugly last id fetching
         for obj in _dict["vocabulary"]:
-            max_id = obj["id"] if kana in obj else max_id
+            max_id = obj["id"] if kana in obj and f"{course}-" in obj["id"] else max_id
         max_id = int(max_id[5:])
     next_id = input(f"next id ({max_id + 1}): ")
 
