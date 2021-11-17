@@ -3723,7 +3723,8 @@
       "chapter": "jem1-11",
       "romaji": "ushiro",
       "dutch": "achter",
-      "hiragana": "\u3046\u3057\u308d"
+      "hiragana": "\u3046\u3057\u308d",
+      "nihongo": "\u5f8c\u308d"
     },
     {
       "id": "jem1-415",
@@ -3731,7 +3732,8 @@
       "chapter": "jem1-11",
       "romaji": "wo shimasu",
       "dutch": "... doen",
-      "hiragana": "\u3092\u3057\u307e\u3059"
+      "hiragana": "\u3092\u3057\u307e\u3059",
+      "nihongo": "\u3092\u3057\u307e\u3059"
     },
     {
       "id": "jem1-416",
@@ -3739,7 +3741,8 @@
       "chapter": "jem1-11",
       "romaji": "mina san",
       "dutch": "iedereen (beleefder dan minna)",
-      "hiragana": "\u307f\u306a\u3055\u3093"
+      "hiragana": "\u307f\u306a\u3055\u3093",
+      "nihongo": "\u7686\u3055\u3093"
     },
     {
       "id": "jem1-417",
@@ -3747,7 +3750,8 @@
       "chapter": "jem1-11",
       "romaji": "kaimono",
       "dutch": "winkelgoederen/het winkelen",
-      "hiragana": "\u304b\u3044\u3082\u306e"
+      "hiragana": "\u304b\u3044\u3082\u306e",
+      "nihongo": "\u8cb7\u3044\u7269"
     },
     {
       "id": "jem1-418",
@@ -3755,7 +3759,8 @@
       "chapter": "jem1-11",
       "romaji": "doushite",
       "dutch": "waarom",
-      "hiragana": "\u3069\u3046\u3057\u3066"
+      "hiragana": "\u3069\u3046\u3057\u3066",
+      "nihongo": "\u3069\u3046\u3057\u3066"
     },
     {
       "id": "jem1-419",
@@ -3763,7 +3768,8 @@
       "chapter": "jem1-11",
       "romaji": "nanimo",
       "dutch": "niks",
-      "hiragana": "\u306a\u306b\u3082"
+      "hiragana": "\u306a\u306b\u3082",
+      "nihongo": "\u4f55\u3082"
     },
     {
       "id": "jem1-420",
@@ -3771,7 +3777,8 @@
       "chapter": "jem1-11",
       "romaji": "nanimo arimasen",
       "dutch": "er is niks (aan de hand)",
-      "hiragana": "\u306a\u306b\u3082\u3042\u308a\u307e\u305b\u3093"
+      "hiragana": "\u306a\u306b\u3082\u3042\u308a\u307e\u305b\u3093",
+      "nihongo": "\u4f55\u3082\u3042\u308a\u307e\u305b\u3093"
     },
     {
       "id": "jem1-421",
@@ -3779,7 +3786,8 @@
       "chapter": "jem1-11",
       "romaji": "ginza",
       "dutch": "Ginza district in Japan",
-      "hiragana": "\u304e\u3093\u3056"
+      "hiragana": "\u304e\u3093\u3056",
+      "nihongo": "\u9280\u5ea7"
     },
     {
       "id": "jem1-422",
@@ -3787,7 +3795,8 @@
       "chapter": "jem1-11",
       "romaji": "yomimasu",
       "dutch": "lezen",
-      "hiragana": "\u3088\u307f\u307e\u3059"
+      "hiragana": "\u3088\u307f\u307e\u3059",
+      "nihongo": "\u8aad\u307f\u307e\u3059"
     },
     {
       "id": "jem1-423",
@@ -3795,7 +3804,8 @@
       "chapter": "jem1-11",
       "romaji": "mimasu",
       "dutch": "kijken",
-      "hiragana": "\u307f\u307e\u3059"
+      "hiragana": "\u307f\u307e\u3059",
+      "nihongo": "\u898b\u307e\u3059"
     },
     {
       "id": "jem1-424",
@@ -3803,7 +3813,8 @@
       "chapter": "jem1-11",
       "romaji": "benkyou",
       "dutch": "studie",
-      "hiragana": "\u3079\u3093\u304d\u3087\u3046"
+      "hiragana": "\u3079\u3093\u304d\u3087\u3046",
+      "nihongo": "\u52c9\u5f37"
     },
     {
       "id": "jem1-425",
@@ -3811,7 +3822,8 @@
       "chapter": "jem1-11",
       "romaji": "tenisu",
       "dutch": "tennis",
-      "hiragana": "\u3066\u306b\u3059"
+      "hiragana": "\u3066\u306b\u3059",
+      "nihongo": "\u30c6\u30cb\u30b9"
     },
     {
       "id": "jem1-426",
@@ -3819,7 +3831,8 @@
       "chapter": "jem1-11",
       "romaji": "senshuu",
       "dutch": "vorige week",
-      "hiragana": "\u305b\u3093\u3057\u3085\u3046"
+      "hiragana": "\u305b\u3093\u3057\u3085\u3046",
+      "nihongo": "\u5148\u9031"
     },
     {
       "id": "jem1-427",
@@ -3827,7 +3840,8 @@
       "chapter": "jem1-11",
       "romaji": "sengetsu",
       "dutch": "vorige maand",
-      "hiragana": "\u305b\u3093\u3052\u3064"
+      "hiragana": "\u305b\u3093\u3052\u3064",
+      "nihongo": "\u5148\u6708"
     },
     {
       "id": "jem1-428",
@@ -3835,7 +3849,8 @@
       "chapter": "jem1-11",
       "romaji": "kyonen",
       "dutch": "vorig jaar",
-      "hiragana": "\u304d\u3087\u306d\u3093"
+      "hiragana": "\u304d\u3087\u306d\u3093",
+      "nihongo": "\u53bb\u5e74"
     },
     {
       "id": "jem1-429",
@@ -3843,7 +3858,8 @@
       "chapter": "jem1-11",
       "romaji": "washoku",
       "dutch": "Japans eten",
-      "hiragana": "\u308f\u3057\u3087\u304f"
+      "hiragana": "\u308f\u3057\u3087\u304f",
+      "nihongo": "\u548c\u98df"
     },
     {
       "id": "jem1-430",
@@ -3851,7 +3867,8 @@
       "chapter": "jem1-11",
       "romaji": "chuuka(ryouri)",
       "dutch": "Chinees eten",
-      "hiragana": "\u3061\u3085\u3046\u304b(\u308a\u3087\u3046\u308a)"
+      "hiragana": "\u3061\u3085\u3046\u304b\uff08\u308a\u3087\u3046\u308a\uff09",
+      "nihongo": "\u4e2d\u83ef\uff08\u6599\u7406\uff09"
     },
     {
       "id": "jem1-431",
@@ -3859,7 +3876,8 @@
       "chapter": "jem1-11",
       "romaji": "ryouri",
       "dutch": "het koken/cuisine(keuken)/gerecht",
-      "hiragana": "\u308a\u3087\u3046\u308a"
+      "hiragana": "\u308a\u3087\u3046\u308a",
+      "nihongo": "\u6599\u7406"
     },
     {
       "id": "jem1-432",
@@ -3867,7 +3885,8 @@
       "chapter": "jem1-11",
       "romaji": "dou deshita ka",
       "dutch": "hoe was het?",
-      "hiragana": "\u3069\u3046\u3067\u3057\u305f\u304b"
+      "hiragana": "\u3069\u3046\u3067\u3057\u305f\u304b",
+      "nihongo": "\u3069\u3046\u3067\u3057\u305f\u304b"
     },
     {
       "id": "jem1-433",
@@ -3875,7 +3894,8 @@
       "chapter": "jem1-11",
       "romaji": "geemu",
       "dutch": "game",
-      "hiragana": "\u3052\u3048\u3080"
+      "hiragana": "\u3052\u3048\u3080",
+      "nihongo": "\u30b2\u30fc\u30e0"
     },
     {
       "id": "jem1-434",
@@ -3883,7 +3903,8 @@
       "chapter": "jem1-11",
       "romaji": "kintore",
       "dutch": "fitness/spiertraining",
-      "hiragana": "\u304d\u3093\u3068\u308c"
+      "hiragana": "\u304d\u3093\u3068\u308c",
+      "nihongo": "\u7b4b\u30c8\u30ec"
     },
     {
       "id": "jem1-435",
@@ -3891,7 +3912,8 @@
       "chapter": "jem1-11",
       "romaji": "sore nara ii desu",
       "dutch": "in dat geval is het goed",
-      "hiragana": "\u305d\u308c\u306a\u3089\u3044\u3044\u3067\u3059"
+      "hiragana": "\u305d\u308c\u306a\u3089\u3044\u3044\u3067\u3059",
+      "nihongo": "\u305d\u308c\u306a\u3089\u3044\u3044\u3067\u3059"
     },
     {
       "id": "jem1-436",
@@ -3899,7 +3921,8 @@
       "chapter": "jem1-11",
       "romaji": "yuuenchi",
       "dutch": "pretpark",
-      "hiragana": "\u3086\u3046\u3048\u3093\u3061"
+      "hiragana": "\u3086\u3046\u3048\u3093\u3061",
+      "nihongo": "\u904a\u5712\u5730"
     },
     {
       "id": "jem1-437",
@@ -3907,7 +3930,8 @@
       "chapter": "jem1-11",
       "romaji": "asobimasu",
       "dutch": "spelen/chillen",
-      "hiragana": "\u3042\u305d\u3073\u307e\u3059"
+      "hiragana": "\u3042\u305d\u3073\u307e\u3059",
+      "nihongo": "\u904a\u3073\u307e\u3059"
     },
     {
       "id": "jem1-438",
@@ -3915,7 +3939,8 @@
       "chapter": "jem1-11",
       "romaji": "chanto",
       "dutch": "fatsoenlijk, zo goed mogelijk, proper",
-      "hiragana": "\u3061\u3083\u3093\u3068"
+      "hiragana": "\u3061\u3083\u3093\u3068",
+      "nihongo": "\u3061\u3083\u3093\u3068"
     },
     {
       "id": "jem1-439",
@@ -3923,7 +3948,8 @@
       "chapter": "jem1-11",
       "romaji": "daiji ni shimasu",
       "dutch": "koesteren/met veel zorg",
-      "hiragana": "\u3060\u3044\u3058\u306b\u3057\u307e\u3059"
+      "hiragana": "\u3060\u3044\u3058\u306b\u3057\u307e\u3059",
+      "nihongo": "\u5927\u4e8b\u306b\u3057\u307e\u3059"
     },
     {
       "id": "jem1-440",
@@ -3931,7 +3957,8 @@
       "chapter": "jem1-11",
       "romaji": "tanoshimi",
       "dutch": "naar uitkijken/plezier in hebben",
-      "hiragana": "\u305f\u306e\u3057\u307f"
+      "hiragana": "\u305f\u306e\u3057\u307f",
+      "nihongo": "\u697d\u3057\u307f"
     },
     {
       "id": "jem1-441",
@@ -3939,7 +3966,8 @@
       "chapter": "jem1-11",
       "romaji": "yatta",
       "dutch": "joepie/yes/yay",
-      "hiragana": "\u3084\u3063\u305f"
+      "hiragana": "\u3084\u3063\u305f",
+      "nihongo": "\u3084\u3063\u305f"
     },
     {
       "id": "jem1-442",
@@ -3947,7 +3975,8 @@
       "chapter": "jem1-11",
       "romaji": "nihongo",
       "dutch": "Japans (taal)",
-      "hiragana": "\u306b\u307b\u3093\u3054"
+      "hiragana": "\u306b\u307b\u3093\u3054",
+      "nihongo": "\u65e5\u672c\u8a9e"
     },
     {
       "id": "jem1-443",
@@ -3955,7 +3984,8 @@
       "chapter": "jem1-11",
       "romaji": "dorama",
       "dutch": "drama (serie)",
-      "hiragana": "\u3069\u3089\u307e"
+      "hiragana": "\u3069\u3089\u307e",
+      "nihongo": "\u30c9\u30e9\u30de"
     },
     {
       "id": "jem1-444",
@@ -3963,7 +3993,8 @@
       "chapter": "jem1-11",
       "romaji": "sooda",
       "dutch": "frisdrank",
-      "hiragana": "\u305d\u304a\u3060"
+      "hiragana": "\u305d\u304a\u3060",
+      "nihongo": "\u30bd\u30fc\u30c0"
     },
     {
       "id": "jem1-445",
@@ -3971,7 +4002,8 @@
       "chapter": "jem1-11",
       "romaji": "sakkaa",
       "dutch": "voetbal",
-      "hiragana": "\u3055\u3063\u304b\u3042"
+      "hiragana": "\u3055\u3063\u304b\u3042",
+      "nihongo": "\u30b5\u30c3\u30ab\u30fc"
     },
     {
       "id": "jem1-446",
@@ -3979,7 +4011,8 @@
       "chapter": "jem1-11",
       "romaji": "manga",
       "dutch": "Japanse strip",
-      "hiragana": "\u307e\u3093\u304c"
+      "hiragana": "\u307e\u3093\u304c",
+      "nihongo": "\u6f2b\u753b"
     },
     {
       "id": "jem1-447",
@@ -3987,7 +4020,8 @@
       "chapter": "jem1-11",
       "romaji": "kesa",
       "dutch": "vanochtend",
-      "hiragana": "\u3051\u3055"
+      "hiragana": "\u3051\u3055",
+      "nihongo": "\u4eca\u671d"
     },
     {
       "id": "jem1-448",
@@ -3995,7 +4029,8 @@
       "chapter": "jem1-12",
       "romaji": "supootsu",
       "dutch": "sport",
-      "hiragana": "\u3059\u307d\u304a\u3064"
+      "hiragana": "\u3059\u307d\u304a\u3064",
+      "nihongo": "\u30b9\u30dd\u30fc\u30c4"
     },
     {
       "id": "jem1-449",
@@ -4003,7 +4038,8 @@
       "chapter": "jem1-12",
       "romaji": "nan(i) de",
       "dutch": "met wat",
-      "hiragana": "\u306a\u306b\u3067/\u306a\u3093\u3067"
+      "hiragana": "\u306a\u306b\u3067/\u306a\u3093\u3067",
+      "nihongo": "\u4f55\u3067"
     },
     {
       "id": "jem1-450",
@@ -4011,7 +4047,8 @@
       "chapter": "jem1-12",
       "romaji": "junbi",
       "dutch": "voorbereiding",
-      "hiragana": "\u3058\u3085\u3093\u3073"
+      "hiragana": "\u3058\u3085\u3093\u3073",
+      "nihongo": "\u6e96\u5099"
     },
     {
       "id": "jem1-451",
@@ -4019,7 +4056,8 @@
       "chapter": "jem1-12",
       "romaji": "bikkuri",
       "dutch": "schrik/verbazing",
-      "hiragana": "\u3073\u3063\u304f\u308a"
+      "hiragana": "\u3073\u3063\u304f\u308a",
+      "nihongo": "\u5403\u9a5a"
     },
     {
       "id": "jem1-452",
@@ -4027,7 +4065,8 @@
       "chapter": "jem1-12",
       "romaji": "toshokan",
       "dutch": "bibliotheek",
-      "hiragana": "\u3068\u3057\u3087\u304b\u3093"
+      "hiragana": "\u3068\u3057\u3087\u304b\u3093",
+      "nihongo": "\u56f3\u66f8\u9928"
     },
     {
       "id": "jem1-453",
@@ -4035,7 +4074,8 @@
       "chapter": "jem1-12",
       "romaji": "issho ni",
       "dutch": "samen",
-      "hiragana": "\u3044\u3063\u3057\u3087\u306b"
+      "hiragana": "\u3044\u3063\u3057\u3087\u306b",
+      "nihongo": "\u4e00\u7dd2\u306b"
     },
     {
       "id": "jem1-454",
@@ -4043,7 +4083,8 @@
       "chapter": "jem1-12",
       "romaji": "basu",
       "dutch": "bus",
-      "hiragana": "\u3070\u3059"
+      "hiragana": "\u3070\u3059",
+      "nihongo": "\u30d0\u30b9"
     },
     {
       "id": "jem1-455",
@@ -4051,7 +4092,8 @@
       "chapter": "jem1-12",
       "romaji": "basu noriba",
       "dutch": "busstation",
-      "hiragana": "\u3070\u3059\u306e\u308a\u3070"
+      "hiragana": "\u3070\u3059\u306e\u308a\u3070",
+      "nihongo": "\u30d0\u30b9\u4e57\u308a\u5834"
     },
     {
       "id": "jem1-456",
@@ -4059,7 +4101,8 @@
       "chapter": "jem1-12",
       "romaji": "basutei",
       "dutch": "bushalte",
-      "hiragana": "\u3070\u3059\u3066\u3044"
+      "hiragana": "\u3070\u3059\u3066\u3044",
+      "nihongo": "\u30d0\u30b9\u505c"
     },
     {
       "id": "jem1-457",
@@ -4067,7 +4110,8 @@
       "chapter": "jem1-12",
       "romaji": "densha",
       "dutch": "trein",
-      "hiragana": "\u3067\u3093\u3057\u3083"
+      "hiragana": "\u3067\u3093\u3057\u3083",
+      "nihongo": "\u96fb\u8eca"
     },
     {
       "id": "jem1-458",
@@ -4075,7 +4119,8 @@
       "chapter": "jem1-12",
       "romaji": "eki",
       "dutch": "station",
-      "hiragana": "\u3048\u304d"
+      "hiragana": "\u3048\u304d",
+      "nihongo": "\u99c5"
     },
     {
       "id": "jem1-459",
@@ -4083,7 +4128,8 @@
       "chapter": "jem1-12",
       "romaji": "chikatetsu",
       "dutch": "metro",
-      "hiragana": "\u3061\u304b\u3066\u3064"
+      "hiragana": "\u3061\u304b\u3066\u3064",
+      "nihongo": "\u5730\u4e0b\u9244"
     },
     {
       "id": "jem1-460",
@@ -4091,7 +4137,8 @@
       "chapter": "jem1-12",
       "romaji": "jitensha",
       "dutch": "fiets",
-      "hiragana": "\u3058\u3066\u3093\u3057\u3083"
+      "hiragana": "\u3058\u3066\u3093\u3057\u3083",
+      "nihongo": "\u81ea\u8ee2\u8eca"
     },
     {
       "id": "jem1-461",
@@ -4099,7 +4146,8 @@
       "chapter": "jem1-12",
       "romaji": "fune",
       "dutch": "veerboot/boot",
-      "hiragana": "\u3075\u306d"
+      "hiragana": "\u3075\u306d",
+      "nihongo": "\u8239"
     },
     {
       "id": "jem1-462",
@@ -4107,7 +4155,8 @@
       "chapter": "jem1-12",
       "romaji": "hikouki",
       "dutch": "vliegtuig",
-      "hiragana": "\u3072\u3053\u3046\u304d"
+      "hiragana": "\u3072\u3053\u3046\u304d",
+      "nihongo": "\u98db\u884c\u6a5f"
     },
     {
       "id": "jem1-463",
@@ -4115,7 +4164,8 @@
       "chapter": "jem1-12",
       "romaji": "kuukou",
       "dutch": "vliegveld",
-      "hiragana": "\u304f\u3046\u3053\u3046"
+      "hiragana": "\u304f\u3046\u3053\u3046",
+      "nihongo": "\u7a7a\u6e2f"
     },
     {
       "id": "jem1-464",
@@ -4123,7 +4173,8 @@
       "chapter": "jem1-12",
       "romaji": "takushii",
       "dutch": "taxi",
-      "hiragana": "\u305f\u304f\u3057\u3044"
+      "hiragana": "\u305f\u304f\u3057\u3044",
+      "nihongo": "\u30bf\u30af\u30b7\u30fc"
     },
     {
       "id": "jem1-465",
@@ -4131,7 +4182,8 @@
       "chapter": "jem1-12",
       "romaji": "takushii noriba",
       "dutch": "taxistandplaats",
-      "hiragana": "\u305f\u304f\u3057\u3044\u306e\u308a\u3070"
+      "hiragana": "\u305f\u304f\u3057\u3044\u306e\u308a\u3070",
+      "nihongo": "\u30bf\u30af\u30b7\u30fc\u4e57\u308a\u5834"
     },
     {
       "id": "jem1-466",
@@ -4139,7 +4191,8 @@
       "chapter": "jem1-12",
       "romaji": "kippu uriba",
       "dutch": "ticketverkoop plaats",
-      "hiragana": "\u304d\u3063\u3077\u3046\u308a\u3070"
+      "hiragana": "\u304d\u3063\u3077\u3046\u308a\u3070",
+      "nihongo": "\u5207\u7b26\u58f2\u308a\u5834"
     },
     {
       "id": "jem1-467",
@@ -4147,7 +4200,8 @@
       "chapter": "jem1-12",
       "romaji": "sanpo",
       "dutch": "wandeling",
-      "hiragana": "\u3055\u3093\u307d"
+      "hiragana": "\u3055\u3093\u307d",
+      "nihongo": "\u6563\u6b69"
     },
     {
       "id": "jem1-468",
@@ -4155,7 +4209,8 @@
       "chapter": "jem1-12",
       "romaji": "shitsumon",
       "dutch": "vraag",
-      "hiragana": "\u3057\u3064\u3082\u3093"
+      "hiragana": "\u3057\u3064\u3082\u3093",
+      "nihongo": "\u8cea\u554f"
     },
     {
       "id": "jem1-469",
@@ -4163,7 +4218,8 @@
       "chapter": "jem1-12",
       "romaji": "ryokou",
       "dutch": "reis",
-      "hiragana": "\u308a\u3087\u3053\u3046"
+      "hiragana": "\u308a\u3087\u3053\u3046",
+      "nihongo": "\u65c5\u884c"
     },
     {
       "id": "jem1-470",
@@ -4171,7 +4227,8 @@
       "chapter": "jem1-12",
       "romaji": "hitori",
       "dutch": "alleen/1 persoon",
-      "hiragana": "\u3072\u3068\u308a"
+      "hiragana": "\u3072\u3068\u308a",
+      "nihongo": "\u4e00\u4eba"
     },
     {
       "id": "jem1-471",
@@ -4179,7 +4236,8 @@
       "chapter": "jem1-12",
       "romaji": "futari",
       "dutch": "2 personen",
-      "hiragana": "\u3075\u305f\u308a"
+      "hiragana": "\u3075\u305f\u308a",
+      "nihongo": "\u4e8c\u4eba"
     },
     {
       "id": "jem1-472",
@@ -4187,7 +4245,8 @@
       "chapter": "jem1-12",
       "romaji": "sannin",
       "dutch": "3 personen",
-      "hiragana": "\u3055\u3093\u306b\u3093"
+      "hiragana": "\u3055\u3093\u306b\u3093",
+      "nihongo": "\u4e09\u4eba"
     },
     {
       "id": "jem1-473",
@@ -4195,7 +4254,8 @@
       "chapter": "jem1-12",
       "romaji": "yonin",
       "dutch": "4 personen",
-      "hiragana": "\u3088\u306b\u3093"
+      "hiragana": "\u3088\u306b\u3093",
+      "nihongo": "\u56db\u4eba"
     },
     {
       "id": "jem1-474",
@@ -4203,7 +4263,8 @@
       "chapter": "jem1-12",
       "romaji": "~nin",
       "dutch": "telwoord voor personen",
-      "hiragana": "\uff5e\u306b\u3093"
+      "hiragana": "\uff5e\u306b\u3093",
+      "nihongo": "\uff5e\u4eba"
     },
     {
       "id": "jem1-475",
@@ -4211,7 +4272,8 @@
       "chapter": "jem1-12",
       "romaji": "shichinin",
       "dutch": "7 personen",
-      "hiragana": "\u3057\u3061\u306b\u3093"
+      "hiragana": "\u3057\u3061\u306b\u3093",
+      "nihongo": "\u4e03\u4eba"
     },
     {
       "id": "jem1-476",
@@ -4219,7 +4281,8 @@
       "chapter": "jem1-12",
       "romaji": "nannin",
       "dutch": "hoeveel personen",
-      "hiragana": "\u306a\u3093\u306b\u3093"
+      "hiragana": "\u306a\u3093\u306b\u3093",
+      "nihongo": "\u4f55\u4eba"
     },
     {
       "id": "jem1-477",
@@ -4227,7 +4290,8 @@
       "chapter": "jem1-12",
       "romaji": "itsumo",
       "dutch": "altijd",
-      "hiragana": "\u3044\u3064\u3082"
+      "hiragana": "\u3044\u3064\u3082",
+      "nihongo": "\u4f55\u6642\u3082"
     },
     {
       "id": "jem1-478",
@@ -4235,7 +4299,8 @@
       "chapter": "jem1-12",
       "romaji": "taitei",
       "dutch": "over het algemeen",
-      "hiragana": "\u305f\u3044\u3066\u3044"
+      "hiragana": "\u305f\u3044\u3066\u3044",
+      "nihongo": "\u5927\u62b5"
     },
     {
       "id": "jem1-479",
@@ -4243,7 +4308,8 @@
       "chapter": "jem1-12",
       "romaji": "yoku",
       "dutch": "vaak",
-      "hiragana": "\u3088\u304f"
+      "hiragana": "\u3088\u304f",
+      "nihongo": "\u3088\u304f"
     },
     {
       "id": "jem1-480",
@@ -4251,7 +4317,8 @@
       "chapter": "jem1-12",
       "romaji": "tokidoki",
       "dutch": "soms",
-      "hiragana": "\u3068\u304d\u3069\u304d"
+      "hiragana": "\u3068\u304d\u3069\u304d",
+      "nihongo": "\u6642\u3005"
     },
     {
       "id": "jem1-481",
@@ -4259,7 +4326,8 @@
       "chapter": "jem1-12",
       "romaji": "tama ni",
       "dutch": "soms",
-      "hiragana": "\u305f\u307e\u306b"
+      "hiragana": "\u305f\u307e\u306b",
+      "nihongo": "\u5076\u306b"
     },
     {
       "id": "jem1-482",
@@ -4267,7 +4335,8 @@
       "chapter": "jem1-12",
       "romaji": "amari",
       "dutch": "niet zo/amper",
-      "hiragana": "\u3042\u307e\u308a"
+      "hiragana": "\u3042\u307e\u308a",
+      "nihongo": "\u4f59\u308a"
     },
     {
       "id": "jem1-483",
@@ -4275,7 +4344,8 @@
       "chapter": "jem1-12",
       "romaji": "zenzen",
       "dutch": "nooit/helemaal niet",
-      "hiragana": "\u305c\u3093\u305c\u3093"
+      "hiragana": "\u305c\u3093\u305c\u3093",
+      "nihongo": "\u5168\u7136"
     },
     {
       "id": "jem1-484",
@@ -4283,7 +4353,8 @@
       "chapter": "jem1-12",
       "romaji": "atsumarimasu",
       "dutch": "verzamelen",
-      "hiragana": "\u3042\u3064\u307e\u308a\u307e\u3059"
+      "hiragana": "\u3042\u3064\u307e\u308a\u307e\u3059",
+      "nihongo": "\u96c6\u307e\u308a\u307e\u3059"
     },
     {
       "id": "jem1-485",
@@ -4291,7 +4362,8 @@
       "chapter": "jem1-12",
       "romaji": "kocchi kocchi",
       "dutch": "hier (informeel)",
-      "hiragana": "\u3053\u3063\u3061\u3053\u3063\u3061"
+      "hiragana": "\u3053\u3063\u3061\u3053\u3063\u3061",
+      "nihongo": "\u3053\u3063\u3061\u3053\u3063\u3061"
     },
     {
       "id": "jem1-486",
@@ -4299,7 +4371,8 @@
       "chapter": "jem1-12",
       "romaji": "eakon",
       "dutch": "airco",
-      "hiragana": "\u3048\u3042\u3053\u3093"
+      "hiragana": "\u3048\u3042\u3053\u3093",
+      "nihongo": "\u30a8\u30a2\u30b3\u30f3"
     },
     {
       "id": "jem1-487",
@@ -4307,7 +4380,8 @@
       "chapter": "jem1-12",
       "romaji": "daisuki",
       "dutch": "heel erg houden van/leuk vinden",
-      "hiragana": "\u3060\u3044\u3059\u304d"
+      "hiragana": "\u3060\u3044\u3059\u304d",
+      "nihongo": "\u5927\u597d\u304d"
     },
     {
       "id": "jem1-488",
@@ -4315,7 +4389,8 @@
       "chapter": "jem1-12",
       "romaji": "mayoneezu",
       "dutch": "mayonaise",
-      "hiragana": "\u307e\u3088\u306d\u3048\u305a"
+      "hiragana": "\u307e\u3088\u306d\u3048\u305a",
+      "nihongo": "\u30de\u30e8\u30cd\u30fc\u30ba"
     },
     {
       "id": "jem1-489",
@@ -4323,7 +4398,8 @@
       "chapter": "jem1-12",
       "romaji": "mochiron",
       "dutch": "natuurlijk/zeker/uiteraard",
-      "hiragana": "\u3082\u3061\u308d\u3093"
+      "hiragana": "\u3082\u3061\u308d\u3093",
+      "nihongo": "\u3082\u3061\u308d\u3093"
     },
     {
       "id": "jem1-490",
@@ -4331,7 +4407,8 @@
       "chapter": "jem1-12",
       "romaji": "omiyage",
       "dutch": "souvenir",
-      "hiragana": "\u304a\u307f\u3084\u3052"
+      "hiragana": "\u304a\u307f\u3084\u3052",
+      "nihongo": "\u304a\u571f\u7523"
     },
     {
       "id": "jem1-491",
@@ -4339,7 +4416,8 @@
       "chapter": "jem1-12",
       "romaji": "iro",
       "dutch": "kleur",
-      "hiragana": "\u3044\u308d"
+      "hiragana": "\u3044\u308d",
+      "nihongo": "\u8272"
     },
     {
       "id": "jem1-492",
@@ -4347,7 +4425,8 @@
       "chapter": "jem1-12",
       "romaji": "douyatte",
       "dutch": "hoe/op welke manier",
-      "hiragana": "\u3069\u3046\u3084\u3063\u3066"
+      "hiragana": "\u3069\u3046\u3084\u3063\u3066",
+      "nihongo": "\u3069\u3046\u3084\u3063\u3066"
     },
     {
       "id": "jem1-493",
@@ -4355,7 +4434,8 @@
       "chapter": "jem1-12",
       "romaji": "nen",
       "dutch": "telwoord voor jaartallen",
-      "hiragana": "\u306d\u3093"
+      "hiragana": "\u306d\u3093",
+      "nihongo": "\u5e74"
     },
     {
       "id": "jem1-494",
@@ -4363,7 +4443,8 @@
       "chapter": "jem1-13",
       "romaji": "benkyou wo shimasu",
       "dutch": "studeren",
-      "hiragana": "\u3079\u3093\u304d\u3087\u3046\u3092\u3057\u307e\u3059"
+      "hiragana": "\u3079\u3093\u304d\u3087\u3046\u3092\u3057\u307e\u3059",
+      "nihongo": "\u52c9\u5f37\u3092\u3057\u307e\u3059"
     },
     {
       "id": "jem1-495",
@@ -4371,7 +4452,8 @@
       "chapter": "jem1-13",
       "romaji": "tsukaimasu",
       "dutch": "gebruiken",
-      "hiragana": "\u3064\u304b\u3044\u307e\u3059"
+      "hiragana": "\u3064\u304b\u3044\u307e\u3059",
+      "nihongo": "\u4f7f\u3044\u307e\u3059"
     },
     {
       "id": "jem1-496",
@@ -4379,7 +4461,8 @@
       "chapter": "jem1-13",
       "romaji": "hanashimasu",
       "dutch": "praten/converseren",
-      "hiragana": "\u306f\u306a\u3057\u307e\u3059"
+      "hiragana": "\u306f\u306a\u3057\u307e\u3059",
+      "nihongo": "\u8a71\u3057\u307e\u3059"
     },
     {
       "id": "jem1-497",
@@ -4387,7 +4470,8 @@
       "chapter": "jem1-13",
       "romaji": "aimasu",
       "dutch": "ontmoeten",
-      "hiragana": "\u3042\u3044\u307e\u3059"
+      "hiragana": "\u3042\u3044\u307e\u3059",
+      "nihongo": "\u4f1a\u3044\u307e\u3059"
     },
     {
       "id": "jem1-498",
@@ -4395,7 +4479,8 @@
       "chapter": "jem1-13",
       "romaji": "ganbatte (kudasai)",
       "dutch": "doe je best (alsjeblieft/formeel)",
-      "hiragana": "\u304c\u3093\u3070\u3063\u3066(\u304f\u3060\u3055\u3044)"
+      "hiragana": "\u304c\u3093\u3070\u3063\u3066\uff08\u304f\u3060\u3055\u3044\uff09",
+      "nihongo": "\u9811\u5f35\u3063\u3066\uff08\u304f\u3060\u3055\u3044\uff09"
     },
     {
       "id": "jem1-499",
@@ -4403,7 +4488,8 @@
       "chapter": "jem1-13",
       "romaji": "un",
       "dutch": "ja (informeel)",
-      "hiragana": "\u3046\u3093"
+      "hiragana": "\u3046\u3093",
+      "nihongo": "\u3046\u3093"
     },
     {
       "id": "jem1-500",
@@ -4411,7 +4497,8 @@
       "chapter": "jem1-13",
       "romaji": "uun",
       "dutch": "nee (informeel)",
-      "hiragana": "\u3046\u3046\u3093"
+      "hiragana": "\u3046\u3046\u3093",
+      "nihongo": "\u3046\u3046\u3093"
     },
     {
       "id": "jem1-501",
@@ -4419,7 +4506,8 @@
       "chapter": "jem1-13",
       "romaji": "meccha",
       "dutch": "heel ... (zoals totemo)",
-      "hiragana": "\u3081\u3063\u3061\u3083"
+      "hiragana": "\u3081\u3063\u3061\u3083",
+      "nihongo": "\u6ec5\u8336"
     },
     {
       "id": "jem1-502",
@@ -4427,7 +4515,8 @@
       "chapter": "jem1-13",
       "romaji": "purezento",
       "dutch": "cadeau",
-      "hiragana": "\u3077\u308c\u305c\u3093\u3068"
+      "hiragana": "\u3077\u308c\u305c\u3093\u3068",
+      "nihongo": "\u30d7\u30ec\u30bc\u30f3\u30c8"
     },
     {
       "id": "jem1-503",
@@ -4435,7 +4524,8 @@
       "chapter": "jem1-13",
       "romaji": "agemasu",
       "dutch": "geven",
-      "hiragana": "\u3042\u3052\u307e\u3059"
+      "hiragana": "\u3042\u3052\u307e\u3059",
+      "nihongo": "\u3042\u3052\u307e\u3059"
     },
     {
       "id": "jem1-504",
@@ -4443,7 +4533,8 @@
       "chapter": "jem1-13",
       "romaji": "moraimasu",
       "dutch": "ontvangen/krijgen",
-      "hiragana": "\u3082\u3089\u3044\u307e\u3059"
+      "hiragana": "\u3082\u3089\u3044\u307e\u3059",
+      "nihongo": "\u8cb0\u3044\u307e\u3059"
     },
     {
       "id": "jem1-505",
@@ -4451,7 +4542,8 @@
       "chapter": "jem1-13",
       "romaji": "ofuro",
       "dutch": "bad",
-      "hiragana": "\u304a\u3075\u308d"
+      "hiragana": "\u304a\u3075\u308d",
+      "nihongo": "\u304a\u98a8\u5442"
     },
     {
       "id": "jem1-506",
@@ -4459,7 +4551,8 @@
       "chapter": "jem1-13",
       "romaji": "tomarimasu",
       "dutch": "stoppen",
-      "hiragana": "\u3068\u307e\u308a\u307e\u3059"
+      "hiragana": "\u3068\u307e\u308a\u307e\u3059",
+      "nihongo": "\u6b62\u307e\u308a\u307e\u3059"
     },
     {
       "id": "jem1-507",
@@ -4467,7 +4560,8 @@
       "chapter": "jem1-13",
       "romaji": "tomarimasu",
       "dutch": "overnachten",
-      "hiragana": "\u3068\u307e\u308a\u307e\u3059"
+      "hiragana": "\u3068\u307e\u308a\u307e\u3059",
+      "nihongo": "\u6cca\u307e\u308a\u307e\u3059"
     },
     {
       "id": "jem1-508",
@@ -4475,7 +4569,8 @@
       "chapter": "jem1-13",
       "romaji": "shiken",
       "dutch": "toets",
-      "hiragana": "\u3057\u3051\u3093"
+      "hiragana": "\u3057\u3051\u3093",
+      "nihongo": "\u8a66\u9a13"
     },
     {
       "id": "jem1-509",
@@ -4483,7 +4578,8 @@
       "chapter": "jem1-13",
       "romaji": "wakaremasu",
       "dutch": "uit elkaar gaan/halen",
-      "hiragana": "\u308f\u304b\u308c\u307e\u3059"
+      "hiragana": "\u308f\u304b\u308c\u307e\u3059",
+      "nihongo": "\u5225\u308c\u307e\u3059"
     },
     {
       "id": "jem1-510",
@@ -4491,7 +4587,8 @@
       "chapter": "jem1-13",
       "romaji": "tsurai",
       "dutch": "pijnlijk (emotioneel zwaar)",
-      "hiragana": "\u3064\u3089\u3044"
+      "hiragana": "\u3064\u3089\u3044",
+      "nihongo": "\u8f9b\u3044"
     },
     {
       "id": "jem1-511",
@@ -4499,7 +4596,8 @@
       "chapter": "jem1-13",
       "romaji": "hanashi",
       "dutch": "gesprek",
-      "hiragana": "\u306f\u306a\u3057"
+      "hiragana": "\u306f\u306a\u3057",
+      "nihongo": "\u8a71"
     },
     {
       "id": "jem1-512",
@@ -4507,7 +4605,8 @@
       "chapter": "jem1-13",
       "romaji": "shiryou",
       "dutch": "documenten/papieren",
-      "hiragana": "\u3057\u308a\u3087\u3046"
+      "hiragana": "\u3057\u308a\u3087\u3046",
+      "nihongo": "\u8cc7\u6599"
     },
     {
       "id": "jem1-513",
@@ -4515,7 +4614,8 @@
       "chapter": "jem1-13",
       "romaji": "yoroshiku wo tsutaete kudasai",
       "dutch": "doe de groeten alsjeblieft",
-      "hiragana": "\u3088\u308d\u3057\u304f\u3092\u3064\u305f\u3048\u3066\u304f\u3060\u3055\u3044"
+      "hiragana": "\u3088\u308d\u3057\u304f\u3092\u3064\u305f\u3048\u3066\u304f\u3060\u3055\u3044",
+      "nihongo": "\u5b9c\u3057\u304f\u3092\u4f1d\u3048\u3066\u4e0b\u3055\u3044"
     },
     {
       "id": "jem1-514",
@@ -4523,7 +4623,8 @@
       "chapter": "jem1-13",
       "romaji": "deshou?",
       "dutch": "toch?/vind je niet?",
-      "hiragana": "\u3067\u3057\u3087\u3046?"
+      "hiragana": "\u3067\u3057\u3087\u3046\uff1f",
+      "nihongo": "\u3067\u3057\u3087\u3046\uff1f"
     },
     {
       "id": "jem1-515",
@@ -4531,7 +4632,8 @@
       "chapter": "jem1-13",
       "romaji": "shucchou",
       "dutch": "zakenreis",
-      "hiragana": "\u3057\u3085\u3063\u3061\u3087\u3046"
+      "hiragana": "\u3057\u3085\u3063\u3061\u3087\u3046",
+      "nihongo": "\u51fa\u5f35"
     },
     {
       "id": "jem1-516",
@@ -4539,7 +4641,8 @@
       "chapter": "jem1-13",
       "romaji": "hana",
       "dutch": "bloem",
-      "hiragana": "\u306f\u306a"
+      "hiragana": "\u306f\u306a",
+      "nihongo": "\u82b1"
     },
     {
       "id": "jem1-517",
@@ -4547,7 +4650,8 @@
       "chapter": "jem1-13",
       "romaji": "mono",
       "dutch": "ding (fysiek)",
-      "hiragana": "\u3082\u306e"
+      "hiragana": "\u3082\u306e",
+      "nihongo": "\u7269"
     },
     {
       "id": "jem1-518",
@@ -4555,7 +4659,8 @@
       "chapter": "jem1-13",
       "romaji": "kono mae",
       "dutch": "laatst/recentelijk",
-      "hiragana": "\u3053\u306e\u307e\u3048"
+      "hiragana": "\u3053\u306e\u307e\u3048",
+      "nihongo": "\u3053\u306e\u524d"
     },
     {
       "id": "jem1-519",
@@ -4563,7 +4668,8 @@
       "chapter": "jem1-13",
       "romaji": "mondai arimasen",
       "dutch": "het is geen probleem",
-      "hiragana": "\u3082\u3093\u3060\u3044\u3042\u308a\u307e\u305b\u3093"
+      "hiragana": "\u3082\u3093\u3060\u3044\u3042\u308a\u307e\u305b\u3093",
+      "nihongo": "\u554f\u984c\u3042\u308a\u307e\u305b\u3093"
     },
     {
       "id": "jem1-520",
@@ -4571,7 +4677,8 @@
       "chapter": "jem1-13",
       "romaji": "kirimasu",
       "dutch": "snijden/verbreken/beeindigen",
-      "hiragana": "\u304d\u308a\u307e\u3059"
+      "hiragana": "\u304d\u308a\u307e\u3059",
+      "nihongo": "\u5207\u308a\u307e\u3059"
     },
     {
       "id": "jem1-521",
@@ -4579,7 +4686,8 @@
       "chapter": "jem1-13",
       "romaji": "jikan",
       "dutch": "tijd",
-      "hiragana": "\u3058\u304b\u3093"
+      "hiragana": "\u3058\u304b\u3093",
+      "nihongo": "\u6642\u9593"
     },
     {
       "id": "jem1-522",
@@ -4587,7 +4695,8 @@
       "chapter": "jem1-14",
       "romaji": "nomikai",
       "dutch": "bijeenkomst met drank",
-      "hiragana": "\u306e\u307f\u304b\u3044"
+      "hiragana": "\u306e\u307f\u304b\u3044",
+      "nihongo": "\u98f2\u307f\u4f1a"
     },
     {
       "id": "jem1-523",
@@ -4595,7 +4704,8 @@
       "chapter": "jem1-14",
       "romaji": "totemo tanoshikatta",
       "dutch": "het was heel gezellig",
-      "hiragana": "\u3068\u3066\u3082\u305f\u306e\u3057\u304b\u3063\u305f"
+      "hiragana": "\u3068\u3066\u3082\u305f\u306e\u3057\u304b\u3063\u305f",
+      "nihongo": "\u3068\u3066\u3082\u697d\u3057\u304b\u3063\u305f"
     },
     {
       "id": "jem1-524",
@@ -4603,7 +4713,8 @@
       "chapter": "jem1-14",
       "romaji": "sono toki",
       "dutch": "toen/die tijd",
-      "hiragana": "\u305d\u306e\u3068\u304d"
+      "hiragana": "\u305d\u306e\u3068\u304d",
+      "nihongo": "\u305d\u306e\u6642"
     },
     {
       "id": "jem1-525",
@@ -4611,7 +4722,8 @@
       "chapter": "jem1-14",
       "romaji": "kibun",
       "dutch": "gevoel (van lichaam)",
-      "hiragana": "\u304d\u3076\u3093"
+      "hiragana": "\u304d\u3076\u3093",
+      "nihongo": "\u6c17\u5206"
     },
     {
       "id": "jem1-526",
@@ -4619,7 +4731,8 @@
       "chapter": "jem1-14",
       "romaji": "yokunakatta",
       "dutch": "het was niet goed",
-      "hiragana": "\u3088\u304f\u306a\u304b\u3063\u305f"
+      "hiragana": "\u3088\u304f\u306a\u304b\u3063\u305f",
+      "nihongo": "\u826f\u304f\u306a\u304b\u3063\u305f"
     },
     {
       "id": "jem1-527",
@@ -4627,7 +4740,8 @@
       "chapter": "jem1-14",
       "romaji": "kicchin",
       "dutch": "keuken",
-      "hiragana": "\u304d\u3063\u3061\u3093"
+      "hiragana": "\u304d\u3063\u3061\u3093",
+      "nihongo": "\u30ad\u30c3\u30c1\u30f3"
     },
     {
       "id": "jem1-528",
@@ -4635,7 +4749,8 @@
       "chapter": "jem1-14",
       "romaji": "yamete",
       "dutch": "stop (gebiedende wijs)",
-      "hiragana": "\u3084\u3081\u3066"
+      "hiragana": "\u3084\u3081\u3066",
+      "nihongo": "\u8f9e\u3081\u3066"
     },
     {
       "id": "jem1-529",
@@ -4643,7 +4758,8 @@
       "chapter": "jem1-14",
       "romaji": "keisatsu",
       "dutch": "politie",
-      "hiragana": "\u3051\u3044\u3055\u3064"
+      "hiragana": "\u3051\u3044\u3055\u3064",
+      "nihongo": "\u8b66\u5bdf"
     },
     {
       "id": "jem1-530",
@@ -4651,7 +4767,8 @@
       "chapter": "jem1-14",
       "romaji": "abunai",
       "dutch": "gevaarlijk",
-      "hiragana": "\u3042\u3076\u306a\u3044"
+      "hiragana": "\u3042\u3076\u306a\u3044",
+      "nihongo": "\u5371\u306a\u3044"
     },
     {
       "id": "jem1-531",
@@ -4659,7 +4776,8 @@
       "chapter": "jem1-14",
       "romaji": "kusai",
       "dutch": "stinken",
-      "hiragana": "\u304f\u3055\u3044"
+      "hiragana": "\u304f\u3055\u3044",
+      "nihongo": "\u81ed\u3044"
     },
     {
       "id": "jem1-532",
@@ -4667,7 +4785,8 @@
       "chapter": "jem1-14",
       "romaji": "kurai",
       "dutch": "donker/negatieve stemming/somber",
-      "hiragana": "\u304f\u3089\u3044"
+      "hiragana": "\u304f\u3089\u3044",
+      "nihongo": "\u6697\u3044"
     },
     {
       "id": "jem1-533",
@@ -4675,7 +4794,8 @@
       "chapter": "jem1-14",
       "romaji": "usui",
       "dutch": "dun/waterig",
-      "hiragana": "\u3046\u3059\u3044"
+      "hiragana": "\u3046\u3059\u3044",
+      "nihongo": "\u8584\u3044"
     },
     {
       "id": "jem1-534",
@@ -4683,7 +4803,8 @@
       "chapter": "jem1-14",
       "romaji": "atsui",
       "dutch": "dik/zwaar",
-      "hiragana": "\u3042\u3064\u3044"
+      "hiragana": "\u3042\u3064\u3044",
+      "nihongo": "\u539a\u3044"
     },
     {
       "id": "jem1-535",
@@ -4691,7 +4812,8 @@
       "chapter": "jem1-14",
       "romaji": "anzen",
       "dutch": "veilig",
-      "hiragana": "\u3042\u3093\u305c\u3093"
+      "hiragana": "\u3042\u3093\u305c\u3093",
+      "nihongo": "\u5b89\u5168"
     },
     {
       "id": "jem1-536",
@@ -4699,7 +4821,8 @@
       "chapter": "jem1-14",
       "romaji": "anshin",
       "dutch": "opluchting",
-      "hiragana": "\u3042\u3093\u3057\u3093"
+      "hiragana": "\u3042\u3093\u3057\u3093",
+      "nihongo": "\u5b89\u5fc3"
     },
     {
       "id": "jem1-537",
@@ -4707,7 +4830,8 @@
       "chapter": "jem1-14",
       "romaji": "suzushii",
       "dutch": "koel/verfrissend",
-      "hiragana": "\u3059\u305a\u3057\u3044"
+      "hiragana": "\u3059\u305a\u3057\u3044",
+      "nihongo": "\u6dbc\u3057\u3044"
     },
     {
       "id": "jem1-538",
@@ -4715,7 +4839,8 @@
       "chapter": "jem1-14",
       "romaji": "semai",
       "dutch": "smal/krap",
-      "hiragana": "\u305b\u307e\u3044"
+      "hiragana": "\u305b\u307e\u3044",
+      "nihongo": "\u72ed\u3044"
     },
     {
       "id": "jem1-539",
@@ -4723,7 +4848,8 @@
       "chapter": "jem1-14",
       "romaji": "hiroi",
       "dutch": "wijd/open",
-      "hiragana": "\u3072\u308d\u3044"
+      "hiragana": "\u3072\u308d\u3044",
+      "nihongo": "\u5e83\u3044"
     },
     {
       "id": "jem1-540",
@@ -4731,7 +4857,8 @@
       "chapter": "jem1-14",
       "romaji": "tsuyoi",
       "dutch": "sterk",
-      "hiragana": "\u3064\u3088\u3044"
+      "hiragana": "\u3064\u3088\u3044",
+      "nihongo": "\u5f37\u3044"
     },
     {
       "id": "jem1-541",
@@ -4739,7 +4866,8 @@
       "chapter": "jem1-14",
       "romaji": "yowai",
       "dutch": "zwak",
-      "hiragana": "\u3088\u308f\u3044"
+      "hiragana": "\u3088\u308f\u3044",
+      "nihongo": "\u5f31\u3044"
     },
     {
       "id": "jem1-542",
@@ -4747,7 +4875,8 @@
       "chapter": "jem1-14",
       "romaji": "shawaa wo abimasu",
       "dutch": "douchen",
-      "hiragana": "\u3057\u3083\u308f\u3042\u3092\u3042\u3073\u307e\u3059"
+      "hiragana": "\u3057\u3083\u308f\u3042\u3092\u3042\u3073\u307e\u3059",
+      "nihongo": "\u30b7\u30e3\u30ef\u30fc\u3092\u6d74\u3073\u307e\u3059"
     },
     {
       "id": "jem1-543",
@@ -4755,7 +4884,8 @@
       "chapter": "jem1-14",
       "romaji": "sashimasu",
       "dutch": "openen (van een paraplu)",
-      "hiragana": "\u3055\u3057\u307e\u3059"
+      "hiragana": "\u3055\u3057\u307e\u3059",
+      "nihongo": "\u5dee\u3057\u307e\u3059"
     },
     {
       "id": "jem1-544",
@@ -4763,7 +4893,8 @@
       "chapter": "jem1-14",
       "romaji": "uketsuke no hito",
       "dutch": "receptioniste",
-      "hiragana": "\u3046\u3051\u3064\u3051\u306e\u3072\u3068"
+      "hiragana": "\u3046\u3051\u3064\u3051\u306e\u3072\u3068",
+      "nihongo": "\u53d7\u4ed8\u306e\u4eba"
     },
     {
       "id": "jem1-545",
@@ -4771,7 +4902,8 @@
       "chapter": "jem1-14",
       "romaji": "goukaku wo shimasu",
       "dutch": "slagen (examen etc.)",
-      "hiragana": "\u3054\u3046\u304b\u304f\u3092\u3057\u307e\u3059"
+      "hiragana": "\u3054\u3046\u304b\u304f\u3092\u3057\u307e\u3059",
+      "nihongo": "\u5408\u683c\u3092\u3057\u307e\u3059"
     },
     {
       "id": "jem1-546",
@@ -4779,7 +4911,8 @@
       "chapter": "jem1-14",
       "romaji": "esuefuekusu (sfx)",
       "dutch": "special effects",
-      "hiragana": "\u3048\u3059\u3048\u3075\u3048\u304f\u3059"
+      "hiragana": "\u3048\u3059\u3048\u3075\u3048\u304f\u3059",
+      "nihongo": "\u30a8\u30b9\u30a8\u30d5\u30a8\u30af\u30b9"
     },
     {
       "id": "jem1-547",
@@ -4787,7 +4920,8 @@
       "chapter": "jem1-14",
       "romaji": "kion",
       "dutch": "temperatuur",
-      "hiragana": "\u304d\u304a\u3093"
+      "hiragana": "\u304d\u304a\u3093",
+      "nihongo": "\u6c17\u6e29"
     },
     {
       "id": "jem1-548",
@@ -4795,7 +4929,8 @@
       "chapter": "jem1-14",
       "romaji": "mitsukarimasu",
       "dutch": "vinden",
-      "hiragana": "\u307f\u3064\u304b\u308a\u307e\u3059"
+      "hiragana": "\u307f\u3064\u304b\u308a\u307e\u3059",
+      "nihongo": "\u898b\u3064\u304b\u308a\u307e\u3059"
     },
     {
       "id": "jem1-549",
@@ -4803,7 +4938,8 @@
       "chapter": "jem1-14",
       "romaji": "nakushimasu",
       "dutch": "verliezen/kwijt raken",
-      "hiragana": "\u306a\u304f\u3057\u307e\u3059"
+      "hiragana": "\u306a\u304f\u3057\u307e\u3059",
+      "nihongo": "\u7121\u304f\u3057\u307e\u3059"
     },
     {
       "id": "jem1-550",
@@ -4811,7 +4947,8 @@
       "chapter": "jem1-14",
       "romaji": "junbi wo shimasu",
       "dutch": "voorbereiden",
-      "hiragana": "\u3058\u3085\u3093\u3073\u3092\u3057\u307e\u3059"
+      "hiragana": "\u3058\u3085\u3093\u3073\u3092\u3057\u307e\u3059",
+      "nihongo": "\u6e96\u5099\u3092\u3057\u307e\u3059"
     },
     {
       "id": "jem1-551",
@@ -4819,7 +4956,8 @@
       "chapter": "jem1-14",
       "romaji": "tegami",
       "dutch": "brief",
-      "hiragana": "\u3066\u304c\u307f"
+      "hiragana": "\u3066\u304c\u307f",
+      "nihongo": "\u624b\u7d19"
     },
     {
       "id": "jem1-552",
@@ -4827,7 +4965,8 @@
       "chapter": "jem1-14",
       "romaji": "tamago",
       "dutch": "ei",
-      "hiragana": "\u305f\u307e\u3054"
+      "hiragana": "\u305f\u307e\u3054",
+      "nihongo": "\u5375"
     },
     {
       "id": "jem1-553",
@@ -4835,7 +4974,8 @@
       "chapter": "jem1-14",
       "romaji": "ukemasu",
       "dutch": "in ontvangst nemen/nemen (van een toets)/aanvaarden/vangen",
-      "hiragana": "\u3046\u3051\u307e\u3059"
+      "hiragana": "\u3046\u3051\u307e\u3059",
+      "nihongo": "\u53d7\u3051\u307e\u3059"
     },
     {
       "id": "jem1-554",
@@ -4843,7 +4983,8 @@
       "chapter": "jem1-14",
       "romaji": "ureshii",
       "dutch": "dolblij/verheugd",
-      "hiragana": "\u3046\u308c\u3057\u3044"
+      "hiragana": "\u3046\u308c\u3057\u3044",
+      "nihongo": "\u5b09\u3057\u3044"
     },
     {
       "id": "jem1-555",
@@ -4851,7 +4992,8 @@
       "chapter": "jem1-14",
       "romaji": "nooto pasokon",
       "dutch": "laptop",
-      "hiragana": "\u306e\u304a\u3068\u3071\u305d\u3053\u3093"
+      "hiragana": "\u306e\u304a\u3068\u3071\u305d\u3053\u3093",
+      "nihongo": "\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3"
     },
     {
       "id": "jem1-556",
@@ -4859,7 +5001,8 @@
       "chapter": "jem1-14",
       "romaji": "okurimasu",
       "dutch": "versturen/opsturen",
-      "hiragana": "\u304a\u304f\u308a\u307e\u3059"
+      "hiragana": "\u304a\u304f\u308a\u307e\u3059",
+      "nihongo": "\u9001\u308a\u307e\u3059"
     },
     {
       "id": "jem1-557",
@@ -4867,7 +5010,8 @@
       "chapter": "jem1-15",
       "romaji": "ikimasenka",
       "dutch": "gaan we niet?",
-      "hiragana": "\u3044\u304d\u307e\u305b\u3093\u304b"
+      "hiragana": "\u3044\u304d\u307e\u305b\u3093\u304b",
+      "nihongo": "\u884c\u304d\u307e\u305b\u3093\u304b"
     },
     {
       "id": "jem1-558",
@@ -4875,7 +5019,8 @@
       "chapter": "jem1-15",
       "romaji": "ikimashou",
       "dutch": "laten we gaan",
-      "hiragana": "\u3044\u304d\u307e\u3057\u3087\u3046"
+      "hiragana": "\u3044\u304d\u307e\u3057\u3087\u3046",
+      "nihongo": "\u884c\u304d\u307e\u3057\u3087\u3046"
     },
     {
       "id": "jem1-559",
@@ -4883,7 +5028,8 @@
       "chapter": "jem1-15",
       "romaji": "sugoi",
       "dutch": "vet/cool/super",
-      "hiragana": "\u3059\u3054\u3044"
+      "hiragana": "\u3059\u3054\u3044",
+      "nihongo": "\u51c4\u3044\uff0f\u30b9\u30b4\u30a4"
     },
     {
       "id": "jem1-560",
@@ -4891,7 +5037,8 @@
       "chapter": "jem1-15",
       "romaji": "sou deshou!",
       "dutch": "ja he",
-      "hiragana": "\u305d\u3046\u3067\u3057\u3087\u3046!"
+      "hiragana": "\u305d\u3046\u3067\u3057\u3087\u3046\uff01",
+      "nihongo": "\u305d\u3046\u3067\u3057\u3087\u3046\uff01"
     },
     {
       "id": "jem1-561",
@@ -4899,7 +5046,8 @@
       "chapter": "jem1-15",
       "romaji": "sasoimasu",
       "dutch": "uitnodigen",
-      "hiragana": "\u3055\u305d\u3044\u307e\u3059"
+      "hiragana": "\u3055\u305d\u3044\u307e\u3059",
+      "nihongo": "\u8a98\u3044\u307e\u3059"
     },
     {
       "id": "jem1-562",
@@ -4907,7 +5055,8 @@
       "chapter": "jem1-15",
       "romaji": "zehi",
       "dutch": "graag",
-      "hiragana": "\u305c\u3072"
+      "hiragana": "\u305c\u3072",
+      "nihongo": "\u662f\u975e"
     },
     {
       "id": "jem1-563",
@@ -4915,7 +5064,8 @@
       "chapter": "jem1-15",
       "romaji": "kaishain",
       "dutch": "bedrijfsmedewerker",
-      "hiragana": "\u304b\u3044\u3057\u3083\u3044\u3093"
+      "hiragana": "\u304b\u3044\u3057\u3083\u3044\u3093",
+      "nihongo": "\u4f1a\u793e\u54e1"
     },
     {
       "id": "jem1-564",
@@ -4923,7 +5073,8 @@
       "chapter": "jem1-15",
       "romaji": "yakyuu",
       "dutch": "honkbal",
-      "hiragana": "\u3084\u304d\u3085\u3046"
+      "hiragana": "\u3084\u304d\u3085\u3046",
+      "nihongo": "\u91ce\u7403"
     },
     {
       "id": "jem1-565",
@@ -4931,7 +5082,8 @@
       "chapter": "jem1-15",
       "romaji": "takkyuu",
       "dutch": "tafeltennis",
-      "hiragana": "\u305f\u3063\u304d\u3085\u3046"
+      "hiragana": "\u305f\u3063\u304d\u3085\u3046",
+      "nihongo": "\u5353\u7403"
     },
     {
       "id": "jem1-566",
@@ -4939,7 +5091,8 @@
       "chapter": "jem1-15",
       "romaji": "shiai",
       "dutch": "wedstrijd",
-      "hiragana": "\u3057\u3042\u3044"
+      "hiragana": "\u3057\u3042\u3044",
+      "nihongo": "\u8a66\u5408"
     },
     {
       "id": "jem1-567",
@@ -4947,7 +5100,8 @@
       "chapter": "jem1-15",
       "romaji": "taisetsu",
       "dutch": "belangrijk",
-      "hiragana": "\u305f\u3044\u305b\u3064"
+      "hiragana": "\u305f\u3044\u305b\u3064",
+      "nihongo": "\u5927\u5207"
     },
     {
       "id": "jem1-568",
@@ -4955,7 +5109,8 @@
       "chapter": "jem1-15",
       "romaji": "ibento",
       "dutch": "evenement",
-      "hiragana": "\u3044\u3079\u3093\u3068"
+      "hiragana": "\u3044\u3079\u3093\u3068",
+      "nihongo": "\u30a4\u30d9\u30f3\u30c8"
     },
     {
       "id": "jem1-569",
@@ -4963,7 +5118,8 @@
       "chapter": "jem1-15",
       "romaji": "teeburu",
       "dutch": "tafel",
-      "hiragana": "\u3066\u3048\u3076\u308b"
+      "hiragana": "\u3066\u3048\u3076\u308b",
+      "nihongo": "\u30c6\u30fc\u30d6\u30eb"
     },
     {
       "id": "jem1-570",
@@ -4971,7 +5127,8 @@
       "chapter": "jem1-15",
       "romaji": "kosupure",
       "dutch": "cosplay",
-      "hiragana": "\u3053\u3059\u3077\u308c"
+      "hiragana": "\u3053\u3059\u3077\u308c",
+      "nihongo": "\u30b3\u30b9\u30d7\u30ec"
     },
     {
       "id": "jem1-571",
@@ -4979,7 +5136,8 @@
       "chapter": "jem1-15",
       "romaji": "kowai",
       "dutch": "eng",
-      "hiragana": "\u3053\u308f\u3044"
+      "hiragana": "\u3053\u308f\u3044",
+      "nihongo": "\u6016\u3044"
     },
     {
       "id": "jem1-572",
@@ -4987,7 +5145,8 @@
       "chapter": "jem1-15",
       "romaji": "rikuesuto",
       "dutch": "verzoek",
-      "hiragana": "\u308a\u304f\u3048\u3059\u3068"
+      "hiragana": "\u308a\u304f\u3048\u3059\u3068",
+      "nihongo": "\u30ea\u30af\u30a8\u30b9\u30c8"
     },
     {
       "id": "jem1-573",
@@ -4995,7 +5154,8 @@
       "chapter": "jem1-15",
       "romaji": "onegai",
       "dutch": "verzoek/wens",
-      "hiragana": "\u304a\u306d\u304c\u3044"
+      "hiragana": "\u304a\u306d\u304c\u3044",
+      "nihongo": "\u304a\u9858\u3044"
     },
     {
       "id": "jem1-574",
@@ -5003,7 +5163,8 @@
       "chapter": "jem1-15",
       "romaji": "tatemono",
       "dutch": "gebouw",
-      "hiragana": "\u305f\u3066\u3082\u306e"
+      "hiragana": "\u305f\u3066\u3082\u306e",
+      "nihongo": "\u5efa\u7269"
     },
     {
       "id": "jem1-575",
@@ -5011,7 +5172,8 @@
       "chapter": "jem1-15",
       "romaji": "urusai",
       "dutch": "luidruchtig",
-      "hiragana": "\u3046\u308b\u3055\u3044"
+      "hiragana": "\u3046\u308b\u3055\u3044",
+      "nihongo": "\u7169\u3044"
     },
     {
       "id": "jem1-576",
@@ -5019,7 +5181,8 @@
       "chapter": "jem1-15",
       "romaji": "kekkonshiki",
       "dutch": "bruiloft",
-      "hiragana": "\u3051\u3063\u3053\u3093\u3057\u304d"
+      "hiragana": "\u3051\u3063\u3053\u3093\u3057\u304d",
+      "nihongo": "\u7d50\u5a5a\u5f0f"
     },
     {
       "id": "jem1-577",
@@ -5027,7 +5190,8 @@
       "chapter": "jem1-15",
       "romaji": "sukaafu",
       "dutch": "sjaal",
-      "hiragana": "\u3059\u304b\u3042\u3075"
+      "hiragana": "\u3059\u304b\u3042\u3075",
+      "nihongo": "\u30b9\u30ab\u30fc\u30d5"
     },
     {
       "id": "jem1-578",
@@ -5035,7 +5199,8 @@
       "chapter": "jem1-15",
       "romaji": "kowaremasu",
       "dutch": "kapotgaan",
-      "hiragana": "\u3053\u308f\u308c\u307e\u3059"
+      "hiragana": "\u3053\u308f\u308c\u307e\u3059",
+      "nihongo": "\u58ca\u308c\u307e\u3059"
     },
     {
       "id": "jem1-579",
@@ -5043,7 +5208,8 @@
       "chapter": "jem1-15",
       "romaji": "okonaimasu",
       "dutch": "organiseren",
-      "hiragana": "\u304a\u3053\u306a\u3044\u307e\u3059"
+      "hiragana": "\u304a\u3053\u306a\u3044\u307e\u3059",
+      "nihongo": "\u884c\u3044\u307e\u3059"
     },
     {
       "id": "jem1-580",
@@ -5051,7 +5217,8 @@
       "chapter": "jem1-15",
       "romaji": "naoshimasu",
       "dutch": "repareren/herstellen",
-      "hiragana": "\u306a\u304a\u3057\u307e\u3059"
+      "hiragana": "\u306a\u304a\u3057\u307e\u3059",
+      "nihongo": "\u76f4\u3057\u307e\u3059"
     },
     {
       "id": "jem1-581",
@@ -5059,7 +5226,8 @@
       "chapter": "jem1-15",
       "romaji": "wakuwaku",
       "dutch": "enthousiast",
-      "hiragana": "\u308f\u304f\u308f\u304f"
+      "hiragana": "\u308f\u304f\u308f\u304f",
+      "nihongo": "\u30ef\u30af\u30ef\u30af"
     },
     {
       "id": "jem1-582",
@@ -5067,7 +5235,8 @@
       "chapter": "jem1-15",
       "romaji": "josei",
       "dutch": "vrouw",
-      "hiragana": "\u3058\u3087\u305b\u3044"
+      "hiragana": "\u3058\u3087\u305b\u3044",
+      "nihongo": "\u5973\u6027"
     },
     {
       "id": "jem1-583",
@@ -5075,7 +5244,8 @@
       "chapter": "jem1-15",
       "romaji": "shiriai",
       "dutch": "kennis/bekende",
-      "hiragana": "\u3057\u308a\u3042\u3044"
+      "hiragana": "\u3057\u308a\u3042\u3044",
+      "nihongo": "\u77e5\u308a\u5408\u3044"
     },
     {
       "id": "jem1-584",
@@ -5083,7 +5253,8 @@
       "chapter": "jem1-15",
       "romaji": "konban",
       "dutch": "vanavond/deze avond",
-      "hiragana": "\u3053\u3093\u3070\u3093"
+      "hiragana": "\u3053\u3093\u3070\u3093",
+      "nihongo": "\u4eca\u6669"
     },
     {
       "id": "jem1-585",
@@ -5091,7 +5262,8 @@
       "chapter": "jem1-15",
       "romaji": "konya",
       "dutch": "vanavond/deze avond",
-      "hiragana": "\u3053\u3093\u3084"
+      "hiragana": "\u3053\u3093\u3084",
+      "nihongo": "\u4eca\u591c"
     },
     {
       "id": "jem1-586",
@@ -5099,7 +5271,8 @@
       "chapter": "jem1-15",
       "romaji": "annai shimasu",
       "dutch": "rondleiden/de weg wijzen",
-      "hiragana": "\u3042\u3093\u306a\u3044\u307e\u3059"
+      "hiragana": "\u3042\u3093\u306a\u3044\u307e\u3059",
+      "nihongo": "\u6848\u5185\u3057\u307e\u3059"
     },
     {
       "id": "jem1-587",
@@ -5107,7 +5280,8 @@
       "chapter": "jem1-15",
       "romaji": "horaa",
       "dutch": "horror",
-      "hiragana": "\u307b\u3089\u3042"
+      "hiragana": "\u307b\u3089\u3042",
+      "nihongo": "\u30db\u30e9\u30fc"
     },
     {
       "id": "jem1-588",
@@ -5115,7 +5289,8 @@
       "chapter": "jem1-15",
       "romaji": "shoukai shimasu",
       "dutch": "voorstellen (jezelf/iemand anders)",
-      "hiragana": "\u3057\u3087\u3046\u304b\u3044\u3057\u307e\u3059"
+      "hiragana": "\u3057\u3087\u3046\u304b\u3044\u3057\u307e\u3059",
+      "nihongo": "\u7d39\u4ecb\u3057\u307e\u3059"
     },
     {
       "id": "jem1-589",
@@ -5123,7 +5298,8 @@
       "chapter": "jem1-16",
       "romaji": "iru (imasu)",
       "dutch": "zich bevinden (levend)",
-      "hiragana": "\u3044\u308b(\u3044\u307e\u3059)"
+      "hiragana": "\u3044\u308b\uff08\u3044\u307e\u3059\uff09",
+      "nihongo": "\u5c45\u308b\uff08\u5c45\u307e\u3059\uff09"
     },
     {
       "id": "jem1-590",
@@ -5131,7 +5307,8 @@
       "chapter": "jem1-16",
       "romaji": "yasumu(yasumimasu)",
       "dutch": "rusten",
-      "hiragana": "\u3084\u3059\u3080(\u3084\u3059\u307f\u307e\u3059)"
+      "hiragana": "\u3084\u3059\u3080\uff08\u3084\u3059\u307f\u307e\u3059\uff09",
+      "nihongo": "\u4f11\u3080\uff08\u4f11\u307f\u307e\u3059\uff09"
     },
     {
       "id": "jem1-591",
@@ -5139,7 +5316,8 @@
       "chapter": "jem1-16",
       "romaji": "sore wa chotto",
       "dutch": "dat is een beetje... (negatief)",
-      "hiragana": "\u305d\u308c\u306f\u3061\u3087\u3063\u3068"
+      "hiragana": "\u305d\u308c\u306f\u3061\u3087\u3063\u3068",
+      "nihongo": "\u305d\u308c\u306f\u3061\u3087\u3063\u3068"
     },
     {
       "id": "jem1-592",
@@ -5147,7 +5325,8 @@
       "chapter": "jem1-16",
       "romaji": "wakaru",
       "dutch": "begrijpen",
-      "hiragana": "\u308f\u304b\u308b"
+      "hiragana": "\u308f\u304b\u308b",
+      "nihongo": "\u5206\u304b\u308b"
     },
     {
       "id": "jem1-593",
@@ -5155,7 +5334,8 @@
       "chapter": "jem1-16",
       "romaji": "namakemono",
       "dutch": "lui persoon",
-      "hiragana": "\u306a\u307e\u3051\u3082\u306e"
+      "hiragana": "\u306a\u307e\u3051\u3082\u306e",
+      "nihongo": "\u6020\u3051\u8005"
     },
     {
       "id": "jem1-594",
@@ -5163,7 +5343,8 @@
       "chapter": "jem1-16",
       "romaji": "da (desu)",
       "dutch": "zijn",
-      "hiragana": "\u3060(\u3067\u3059)"
+      "hiragana": "\u3060\uff08\u3067\u3059\uff09",
+      "nihongo": "\u3060\uff08\u3067\u3059\uff09"
     },
     {
       "id": "jem1-595",
@@ -5171,7 +5352,8 @@
       "chapter": "jem1-16",
       "romaji": "kotaeru",
       "dutch": "antwoorden",
-      "hiragana": "\u3053\u305f\u3048\u308b"
+      "hiragana": "\u3053\u305f\u3048\u308b",
+      "nihongo": "\u7b54\u3048\u308b"
     },
     {
       "id": "jem1-596",
@@ -5179,7 +5361,8 @@
       "chapter": "jem1-16",
       "romaji": "hashiru",
       "dutch": "rennen",
-      "hiragana": "\u306f\u3057\u308b"
+      "hiragana": "\u306f\u3057\u308b",
+      "nihongo": "\u8d70\u308b"
     },
     {
       "id": "jem1-597",
@@ -5187,7 +5370,8 @@
       "chapter": "jem1-16",
       "romaji": "tsuku",
       "dutch": "aankomen",
-      "hiragana": "\u3064\u304f"
+      "hiragana": "\u3064\u304f",
+      "nihongo": "\u7740\u304f"
     },
     {
       "id": "jem1-598",
@@ -5195,7 +5379,8 @@
       "chapter": "jem1-16",
       "romaji": "abiru (abimasu)",
       "dutch": "wassen/douchen",
-      "hiragana": "\u3042\u3073\u308b(\u3042\u3073\u307e\u3059)"
+      "hiragana": "\u3042\u3073\u308b\uff08\u3042\u3073\u307e\u3059\uff09",
+      "nihongo": "\u6d74\u3073\u308b\uff08\u6d74\u3073\u307e\u3059\uff09"
     },
     {
       "id": "jem1-599",
@@ -5203,7 +5388,8 @@
       "chapter": "jem1-16",
       "romaji": "yaku (yakimasu)",
       "dutch": "grillen/barbecueen",
-      "hiragana": "\u3084\u304f(\u3084\u304d\u307e\u3059)"
+      "hiragana": "\u3084\u304f\uff08\u3084\u304d\u307e\u3059\uff09",
+      "nihongo": "\u713c\u304f\uff08\u713c\u304d\u307e\u3059\uff09"
     },
     {
       "id": "jem1-600",
@@ -5211,7 +5397,8 @@
       "chapter": "jem1-16",
       "romaji": "okiru (okimasu)",
       "dutch": "opstaan/wakker worden",
-      "hiragana": "\u304a\u304d\u308b(\u304a\u304d\u307e\u3059)"
+      "hiragana": "\u304a\u304d\u308b\uff08\u304a\u304d\u307e\u3059\uff09",
+      "nihongo": "\u8d77\u304d\u308b\uff08\u8d77\u304d\u307e\u3059\uff09"
     },
     {
       "id": "jem1-601",
@@ -5219,7 +5406,8 @@
       "chapter": "jem1-16",
       "romaji": "neru",
       "dutch": "slapen",
-      "hiragana": "\u306d\u308b"
+      "hiragana": "\u306d\u308b",
+      "nihongo": "\u5bdd\u308b"
     },
     {
       "id": "jem1-602",
@@ -5227,7 +5415,8 @@
       "chapter": "jem1-16",
       "romaji": "tameguchi",
       "dutch": "informeel taalgebruik",
-      "hiragana": "\u305f\u3081\u3050\u3061"
+      "hiragana": "\u305f\u3081\u3050\u3061",
+      "nihongo": "\u305f\u3081\u53e3"
     },
     {
       "id": "jem1-603",
@@ -5235,7 +5424,8 @@
       "chapter": "jem1-16",
       "romaji": "yasumi",
       "dutch": "vakantie/pauze/rust",
-      "hiragana": "\u3084\u3059\u307f"
+      "hiragana": "\u3084\u3059\u307f",
+      "nihongo": "\u4f11\u307f"
     },
     {
       "id": "jem1-604",
@@ -5243,7 +5433,8 @@
       "chapter": "jem1-16",
       "romaji": "tabun",
       "dutch": "waarschijnlijk",
-      "hiragana": "\u305f\u3076\u3093"
+      "hiragana": "\u305f\u3076\u3093",
+      "nihongo": "\u591a\u5206"
     },
     {
       "id": "jem1-605",
@@ -5251,7 +5442,8 @@
       "chapter": "jem1-16",
       "romaji": "tatsu",
       "dutch": "staan",
-      "hiragana": "\u305f\u3064"
+      "hiragana": "\u305f\u3064",
+      "nihongo": "\u7acb\u3064"
     },
     {
       "id": "jem1-606",
@@ -5259,7 +5451,8 @@
       "chapter": "jem1-16",
       "romaji": "matsu",
       "dutch": "wachten",
-      "hiragana": "\u307e\u3064"
+      "hiragana": "\u307e\u3064",
+      "nihongo": "\u5f85\u3064"
     },
     {
       "id": "jem1-607",
@@ -5267,7 +5460,8 @@
       "chapter": "jem1-16",
       "romaji": "shinjiru",
       "dutch": "geloven",
-      "hiragana": "\u3057\u3093\u3058\u308b"
+      "hiragana": "\u3057\u3093\u3058\u308b",
+      "nihongo": "\u4fe1\u3058\u308b"
     },
     {
       "id": "jem1-608",
@@ -5275,7 +5469,8 @@
       "chapter": "jem1-16",
       "romaji": "douryou",
       "dutch": "collega",
-      "hiragana": "\u3069\u3046\u308a\u3087\u3046"
+      "hiragana": "\u3069\u3046\u308a\u3087\u3046",
+      "nihongo": "\u540c\u50da"
     },
     {
       "id": "jem1-609",
@@ -5283,7 +5478,8 @@
       "chapter": "jem1-16",
       "romaji": "yakusoku",
       "dutch": "belofte/afspraak",
-      "hiragana": "\u3084\u304f\u305d\u304f"
+      "hiragana": "\u3084\u304f\u305d\u304f",
+      "nihongo": "\u7d04\u675f"
     },
     {
       "id": "jem1-610",
@@ -5291,7 +5487,8 @@
       "chapter": "jem1-16",
       "romaji": "gyuunyuu",
       "dutch": "melk",
-      "hiragana": "\u304e\u3085\u3046\u3093\u306b\u3085\u3046"
+      "hiragana": "\u304e\u3085\u3046\u3093\u306b\u3085\u3046",
+      "nihongo": "\u725b\u4e73"
     },
     {
       "id": "jem1-611",
@@ -5299,7 +5496,8 @@
       "chapter": "jem1-16",
       "romaji": "suupaa",
       "dutch": "supermarkt",
-      "hiragana": "\u3059\u3046\u3071\u3042"
+      "hiragana": "\u3059\u3046\u3071\u3042",
+      "nihongo": "\u30b9\u30fc\u30d1\u30fc"
     },
     {
       "id": "jem1-612",
@@ -5307,7 +5505,8 @@
       "chapter": "jem1-16",
       "romaji": "zettai ni",
       "dutch": "zeker/absoluut",
-      "hiragana": "\u305c\u3063\u305f\u3044\u306b"
+      "hiragana": "\u305c\u3063\u305f\u3044\u306b",
+      "nihongo": "\u7d76\u5bfe\u306b"
     },
     {
       "id": "jem1-613",
@@ -5315,7 +5514,8 @@
       "chapter": "jem1-16",
       "romaji": "boku",
       "dutch": "ik (mannelijk, minder formeel)",
-      "hiragana": "\u307c\u304f"
+      "hiragana": "\u307c\u304f",
+      "nihongo": "\u50d5"
     },
     {
       "id": "jem1-614",
@@ -5323,7 +5523,8 @@
       "chapter": "jem1-16",
       "romaji": "ka na?",
       "dutch": "ik vraag me af of ...?",
-      "hiragana": "\u304b\u306a"
+      "hiragana": "\u304b\u306a",
+      "nihongo": "\u304b\u306a"
     },
     {
       "id": "jem1-615",
@@ -5331,7 +5532,8 @@
       "chapter": "jem1-16",
       "romaji": "dou darou",
       "dutch": "ik zou het niet weten",
-      "hiragana": "\u3069\u3046\u3060\u308d\u3046"
+      "hiragana": "\u3069\u3046\u3060\u308d\u3046",
+      "nihongo": "\u3069\u3046\u3060\u308d\u3046"
     },
     {
       "id": "jem1-616",
@@ -5339,7 +5541,8 @@
       "chapter": "jem1-16",
       "romaji": "atashi",
       "dutch": "ik (vrouwelijk, minder formeel)",
-      "hiragana": "\u3042\u305f\u3057"
+      "hiragana": "\u3042\u305f\u3057",
+      "nihongo": "\u79c1"
     },
     {
       "id": "jem1-617",
@@ -5347,7 +5550,8 @@
       "chapter": "jem1-16",
       "romaji": "acchi",
       "dutch": "daarginds (informeel)",
-      "hiragana": "\u3042\u3063\u3061"
+      "hiragana": "\u3042\u3063\u3061",
+      "nihongo": "\u3042\u3063\u3061"
     },
     {
       "id": "jem1-618",
@@ -5355,7 +5559,8 @@
       "chapter": "jem1-16",
       "romaji": "iya",
       "dutch": "nee",
-      "hiragana": "\u3044\u3084"
+      "hiragana": "\u3044\u3084",
+      "nihongo": "\u3044\u3084"
     },
     {
       "id": "jem1-619",
@@ -5363,7 +5568,8 @@
       "chapter": "jem1-16",
       "romaji": "bun",
       "dutch": "deel",
-      "hiragana": "\u3076\u3093"
+      "hiragana": "\u3076\u3093",
+      "nihongo": "\u5206"
     },
     {
       "id": "jem1-620",
@@ -5371,7 +5577,8 @@
       "chapter": "jem1-16",
       "romaji": "tabi",
       "dutch": "reis",
-      "hiragana": "\u305f\u3073"
+      "hiragana": "\u305f\u3073",
+      "nihongo": "\u65c5"
     },
     {
       "id": "jem1-621",
@@ -5379,7 +5586,8 @@
       "chapter": "jem1-16",
       "romaji": "tetsudau",
       "dutch": "helpen",
-      "hiragana": "\u3066\u3064\u3060\u3046"
+      "hiragana": "\u3066\u3064\u3060\u3046",
+      "nihongo": "\u624b\u4f1d\u3046"
     },
     {
       "id": "jem1-622",
@@ -5387,7 +5595,8 @@
       "chapter": "jem1-16",
       "romaji": "hikkoshi",
       "dutch": "verhuizing",
-      "hiragana": "\u3072\u3063\u3053\u3057"
+      "hiragana": "\u3072\u3063\u3053\u3057",
+      "nihongo": "\u5f15\u3063\u8d8a\u3057"
     },
     {
       "id": "jem1-623",
@@ -5395,7 +5604,8 @@
       "chapter": "jem1-16",
       "romaji": "nokoru",
       "dutch": "overblijven",
-      "hiragana": "\u306e\u3053\u308b"
+      "hiragana": "\u306e\u3053\u308b",
+      "nihongo": "\u6b8b\u308b"
     },
     {
       "id": "jem1-624",
@@ -5403,7 +5613,8 @@
       "chapter": "jem1-16",
       "romaji": "okkee",
       "dutch": "okay",
-      "hiragana": "\u304a\u3063\u3051\u3048"
+      "hiragana": "\u304a\u3063\u3051\u3048",
+      "nihongo": "\u30aa\u30c3\u30b1\u30fc"
     },
     {
       "id": "jem1-625",
@@ -5411,7 +5622,8 @@
       "chapter": "jem1-16",
       "romaji": "hayaku",
       "dutch": "snel/haast",
-      "hiragana": "\u306f\u3084\u304f"
+      "hiragana": "\u306f\u3084\u304f",
+      "nihongo": "\u901f\u304f"
     },
     {
       "id": "jem1-626",
@@ -5419,7 +5631,8 @@
       "chapter": "jem1-16",
       "romaji": "warau",
       "dutch": "lachen",
-      "hiragana": "\u308f\u3089\u3046"
+      "hiragana": "\u308f\u3089\u3046",
+      "nihongo": "\u7b11\u3046"
     },
     {
       "id": "jem1-627",
@@ -5427,7 +5640,8 @@
       "chapter": "jem1-17",
       "romaji": "matte",
       "dutch": "wacht",
-      "hiragana": "\u307e\u3063\u3066"
+      "hiragana": "\u307e\u3063\u3066",
+      "nihongo": "\u5f85\u3063\u3066"
     },
     {
       "id": "jem1-628",
@@ -5435,7 +5649,8 @@
       "chapter": "jem1-17",
       "romaji": "mada",
       "dutch": "nog niet",
-      "hiragana": "\u307e\u3060"
+      "hiragana": "\u307e\u3060",
+      "nihongo": "\u672a\u3060"
     },
     {
       "id": "jem1-629",
@@ -5443,7 +5658,8 @@
       "chapter": "jem1-17",
       "romaji": "katsudon",
       "dutch": "rijstgerecht met Japanse schnitzel",
-      "hiragana": "\u304b\u3064\u3069\u3093"
+      "hiragana": "\u304b\u3064\u3069\u3093",
+      "nihongo": "\u30ab\u30c4\u4e3c"
     },
     {
       "id": "jem1-630",
@@ -5451,7 +5667,8 @@
       "chapter": "jem1-17",
       "romaji": "tsukuru",
       "dutch": "maken/creeren",
-      "hiragana": "\u3064\u304f\u308b"
+      "hiragana": "\u3064\u304f\u308b",
+      "nihongo": "\u4f5c\u308b"
     },
     {
       "id": "jem1-631",
@@ -5459,7 +5676,8 @@
       "chapter": "jem1-17",
       "romaji": "warau",
       "dutch": "lachen",
-      "hiragana": "\u308f\u3089\u3046"
+      "hiragana": "\u308f\u3089\u3046",
+      "nihongo": "\u7b11\u3046"
     },
     {
       "id": "jem1-632",
@@ -5467,7 +5685,8 @@
       "chapter": "jem1-17",
       "romaji": "naku",
       "dutch": "huilen",
-      "hiragana": "\u306a\u304f"
+      "hiragana": "\u306a\u304f",
+      "nihongo": "\u6ce3\u304f"
     },
     {
       "id": "jem1-633",
@@ -5475,7 +5694,8 @@
       "chapter": "jem1-17",
       "romaji": "nonbiri",
       "dutch": "relaxed/rustig/zorgeloos",
-      "hiragana": "\u306e\u3093\u3073\u308a"
+      "hiragana": "\u306e\u3093\u3073\u308a",
+      "nihongo": "\u306e\u3093\u3073\u308a"
     },
     {
       "id": "jem1-634",
@@ -5483,7 +5703,8 @@
       "chapter": "jem1-17",
       "romaji": "isogu",
       "dutch": "haasten",
-      "hiragana": "\u3044\u305d\u3050"
+      "hiragana": "\u3044\u305d\u3050",
+      "nihongo": "\u6025\u3050"
     },
     {
       "id": "jem1-635",
@@ -5491,7 +5712,8 @@
       "chapter": "jem1-17",
       "romaji": "yobu",
       "dutch": "roepen/noemen",
-      "hiragana": "\u3088\u3076"
+      "hiragana": "\u3088\u3076",
+      "nihongo": "\u547c\u3076"
     },
     {
       "id": "jem1-636",
@@ -5499,7 +5721,8 @@
       "chapter": "jem1-17",
       "romaji": "kasu",
       "dutch": "uitlenen",
-      "hiragana": "\u304b\u3059"
+      "hiragana": "\u304b\u3059",
+      "nihongo": "\u8cb8\u3059"
     },
     {
       "id": "jem1-637",
@@ -5507,7 +5730,8 @@
       "chapter": "jem1-17",
       "romaji": "kariru",
       "dutch": "lenen",
-      "hiragana": "\u304b\u308a\u308b"
+      "hiragana": "\u304b\u308a\u308b",
+      "nihongo": "\u501f\u308a\u308b"
     },
     {
       "id": "jem1-638",
@@ -5515,7 +5739,8 @@
       "chapter": "jem1-17",
       "romaji": "zairyou",
       "dutch": "ingredienten",
-      "hiragana": "\u3056\u3044\u308a\u3087\u3046"
+      "hiragana": "\u3056\u3044\u308a\u3087\u3046",
+      "nihongo": "\u6750\u6599"
     },
     {
       "id": "jem1-639",
@@ -5523,7 +5748,8 @@
       "chapter": "jem1-17",
       "romaji": "kusuri",
       "dutch": "medicijnen",
-      "hiragana": "\u304f\u3059\u308a"
+      "hiragana": "\u304f\u3059\u308a",
+      "nihongo": "\u85ac"
     },
     {
       "id": "jem1-640",
@@ -5531,7 +5757,8 @@
       "chapter": "jem1-17",
       "romaji": "tanomu",
       "dutch": "verzoeken/vragen",
-      "hiragana": "\u305f\u306e\u3080"
+      "hiragana": "\u305f\u306e\u3080",
+      "nihongo": "\u983c\u3080"
     },
     {
       "id": "jem1-641",
@@ -5539,7 +5766,8 @@
       "chapter": "jem1-17",
       "romaji": "tobu",
       "dutch": "vliegen",
-      "hiragana": "\u3068\u3076"
+      "hiragana": "\u3068\u3076",
+      "nihongo": "\u98db\u3076"
     },
     {
       "id": "jem1-642",
@@ -5547,7 +5775,8 @@
       "chapter": "jem1-17",
       "romaji": "migaku",
       "dutch": "poetsen (van tanden, steen, etc.)",
-      "hiragana": "\u307f\u304c\u304f"
+      "hiragana": "\u307f\u304c\u304f",
+      "nihongo": "\u78e8\u304f"
     },
     {
       "id": "jem1-643",
@@ -5555,7 +5784,8 @@
       "chapter": "jem1-17",
       "romaji": "ha",
       "dutch": "tanden",
-      "hiragana": "\u306f"
+      "hiragana": "\u306f",
+      "nihongo": "\u6b6f"
     },
     {
       "id": "jem1-644",
@@ -5563,7 +5793,8 @@
       "chapter": "jem1-17",
       "romaji": "toru",
       "dutch": "nemen (van foto/video)",
-      "hiragana": "\u3068\u308b"
+      "hiragana": "\u3068\u308b",
+      "nihongo": "\u64ae\u308b"
     },
     {
       "id": "jem1-645",
@@ -5571,7 +5802,8 @@
       "chapter": "jem1-17",
       "romaji": "osu",
       "dutch": "drukken",
-      "hiragana": "\u304a\u3059"
+      "hiragana": "\u304a\u3059",
+      "nihongo": "\u62bc\u3059"
     },
     {
       "id": "jem1-646",
@@ -5579,7 +5811,8 @@
       "chapter": "jem1-17",
       "romaji": "oriru",
       "dutch": "uitstappen/afstappen",
-      "hiragana": "\u304a\u308a\u308b"
+      "hiragana": "\u304a\u308a\u308b",
+      "nihongo": "\u964d\u308a\u308b"
     },
     {
       "id": "jem1-647",
@@ -5587,7 +5820,8 @@
       "chapter": "jem1-17",
       "romaji": "noru",
       "dutch": "instappen/rijden",
-      "hiragana": "\u306e\u308b"
+      "hiragana": "\u306e\u308b",
+      "nihongo": "\u4e57\u308b"
     },
     {
       "id": "jem1-648",
@@ -5595,7 +5829,8 @@
       "chapter": "jem1-17",
       "romaji": "tsukue",
       "dutch": "bureau",
-      "hiragana": "\u3064\u304f\u3048"
+      "hiragana": "\u3064\u304f\u3048",
+      "nihongo": "\u673a"
     },
     {
       "id": "jem1-649",
@@ -5603,7 +5838,8 @@
       "chapter": "jem1-17",
       "romaji": "shokudou",
       "dutch": "kantine",
-      "hiragana": "\u3057\u3087\u304f\u3069\u3046"
+      "hiragana": "\u3057\u3087\u304f\u3069\u3046",
+      "nihongo": "\u98df\u5802"
     },
     {
       "id": "jem1-650",
@@ -5611,7 +5847,8 @@
       "chapter": "jem1-17",
       "romaji": "shashin",
       "dutch": "foto",
-      "hiragana": "\u3057\u3083\u3057\u3093"
+      "hiragana": "\u3057\u3083\u3057\u3093",
+      "nihongo": "\u5199\u771f"
     },
     {
       "id": "jem1-651",
@@ -5619,7 +5856,8 @@
       "chapter": "jem1-17",
       "romaji": "nimotsu",
       "dutch": "baggage",
-      "hiragana": "\u306b\u3082\u3064"
+      "hiragana": "\u306b\u3082\u3064",
+      "nihongo": "\u8377\u7269"
     },
     {
       "id": "jem1-652",
@@ -5627,7 +5865,8 @@
       "chapter": "jem1-17",
       "romaji": "ireru",
       "dutch": "in doen",
-      "hiragana": "\u3044\u308c\u308b"
+      "hiragana": "\u3044\u308c\u308b",
+      "nihongo": "\u5165\u308c\u308b"
     },
     {
       "id": "jem1-653",
@@ -5635,7 +5874,8 @@
       "chapter": "jem1-17",
       "romaji": "dasu",
       "dutch": "inleveren (rapport/verslag etc.)",
-      "hiragana": "\u3060\u3059"
+      "hiragana": "\u3060\u3059",
+      "nihongo": "\u51fa\u3059"
     },
     {
       "id": "jem1-654",
@@ -5643,7 +5883,8 @@
       "chapter": "jem1-17",
       "romaji": "motte kuru",
       "dutch": "meenemen (naar hier)",
-      "hiragana": "\u3082\u3063\u3066\u304f\u308b"
+      "hiragana": "\u3082\u3063\u3066\u304f\u308b",
+      "nihongo": "\u6301\u3063\u3066\u6765\u308b"
     },
     {
       "id": "jem1-655",
@@ -5651,7 +5892,8 @@
       "chapter": "jem1-17",
       "romaji": "katadzukeru",
       "dutch": "opruimen/wegleggen",
-      "hiragana": "\u304b\u305f\u3065\u3051\u308b"
+      "hiragana": "\u304b\u305f\u3065\u3051\u308b",
+      "nihongo": "\u7247\u3065\u3051\u308b"
     },
     {
       "id": "jem1-656",
@@ -5659,7 +5901,8 @@
       "chapter": "jem1-17",
       "romaji": "soujishimasu",
       "dutch": "schoonmaken",
-      "hiragana": "\u305d\u3046\u3058\u3057\u307e\u3059"
+      "hiragana": "\u305d\u3046\u3058\u3057\u307e\u3059",
+      "nihongo": "\u6383\u9664\u3057\u307e\u3059"
     },
     {
       "id": "jem1-657",
@@ -5667,7 +5910,8 @@
       "chapter": "jem1-17",
       "romaji": "saikin",
       "dutch": "laatst/recentelijk",
-      "hiragana": "\u3055\u3044\u304d\u3093"
+      "hiragana": "\u3055\u3044\u304d\u3093",
+      "nihongo": "\u6700\u8fd1"
     },
     {
       "id": "jem1-658",
@@ -5675,7 +5919,8 @@
       "chapter": "jem1-17",
       "romaji": "saikou",
       "dutch": "allerbeste/top",
-      "hiragana": "\u3055\u3044\u3053\u3046"
+      "hiragana": "\u3055\u3044\u3053\u3046",
+      "nihongo": "\u6700\u9ad8"
     },
     {
       "id": "jem1-659",
@@ -5683,7 +5928,8 @@
       "chapter": "jem1-17",
       "romaji": "meeru wo shimasu",
       "dutch": "mailen",
-      "hiragana": "\u3081\u3048\u308b\u3092\u3057\u307e\u3059"
+      "hiragana": "\u3081\u3048\u308b\u3092\u3057\u307e\u3059",
+      "nihongo": "\u30e1\u30fc\u30eb\u3092\u3057\u307e\u3059"
     },
     {
       "id": "jem1-660",
@@ -5691,7 +5937,8 @@
       "chapter": "jem1-17",
       "romaji": "aisu kuriimu",
       "dutch": "ijsje",
-      "hiragana": "\u3042\u3044\u3059\u304f\u308a\u3044\u3080"
+      "hiragana": "\u3042\u3044\u3059\u304f\u308a\u3044\u3080",
+      "nihongo": "\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0"
     },
     {
       "id": "jem1-661",
@@ -5699,7 +5946,8 @@
       "chapter": "jem1-17",
       "romaji": "atama ga itai desu",
       "dutch": "hoofd doet pijn",
-      "hiragana": "\u3042\u305f\u307e\u304c\u3044\u305f\u3044\u3067\u3059"
+      "hiragana": "\u3042\u305f\u307e\u304c\u3044\u305f\u3044\u3067\u3059",
+      "nihongo": "\u982d\u304c\u75db\u3044\u3067\u3059"
     },
     {
       "id": "jem1-662",
@@ -5707,7 +5955,8 @@
       "chapter": "jem1-17",
       "romaji": "kutsu wo nuide kudasai",
       "dutch": "schoenen uit a.u.b.",
-      "hiragana": "\u304f\u3064\u3092\u306c\u3044\u3067\u304f\u3060\u3055\u3044"
+      "hiragana": "\u304f\u3064\u3092\u306c\u3044\u3067\u304f\u3060\u3055\u3044",
+      "nihongo": "\u9774\u3092\u8131\u3044\u3067\u304f\u3060\u3055\u3044"
     },
     {
       "id": "jem1-663",
@@ -5715,7 +5964,8 @@
       "chapter": "jem1-17",
       "romaji": "haitte kudasai",
       "dutch": "kom binnen a.u.b.",
-      "hiragana": "\u306f\u3044\u3063\u3066\u304f\u3060\u3055\u3044"
+      "hiragana": "\u306f\u3044\u3063\u3066\u304f\u3060\u3055\u3044",
+      "nihongo": "\u5165\u3063\u3066\u4e0b\u3055\u3044"
     },
     {
       "id": "jem1-664",
@@ -5723,7 +5973,8 @@
       "chapter": "jem1-17",
       "romaji": "shigoto chuudoku",
       "dutch": "werkverslaafde (workaholic)",
-      "hiragana": "\u3057\u3054\u3068\u3061\u3085\u3046\u3069\u304f"
+      "hiragana": "\u3057\u3054\u3068\u3061\u3085\u3046\u3069\u304f",
+      "nihongo": "\u4ed5\u4e8b\u4e2d\u6bd2"
     },
     {
       "id": "jem1-665",
@@ -5731,7 +5982,8 @@
       "chapter": "jem1-17",
       "romaji": "tokoro de",
       "dutch": "trouwens",
-      "hiragana": "\u3068\u3053\u308d\u3067"
+      "hiragana": "\u3068\u3053\u308d\u3067",
+      "nihongo": "\u6240\u3067"
     },
     {
       "id": "jem1-666",
@@ -5739,7 +5991,8 @@
       "chapter": "jem1-17",
       "romaji": "tasukeru",
       "dutch": "redden/helpen",
-      "hiragana": "\u305f\u3059\u3051\u308b"
+      "hiragana": "\u305f\u3059\u3051\u308b",
+      "nihongo": "\u52a9\u3051\u308b"
     },
     {
       "id": "jem1-667",
@@ -5747,7 +6000,8 @@
       "chapter": "jem1-17",
       "romaji": "aisatsu",
       "dutch": "groet(en)",
-      "hiragana": "\u3042\u3044\u3055\u3064"
+      "hiragana": "\u3042\u3044\u3055\u3064",
+      "nihongo": "\u6328\u62f6"
     },
     {
       "id": "jem1-668",
@@ -5755,7 +6009,8 @@
       "chapter": "jem1-18",
       "romaji": "hisashiburi",
       "dutch": "lange tijd geleden",
-      "hiragana": "\u3072\u3055\u3057\u3076\u308a"
+      "hiragana": "\u3072\u3055\u3057\u3076\u308a",
+      "nihongo": "\u4e45\u3057\u3076\u308a"
     },
     {
       "id": "jem1-669",
@@ -5763,7 +6018,8 @@
       "chapter": "jem1-18",
       "romaji": "kissaten",
       "dutch": "koffiehuis/cafe",
-      "hiragana": "\u304d\u3063\u3055\u3066\u3093"
+      "hiragana": "\u304d\u3063\u3055\u3066\u3093",
+      "nihongo": "\u55ab\u8336\u5e97"
     },
     {
       "id": "jem1-670",
@@ -5771,7 +6027,8 @@
       "chapter": "jem1-18",
       "romaji": "saisho",
       "dutch": "vanaf het begin",
-      "hiragana": "\u3055\u3044\u3057\u3087"
+      "hiragana": "\u3055\u3044\u3057\u3087",
+      "nihongo": "\u6700\u521d"
     },
     {
       "id": "jem1-671",
@@ -5779,7 +6036,8 @@
       "chapter": "jem1-18",
       "romaji": "kudasai",
       "dutch": "alstublieft",
-      "hiragana": "\u304f\u3060\u3055\u3044"
+      "hiragana": "\u304f\u3060\u3055\u3044",
+      "nihongo": "\u4e0b\u3055\u3044"
     },
     {
       "id": "jem1-672",
@@ -5787,7 +6045,8 @@
       "chapter": "jem1-18",
       "romaji": "wasureru",
       "dutch": "vergeten",
-      "hiragana": "\u308f\u3059\u308c\u308b"
+      "hiragana": "\u308f\u3059\u308c\u308b",
+      "nihongo": "\u5fd8\u308c\u308b"
     },
     {
       "id": "jem1-673",
@@ -5795,7 +6054,8 @@
       "chapter": "jem1-18",
       "romaji": "sugu",
       "dutch": "direct/onmiddelijk/meteen",
-      "hiragana": "\u3059\u3050"
+      "hiragana": "\u3059\u3050",
+      "nihongo": "\u76f4\u3050"
     },
     {
       "id": "jem1-674",
@@ -5803,7 +6063,8 @@
       "chapter": "jem1-18",
       "romaji": "tadaima",
       "dutch": "ik ben thuis (op dit moment)",
-      "hiragana": "\u305f\u3060\u3044\u307e"
+      "hiragana": "\u305f\u3060\u3044\u307e",
+      "nihongo": "\u305f\u3060\u4eca"
     },
     {
       "id": "jem1-675",
@@ -5811,7 +6072,8 @@
       "chapter": "jem1-18",
       "romaji": "okaeri",
       "dutch": "welkom thuis",
-      "hiragana": "\u304a\u304b\u3048\u308a"
+      "hiragana": "\u304a\u304b\u3048\u308a",
+      "nihongo": "\u304a\u5e30\u308a"
     },
     {
       "id": "jem1-676",
@@ -5819,7 +6081,8 @@
       "chapter": "jem1-18",
       "romaji": "ittekuru",
       "dutch": "ik ga (en kom weer terug)",
-      "hiragana": "\u3044\u3063\u3066\u304f\u308b"
+      "hiragana": "\u3044\u3063\u3066\u304f\u308b",
+      "nihongo": "\u884c\u3063\u3066\u6765\u308b"
     },
     {
       "id": "jem1-677",
@@ -5827,7 +6090,8 @@
       "chapter": "jem1-18",
       "romaji": "itterasshai",
       "dutch": "tot later",
-      "hiragana": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044"
+      "hiragana": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044",
+      "nihongo": "\u884c\u3063\u3066\u3089\u3063\u3057\u3083\u3044"
     },
     {
       "id": "jem1-678",
@@ -5835,7 +6099,8 @@
       "chapter": "jem1-18",
       "romaji": "yameru",
       "dutch": "stoppen (van actie/handeling)",
-      "hiragana": "\u3084\u3081\u308b"
+      "hiragana": "\u3084\u3081\u308b",
+      "nihongo": "\u8f9e\u3081\u308b"
     },
     {
       "id": "jem1-679",
@@ -5843,7 +6108,8 @@
       "chapter": "jem1-18",
       "romaji": "meido kafe",
       "dutch": "maid cafe",
-      "hiragana": "\u3081\u3044\u3069\u304b\u3075\u3047"
+      "hiragana": "\u3081\u3044\u3069\u304b\u3075\u3047",
+      "nihongo": "\u30e1\u30a4\u30c9\u30ab\u30d5\u30a7"
     },
     {
       "id": "jem1-680",
@@ -5851,7 +6117,8 @@
       "chapter": "jem1-18",
       "romaji": "basu taaminaru",
       "dutch": "bushalte",
-      "hiragana": "\u3070\u3059\u305f\u3042\u307f\u306a\u308b"
+      "hiragana": "\u3070\u3059\u305f\u3042\u307f\u306a\u308b",
+      "nihongo": "\u30d0\u30b9\u30bf\u30fc\u30df\u30ca\u30eb"
     },
     {
       "id": "jem1-681",
@@ -5859,7 +6126,8 @@
       "chapter": "jem1-18",
       "romaji": "bunpou",
       "dutch": "grammatica",
-      "hiragana": "\u3076\u3093\u307d\u3046"
+      "hiragana": "\u3076\u3093\u307d\u3046",
+      "nihongo": "\u6587\u6cd5"
     },
     {
       "id": "jem1-682",
@@ -5867,7 +6135,8 @@
       "chapter": "jem1-18",
       "romaji": "setsumei wo suru",
       "dutch": "uitleggen",
-      "hiragana": "\u305b\u3064\u3081\u3044\u3092\u3059\u308b"
+      "hiragana": "\u305b\u3064\u3081\u3044\u3092\u3059\u308b",
+      "nihongo": "\u8aac\u660e\u3092\u3059\u308b"
     },
     {
       "id": "jem1-683",
@@ -5875,7 +6144,8 @@
       "chapter": "jem1-18",
       "romaji": "nootobukku",
       "dutch": "schrift",
-      "hiragana": "\u306e\u304a\u3068\u3076\u3063\u304f"
+      "hiragana": "\u306e\u304a\u3068\u3076\u3063\u304f",
+      "nihongo": "\u30ce\u30fc\u30c8\u30d6\u30c3\u30af"
     },
     {
       "id": "jem1-684",
@@ -5883,7 +6153,8 @@
       "chapter": "jem1-18",
       "romaji": "mou",
       "dutch": "al",
-      "hiragana": "\u3082\u3046"
+      "hiragana": "\u3082\u3046",
+      "nihongo": "\u3082\u3046"
     },
     {
       "id": "jem1-685",
@@ -5891,7 +6162,8 @@
       "chapter": "jem1-18",
       "romaji": "juusho",
       "dutch": "adres",
-      "hiragana": "\u3058\u3085\u3046\u3057\u3087"
+      "hiragana": "\u3058\u3085\u3046\u3057\u3087",
+      "nihongo": "\u4f4f\u6240"
     },
     {
       "id": "jem1-686",
@@ -5899,7 +6171,8 @@
       "chapter": "jem1-18",
       "romaji": "setsumei",
       "dutch": "uitleg",
-      "hiragana": "\u305b\u3064\u3081\u3044"
+      "hiragana": "\u305b\u3064\u3081\u3044",
+      "nihongo": "\u8aac\u660e"
     },
     {
       "id": "jem1-687",
@@ -5907,7 +6180,8 @@
       "chapter": "jem1-18",
       "romaji": "suwaru",
       "dutch": "zitten",
-      "hiragana": "\u3059\u308f\u308b"
+      "hiragana": "\u3059\u308f\u308b",
+      "nihongo": "\u5ea7\u308b"
     },
     {
       "id": "jem1-688",
@@ -5915,7 +6189,8 @@
       "chapter": "jem1-18",
       "romaji": "shimeru",
       "dutch": "dicht doen/afsluiten (actief)",
-      "hiragana": "\u3057\u3081\u308b"
+      "hiragana": "\u3057\u3081\u308b",
+      "nihongo": "\u9589\u3081\u308b"
     },
     {
       "id": "jem1-689",
@@ -5923,7 +6198,8 @@
       "chapter": "jem1-18",
       "romaji": "shimaru",
       "dutch": "dicht doen/afsluiten (passief)",
-      "hiragana": "\u3057\u307e\u308b"
+      "hiragana": "\u3057\u307e\u308b",
+      "nihongo": "\u9589\u307e\u308b"
     },
     {
       "id": "jem1-690",
@@ -5931,7 +6207,8 @@
       "chapter": "jem1-18",
       "romaji": "nugu",
       "dutch": "uitdoen/uittrekken (van kleding)",
-      "hiragana": "\u306c\u3050"
+      "hiragana": "\u306c\u3050",
+      "nihongo": "\u8131\u3050"
     },
     {
       "id": "jem1-691",
@@ -5939,7 +6216,8 @@
       "chapter": "jem1-18",
       "romaji": "hiku",
       "dutch": "bespelen (van snaarinstrumenten)",
-      "hiragana": "\u3072\u304f"
+      "hiragana": "\u3072\u304f",
+      "nihongo": "\u5f3e\u304f"
     },
     {
       "id": "jem1-692",
@@ -5947,7 +6225,8 @@
       "chapter": "jem1-18",
       "romaji": "watasu",
       "dutch": "overhandigen/geven",
-      "hiragana": "\u308f\u305f\u3059"
+      "hiragana": "\u308f\u305f\u3059",
+      "nihongo": "\u6e21\u3059"
     },
     {
       "id": "jem1-693",
@@ -5955,7 +6234,8 @@
       "chapter": "jem1-18",
       "romaji": "jitsu wa",
       "dutch": "eigenlijk",
-      "hiragana": "\u3058\u3064\u306f"
+      "hiragana": "\u3058\u3064\u306f",
+      "nihongo": "\u5b9f\u306f"
     },
     {
       "id": "jem1-694",
@@ -5963,7 +6243,8 @@
       "chapter": "jem1-18",
       "romaji": "dareka",
       "dutch": "iemand",
-      "hiragana": "\u3060\u308c\u304b"
+      "hiragana": "\u3060\u308c\u304b",
+      "nihongo": "\u8ab0\u304b"
     },
     {
       "id": "jem1-695",
@@ -5971,7 +6252,8 @@
       "chapter": "jem1-18",
       "romaji": "mukaeru",
       "dutch": "verwelkomen/ophalen",
-      "hiragana": "\u3080\u304b\u3048\u308b"
+      "hiragana": "\u3080\u304b\u3048\u308b",
+      "nihongo": "\u8fce\u3048\u308b"
     },
     {
       "id": "jem1-696",
@@ -5979,7 +6261,8 @@
       "chapter": "jem1-18",
       "romaji": "mukae ni iku",
       "dutch": "gaan om op te halen",
-      "hiragana": "\u3080\u304b\u3048\u306b\u3044\u304f"
+      "hiragana": "\u3080\u304b\u3048\u306b\u3044\u304f",
+      "nihongo": "\u8fce\u3048\u306b\u884c\u304f"
     },
     {
       "id": "jem1-697",
@@ -5987,7 +6270,8 @@
       "chapter": "jem1-18",
       "romaji": "nagai aida",
       "dutch": "een lange tijd",
-      "hiragana": "\u306a\u304c\u3044\u3042\u3044\u3060"
+      "hiragana": "\u306a\u304c\u3044\u3042\u3044\u3060",
+      "nihongo": "\u9577\u3044\u9593"
     },
     {
       "id": "jem1-698",
@@ -5995,7 +6279,8 @@
       "chapter": "jem1-18",
       "romaji": "anatatachi",
       "dutch": "jullie",
-      "hiragana": "\u3042\u306a\u305f\u305f\u3061"
+      "hiragana": "\u3042\u306a\u305f\u305f\u3061",
+      "nihongo": "\u3042\u306a\u305f\u305f\u3061"
     },
     {
       "id": "jem1-699",
@@ -6003,7 +6288,8 @@
       "chapter": "jem1-18",
       "romaji": "osoi",
       "dutch": "laat/traag",
-      "hiragana": "\u304a\u305d\u3044"
+      "hiragana": "\u304a\u305d\u3044",
+      "nihongo": "\u9045\u3044"
     },
     {
       "id": "jem1-700",
@@ -6011,7 +6297,8 @@
       "chapter": "jem1-18",
       "romaji": "michi ga mayoimasu",
       "dutch": "de weg kwijtraken",
-      "hiragana": "\u307f\u3061\u304c\u307e\u3088\u3044\u307e\u3059"
+      "hiragana": "\u307f\u3061\u304c\u307e\u3088\u3044\u307e\u3059",
+      "nihongo": "\u9053\u304c\u8ff7\u3044\u307e\u3059"
     },
     {
       "id": "jem1-701",
@@ -6019,7 +6306,8 @@
       "chapter": "jem1-18",
       "romaji": "iu",
       "dutch": "zeggen",
-      "hiragana": "\u3044\u3046"
+      "hiragana": "\u3044\u3046",
+      "nihongo": "\u8a00\u3046"
     },
     {
       "id": "jem1-702",
@@ -6027,7 +6315,8 @@
       "chapter": "jem1-18",
       "romaji": "oboeru",
       "dutch": "onthouden",
-      "hiragana": "\u304a\u307c\u3048\u308b"
+      "hiragana": "\u304a\u307c\u3048\u308b",
+      "nihongo": "\u899a\u3048\u308b"
     },
     {
       "id": "jem1-703",
@@ -6035,7 +6324,8 @@
       "chapter": "jem1-18",
       "romaji": "hajimeru",
       "dutch": "beginnen/starten",
-      "hiragana": "\u306f\u3058\u3081\u308b"
+      "hiragana": "\u306f\u3058\u3081\u308b",
+      "nihongo": "\u59cb\u3081\u308b"
     },
     {
       "id": "jem1-704",
@@ -6043,7 +6333,8 @@
       "chapter": "jem1-18",
       "romaji": "utau",
       "dutch": "zingen",
-      "hiragana": "\u3046\u305f\u3046"
+      "hiragana": "\u3046\u305f\u3046",
+      "nihongo": "\u6b4c\u3046"
     },
     {
       "id": "jem1-705",
@@ -6051,7 +6342,8 @@
       "chapter": "jem1-18",
       "romaji": "kakarimasu",
       "dutch": "duren",
-      "hiragana": "\u304b\u304b\u308a\u307e\u3059"
+      "hiragana": "\u304b\u304b\u308a\u307e\u3059",
+      "nihongo": "\u639b\u304b\u308a\u307e\u3059"
     },
     {
       "id": "jem1-706",
@@ -6059,7 +6351,8 @@
       "chapter": "jem1-19",
       "romaji": "kafe",
       "dutch": "cafe",
-      "hiragana": "\u304b\u3075\u3047"
+      "hiragana": "\u304b\u3075\u3047",
+      "nihongo": "\u30ab\u30d5\u30a7"
     },
     {
       "id": "jem1-707",
@@ -6067,7 +6360,8 @@
       "chapter": "jem1-19",
       "romaji": "magaru",
       "dutch": "afslaan",
-      "hiragana": "\u307e\u304c\u308b"
+      "hiragana": "\u307e\u304c\u308b",
+      "nihongo": "\u66f2\u304c\u308b"
     },
     {
       "id": "jem1-708",
@@ -6075,7 +6369,8 @@
       "chapter": "jem1-19",
       "romaji": "shingou",
       "dutch": "verkeerslicht",
-      "hiragana": "\u3057\u3093\u3054\u3046"
+      "hiragana": "\u3057\u3093\u3054\u3046",
+      "nihongo": "\u4fe1\u53f7"
     },
     {
       "id": "jem1-709",
@@ -6083,7 +6378,8 @@
       "chapter": "jem1-19",
       "romaji": "chinami ni",
       "dutch": "trouwens",
-      "hiragana": "\u3061\u306a\u307f\u306b"
+      "hiragana": "\u3061\u306a\u307f\u306b",
+      "nihongo": "\u56e0\u307f\u306b"
     },
     {
       "id": "jem1-710",
@@ -6091,7 +6387,8 @@
       "chapter": "jem1-19",
       "romaji": "minna",
       "dutch": "iedereen/allen (informeel)",
-      "hiragana": "\u307f\u3093\u306a"
+      "hiragana": "\u307f\u3093\u306a",
+      "nihongo": "\u7686"
     },
     {
       "id": "jem1-711",
@@ -6099,7 +6396,8 @@
       "chapter": "jem1-19",
       "romaji": "kiku",
       "dutch": "vragen/luisteren",
-      "hiragana": "\u304d\u304f"
+      "hiragana": "\u304d\u304f",
+      "nihongo": "\u805e\u304f"
     },
     {
       "id": "jem1-712",
@@ -6107,7 +6405,8 @@
       "chapter": "jem1-19",
       "romaji": "kousaten",
       "dutch": "kruispunt",
-      "hiragana": "\u3053\u3046\u3055\u3066\u3093"
+      "hiragana": "\u3053\u3046\u3055\u3066\u3093",
+      "nihongo": "\u4ea4\u5dee\u70b9"
     },
     {
       "id": "jem1-713",
@@ -6115,7 +6414,8 @@
       "chapter": "jem1-19",
       "romaji": "kado",
       "dutch": "hoek",
-      "hiragana": "\u304b\u3069"
+      "hiragana": "\u304b\u3069",
+      "nihongo": "\u89d2"
     },
     {
       "id": "jem1-714",
@@ -6123,7 +6423,8 @@
       "chapter": "jem1-19",
       "romaji": "massugu",
       "dutch": "rechtdoor",
-      "hiragana": "\u307e\u3063\u3059\u3050"
+      "hiragana": "\u307e\u3063\u3059\u3050",
+      "nihongo": "\u771f\u3063\u76f4\u3050"
     },
     {
       "id": "jem1-715",
@@ -6131,7 +6432,8 @@
       "chapter": "jem1-19",
       "romaji": "oshieru",
       "dutch": "vertellen/iets uitleggen (om te leren)",
-      "hiragana": "\u304a\u3057\u3048\u308b"
+      "hiragana": "\u304a\u3057\u3048\u308b",
+      "nihongo": "\u6559\u3048\u308b"
     },
     {
       "id": "jem1-716",
@@ -6139,7 +6441,8 @@
       "chapter": "jem1-19",
       "romaji": "mayou",
       "dutch": "weg kwijt raken/verdwalen",
-      "hiragana": "\u307e\u3088\u3046"
+      "hiragana": "\u307e\u3088\u3046",
+      "nihongo": "\u8ff7\u3046"
     },
     {
       "id": "jem1-717",
@@ -6147,7 +6450,8 @@
       "chapter": "jem1-19",
       "romaji": "yoyaku",
       "dutch": "reservering",
-      "hiragana": "\u3088\u3084\u304f"
+      "hiragana": "\u3088\u3084\u304f",
+      "nihongo": "\u4e88\u7d04"
     },
     {
       "id": "jem1-718",
@@ -6155,7 +6459,8 @@
       "chapter": "jem1-19",
       "romaji": "tsugi",
       "dutch": "volgende",
-      "hiragana": "\u3064\u304e"
+      "hiragana": "\u3064\u304e",
+      "nihongo": "\u6b21"
     },
     {
       "id": "jem1-719",
@@ -6163,7 +6468,8 @@
       "chapter": "jem1-19",
       "romaji": "hashi",
       "dutch": "brug",
-      "hiragana": "\u306f\u3057"
+      "hiragana": "\u306f\u3057",
+      "nihongo": "\u6a4b"
     },
     {
       "id": "jem1-720",
@@ -6171,7 +6477,8 @@
       "chapter": "jem1-19",
       "romaji": "renshuu",
       "dutch": "oefening",
-      "hiragana": "\u308c\u3093\u3057\u3085\u3046"
+      "hiragana": "\u308c\u3093\u3057\u3085\u3046",
+      "nihongo": "\u7df4\u7fd2"
     },
     {
       "id": "jem1-721",
@@ -6179,7 +6486,8 @@
       "chapter": "jem1-19",
       "romaji": "sukippu suru",
       "dutch": "overslaan",
-      "hiragana": "\u3059\u304d\u3063\u3077\u3059\u308b"
+      "hiragana": "\u3059\u304d\u3063\u3077\u3059\u308b",
+      "nihongo": "\u30b9\u30ad\u30c3\u30d7\u3059\u308b"
     },
     {
       "id": "jem1-722",
@@ -6187,7 +6495,8 @@
       "chapter": "jem1-19",
       "romaji": "dekakeru",
       "dutch": "uit (huis) gaan",
-      "hiragana": "\u3067\u304b\u3051\u308b"
+      "hiragana": "\u3067\u304b\u3051\u308b",
+      "nihongo": "\u51fa\u639b\u3051\u308b"
     },
     {
       "id": "jem1-723",
@@ -6195,7 +6504,8 @@
       "chapter": "jem1-19",
       "romaji": "tsurete iku",
       "dutch": "begeleiden/meenemen",
-      "hiragana": "\u3064\u308c\u3066\u3044\u304f"
+      "hiragana": "\u3064\u308c\u3066\u3044\u304f",
+      "nihongo": "\u9023\u308c\u3066\u884c\u304f"
     },
     {
       "id": "jem1-724",
@@ -6203,7 +6513,8 @@
       "chapter": "jem1-19",
       "romaji": "chuusha wo suru",
       "dutch": "parkeren",
-      "hiragana": "\u3061\u3085\u3046\u3057\u3083\u3092\u3059\u308b"
+      "hiragana": "\u3061\u3085\u3046\u3057\u3083\u3092\u3059\u308b",
+      "nihongo": "\u99d0\u8eca\u3092\u3059\u308b"
     },
     {
       "id": "jem1-725",
@@ -6211,7 +6522,8 @@
       "chapter": "jem1-19",
       "romaji": "ki",
       "dutch": "boom",
-      "hiragana": "\u304d"
+      "hiragana": "\u304d",
+      "nihongo": "\u6728"
     },
     {
       "id": "jem1-726",
@@ -6219,7 +6531,8 @@
       "chapter": "jem1-19",
       "romaji": "hako",
       "dutch": "doos",
-      "hiragana": "\u306f\u3053"
+      "hiragana": "\u306f\u3053",
+      "nihongo": "\u7bb1"
     },
     {
       "id": "jem1-727",
@@ -6227,7 +6540,8 @@
       "chapter": "jem1-19",
       "romaji": "yatto",
       "dutch": "eindelijk",
-      "hiragana": "\u3084\u3063\u3068"
+      "hiragana": "\u3084\u3063\u3068",
+      "nihongo": "\u3084\u3063\u3068"
     },
     {
       "id": "jem1-728",
@@ -6235,7 +6549,8 @@
       "chapter": "jem1-19",
       "romaji": "onaka ga suita",
       "dutch": "ik heb honger (letterlijk maag is leeg)",
-      "hiragana": "\u304a\u306a\u304b\u304c\u3059\u3044\u305f"
+      "hiragana": "\u304a\u306a\u304b\u304c\u3059\u3044\u305f",
+      "nihongo": "\u304a\u8179\u304c\u7a7a\u3044\u305f"
     },
     {
       "id": "jem1-729",
@@ -6243,7 +6558,8 @@
       "chapter": "jem1-19",
       "romaji": "sandoicchi",
       "dutch": "sandwich",
-      "hiragana": "\u3055\u3093\u3069\u3044\u3063\u3061"
+      "hiragana": "\u3055\u3093\u3069\u3044\u3063\u3061",
+      "nihongo": "\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1"
     },
     {
       "id": "jem1-730",
@@ -6251,7 +6567,8 @@
       "chapter": "jem1-19",
       "romaji": "suteru",
       "dutch": "weggooien",
-      "hiragana": "\u3059\u3066\u308b"
+      "hiragana": "\u3059\u3066\u308b",
+      "nihongo": "\u6368\u3066\u308b"
     },
     {
       "id": "jem1-731",
@@ -6259,7 +6576,8 @@
       "chapter": "jem1-19",
       "romaji": "omoi",
       "dutch": "zwaar",
-      "hiragana": "\u304a\u3082\u3044"
+      "hiragana": "\u304a\u3082\u3044",
+      "nihongo": "\u91cd\u3044"
     },
     {
       "id": "jem1-732",
@@ -6267,7 +6585,8 @@
       "chapter": "jem1-19",
       "romaji": "buranketto",
       "dutch": "deken",
-      "hiragana": "\u3076\u3089\u3093\u3051\u3063\u3068"
+      "hiragana": "\u3076\u3089\u3093\u3051\u3063\u3068",
+      "nihongo": "\u30d6\u30e9\u30f3\u30b1\u30c3\u30c8"
     },
     {
       "id": "jem1-733",
@@ -6275,7 +6594,8 @@
       "chapter": "jem1-19",
       "romaji": "gomibako",
       "dutch": "prullenbak",
-      "hiragana": "\u3054\u307f\u3070\u3053"
+      "hiragana": "\u3054\u307f\u3070\u3053",
+      "nihongo": "\u30b4\u30df\u7bb1"
     },
     {
       "id": "jem1-734",
@@ -6283,7 +6603,8 @@
       "chapter": "jem1-19",
       "romaji": "kanpai",
       "dutch": "proost",
-      "hiragana": "\u304b\u3093\u3071\u3044"
+      "hiragana": "\u304b\u3093\u3071\u3044",
+      "nihongo": "\u4e7e\u676f"
     },
     {
       "id": "jem1-735",
@@ -6291,7 +6612,8 @@
       "chapter": "jem1-19",
       "romaji": "(tabako wo) suu",
       "dutch": "roken (sigaret)",
-      "hiragana": "(\u305f\u3070\u3053\u3092)\u3059\u3046"
+      "hiragana": "\uff08\u305f\u3070\u3053\u3092\uff09\u3059\u3046",
+      "nihongo": "\uff08\u30bf\u30d0\u30b3\u3092\uff09\u5438\u3046"
     },
     {
       "id": "jem1-736",
@@ -6299,7 +6621,8 @@
       "chapter": "jem1-19",
       "romaji": "hakobu",
       "dutch": "dragen, transporteren",
-      "hiragana": "\u306f\u3053\u3076"
+      "hiragana": "\u306f\u3053\u3076",
+      "nihongo": "\u904b\u3076"
     },
     {
       "id": "jem1-737",
@@ -6307,7 +6630,8 @@
       "chapter": "jem1-19",
       "romaji": "aisutii",
       "dutch": "ijsthee",
-      "hiragana": "\u3042\u3044\u3059\u3066\u3043\u3044"
+      "hiragana": "\u3042\u3044\u3059\u3066\u3043\u3044",
+      "nihongo": "\u30a2\u30a4\u30b9\u30c6\u30a3\u30fc"
     },
     {
       "id": "jem1-738",
@@ -6315,7 +6639,8 @@
       "chapter": "jem1-19",
       "romaji": "byouki",
       "dutch": "ziek",
-      "hiragana": "\u3073\u3087\u3046\u304d"
+      "hiragana": "\u3073\u3087\u3046\u304d",
+      "nihongo": "\u75c5\u6c17"
     },
     {
       "id": "jem1-739",
@@ -6323,7 +6648,8 @@
       "chapter": "jem1-19",
       "romaji": "tsukaremashita",
       "dutch": "ik ben moe geworden",
-      "hiragana": "\u3064\u304b\u308c\u307e\u3057\u305f"
+      "hiragana": "\u3064\u304b\u308c\u307e\u3057\u305f",
+      "nihongo": "\u75b2\u308c\u307e\u3057\u305f"
     },
     {
       "id": "jem1-740",
@@ -6331,7 +6657,8 @@
       "chapter": "jem1-19",
       "romaji": "hidarite",
       "dutch": "linkerhand/linkerzijde",
-      "hiragana": "\u3072\u3060\u308a\u3066"
+      "hiragana": "\u3072\u3060\u308a\u3066",
+      "nihongo": "\u5de6\u624b"
     },
     {
       "id": "jem1-741",
@@ -6339,7 +6666,8 @@
       "chapter": "jem1-19",
       "romaji": "migite",
       "dutch": "rechterhand/rechterzijde",
-      "hiragana": "\u307f\u304e\u3066"
+      "hiragana": "\u307f\u304e\u3066",
+      "nihongo": "\u53f3\u624b"
     },
     {
       "id": "jem1-742",
@@ -6347,7 +6675,8 @@
       "chapter": "jem1-19",
       "romaji": "toru",
       "dutch": "nemen/pakken",
-      "hiragana": "\u3068\u308b"
+      "hiragana": "\u3068\u308b",
+      "nihongo": "\u53d6\u308b"
     },
     {
       "id": "jem1-743",
@@ -6355,7 +6684,8 @@
       "chapter": "jem1-19",
       "romaji": "aruku",
       "dutch": "lopen",
-      "hiragana": "\u304a\u308b\u304f"
+      "hiragana": "\u304a\u308b\u304f",
+      "nihongo": "\u6b69\u304f"
     },
     {
       "id": "jem1-744",
@@ -6363,7 +6693,8 @@
       "chapter": "jem1-19",
       "romaji": "deru",
       "dutch": "verlaten/uitkomen",
-      "hiragana": "\u3067\u308b"
+      "hiragana": "\u3067\u308b",
+      "nihongo": "\u51fa\u308b"
     },
     {
       "id": "jem1-745",
@@ -6371,7 +6702,8 @@
       "chapter": "jem1-20",
       "romaji": "ame",
       "dutch": "snoep/toffee",
-      "hiragana": "\u3042\u3081"
+      "hiragana": "\u3042\u3081",
+      "nihongo": "\u98f4"
     },
     {
       "id": "jem1-746",
@@ -6379,7 +6711,8 @@
       "chapter": "jem1-20",
       "romaji": "miso",
       "dutch": "gefermenteerde sojabonen",
-      "hiragana": "\u307f\u305d"
+      "hiragana": "\u307f\u305d",
+      "nihongo": "\u5473\u564c"
     },
     {
       "id": "jem1-747",
@@ -6387,7 +6720,8 @@
       "chapter": "jem1-20",
       "romaji": "suupu",
       "dutch": "soep",
-      "hiragana": "\u3059\u3046\u3077"
+      "hiragana": "\u3059\u3046\u3077",
+      "nihongo": "\u30b9\u30fc\u30d7"
     },
     {
       "id": "jem1-748",
@@ -6395,7 +6729,8 @@
       "chapter": "jem1-20",
       "romaji": "sore to",
       "dutch": "en daar bovenop",
-      "hiragana": "\u305d\u308c\u3068"
+      "hiragana": "\u305d\u308c\u3068",
+      "nihongo": "\u5176\u308c\u3068"
     },
     {
       "id": "jem1-749",
@@ -6403,7 +6738,8 @@
       "chapter": "jem1-20",
       "romaji": "kekkon",
       "dutch": "huwelijk/trouwen (zn.)",
-      "hiragana": "\u3051\u3063\u3053\u3093"
+      "hiragana": "\u3051\u3063\u3053\u3093",
+      "nihongo": "\u7d50\u5a5a"
     },
     {
       "id": "jem1-750",
@@ -6411,7 +6747,8 @@
       "chapter": "jem1-20",
       "romaji": "dare ka",
       "dutch": "iemand",
-      "hiragana": "\u3060\u308c\u304b"
+      "hiragana": "\u3060\u308c\u304b",
+      "nihongo": "\u8ab0\u304b"
     },
     {
       "id": "jem1-751",
@@ -6419,7 +6756,8 @@
       "chapter": "jem1-20",
       "romaji": "futoru",
       "dutch": "dik worden",
-      "hiragana": "\u3075\u3068\u308b"
+      "hiragana": "\u3075\u3068\u308b",
+      "nihongo": "\u592a\u308b"
     },
     {
       "id": "jem1-752",
@@ -6427,7 +6765,8 @@
       "chapter": "jem1-20",
       "romaji": "faasuto fuudo",
       "dutch": "fast food",
-      "hiragana": "\u3075\u3041\u3042\u3059\u3068\u3075\u3046\u3069"
+      "hiragana": "\u3075\u3041\u3042\u3059\u3068\u3075\u3046\u3069",
+      "nihongo": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30d5\u30fc\u30c9"
     },
     {
       "id": "jem1-753",
@@ -6435,7 +6774,8 @@
       "chapter": "jem1-20",
       "romaji": "tsutomeru",
       "dutch": "werken (bij een organisatie)",
-      "hiragana": "\u3064\u3068\u3081\u308b"
+      "hiragana": "\u3064\u3068\u3081\u308b",
+      "nihongo": "\u52d9\u3081\u308b"
     },
     {
       "id": "jem1-754",
@@ -6443,7 +6783,8 @@
       "chapter": "jem1-20",
       "romaji": "yopparau",
       "dutch": "dronken worden",
-      "hiragana": "\u3088\u3063\u3071\u3089\u3046"
+      "hiragana": "\u3088\u3063\u3071\u3089\u3046",
+      "nihongo": "\u9154\u3063\u6255\u3046"
     },
     {
       "id": "jem1-755",
@@ -6451,7 +6792,8 @@
       "chapter": "jem1-20",
       "romaji": "daietto",
       "dutch": "dieet",
-      "hiragana": "\u3060\u3044\u3048\u3063\u3068"
+      "hiragana": "\u3060\u3044\u3048\u3063\u3068",
+      "nihongo": "\u30c0\u30a4\u30a8\u30c3\u30c8"
     },
     {
       "id": "jem1-756",
@@ -6459,7 +6801,8 @@
       "chapter": "jem1-20",
       "romaji": "karee raisu",
       "dutch": "curry rice",
-      "hiragana": "\u304b\u308c\u3048\u3089\u3044\u3059"
+      "hiragana": "\u304b\u308c\u3048\u3089\u3044\u3059",
+      "nihongo": "\u30ab\u30ec\u30fc\u30e9\u30a4\u30b9"
     },
     {
       "id": "jem1-757",
@@ -6467,7 +6810,8 @@
       "chapter": "jem1-20",
       "romaji": "kau",
       "dutch": "huisdier houden",
-      "hiragana": "\u304b\u3046"
+      "hiragana": "\u304b\u3046",
+      "nihongo": "\u98fc\u3046"
     },
     {
       "id": "jem1-758",
@@ -6475,7 +6819,8 @@
       "chapter": "jem1-20",
       "romaji": "tsukiau",
       "dutch": "verkering hebben",
-      "hiragana": "\u3064\u304d\u3042\u3046"
+      "hiragana": "\u3064\u304d\u3042\u3046",
+      "nihongo": "\u4ed8\u304d\u5408\u3046"
     },
     {
       "id": "jem1-759",
@@ -6483,7 +6828,8 @@
       "chapter": "jem1-20",
       "romaji": "baito",
       "dutch": "baantje",
-      "hiragana": "\u3070\u3044\u3068"
+      "hiragana": "\u3070\u3044\u3068",
+      "nihongo": "\u30d0\u30a4\u30c8"
     },
     {
       "id": "jem1-760",
@@ -6491,7 +6837,8 @@
       "chapter": "jem1-20",
       "romaji": "chiwawa",
       "dutch": "chihuahua",
-      "hiragana": "\u3061\u308f\u308f"
+      "hiragana": "\u3061\u308f\u308f",
+      "nihongo": "\u30c1\u30ef\u30ef"
     },
     {
       "id": "jem1-761",
@@ -6499,7 +6846,8 @@
       "chapter": "jem1-20",
       "romaji": "koosu",
       "dutch": "cursus",
-      "hiragana": "\u3053\u304a\u3059"
+      "hiragana": "\u3053\u304a\u3059",
+      "nihongo": "\u30b3\u30fc\u30b9"
     },
     {
       "id": "jem1-762",
@@ -6507,7 +6855,8 @@
       "chapter": "jem1-20",
       "romaji": "doubutsu",
       "dutch": "dier(en)",
-      "hiragana": "\u3069\u3046\u3076\u3064"
+      "hiragana": "\u3069\u3046\u3076\u3064",
+      "nihongo": "\u52d5\u7269"
     },
     {
       "id": "jem1-763",
@@ -6515,7 +6864,8 @@
       "chapter": "jem1-20",
       "romaji": "keizai",
       "dutch": "economie",
-      "hiragana": "\u3051\u3044\u3056\u3044"
+      "hiragana": "\u3051\u3044\u3056\u3044",
+      "nihongo": "\u7d4c\u6e08"
     },
     {
       "id": "jem1-764",
@@ -6523,7 +6873,8 @@
       "chapter": "jem1-20",
       "romaji": "gurafikku dezainaa",
       "dutch": "grafisch ontwerper (designer)",
-      "hiragana": "\u3050\u3089\u3075\u3043\u3063\u304f\u3067\u3056\u3044\u306a\u3042"
+      "hiragana": "\u3050\u3089\u3075\u3043\u3063\u304f\u3067\u3056\u3044\u306a\u3042",
+      "nihongo": "\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30c7\u30b6\u30a4\u30ca\u30fc"
     },
     {
       "id": "jem1-765",
@@ -6531,7 +6882,8 @@
       "chapter": "jem1-20",
       "romaji": "jimu",
       "dutch": "gym",
-      "hiragana": "\u3058\u3080"
+      "hiragana": "\u3058\u3080",
+      "nihongo": "\u30b8\u30e0"
     },
     {
       "id": "jem1-766",
@@ -6539,7 +6891,8 @@
       "chapter": "jem1-20",
       "romaji": "shumi",
       "dutch": "hobby",
-      "hiragana": "\u3057\u3085\u307f"
+      "hiragana": "\u3057\u3085\u307f",
+      "nihongo": "\u8da3\u5473"
     },
     {
       "id": "jem1-767",
@@ -6547,7 +6900,8 @@
       "chapter": "jem1-20",
       "romaji": "inuha",
       "dutch": "hondenmens",
-      "hiragana": "\u3044\u306c\u306f"
+      "hiragana": "\u3044\u306c\u306f",
+      "nihongo": "\u72ac\u6d3e"
     },
     {
       "id": "jem1-768",
@@ -6555,7 +6909,8 @@
       "chapter": "jem1-20",
       "romaji": "no shusshin",
       "dutch": "ik kom uit ...",
-      "hiragana": "\u306e\u3057\u3085\u3063\u3057\u3093"
+      "hiragana": "\u306e\u3057\u3085\u3063\u3057\u3093",
+      "nihongo": "\u306e\u51fa\u8eab"
     },
     {
       "id": "jem1-769",
@@ -6563,7 +6918,8 @@
       "chapter": "jem1-20",
       "romaji": "intaanashonaru bijinesu",
       "dutch": "international business",
-      "hiragana": "\u3044\u3093\u305f\u3042\u306a\u3057\u3087\u306a\u308b\u3073\u3058\u306d\u3059"
+      "hiragana": "\u3044\u3093\u305f\u3042\u306a\u3057\u3087\u306a\u308b\u3073\u3058\u306d\u3059",
+      "nihongo": "\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u30d3\u30b8\u30cd\u30b9"
     },
     {
       "id": "jem1-770",
@@ -6571,7 +6927,8 @@
       "chapter": "jem1-20",
       "romaji": "nekoha",
       "dutch": "kattenmens",
-      "hiragana": "\u306d\u3053\u306f"
+      "hiragana": "\u306d\u3053\u306f",
+      "nihongo": "\u732b\u6d3e"
     },
     {
       "id": "jem1-771",
@@ -6579,7 +6936,8 @@
       "chapter": "jem1-20",
       "romaji": "sora",
       "dutch": "lucht",
-      "hiragana": "\u305d\u3089"
+      "hiragana": "\u305d\u3089",
+      "nihongo": "\u7a7a"
     },
     {
       "id": "jem1-772",
@@ -6587,7 +6945,8 @@
       "chapter": "jem1-20",
       "romaji": "kaku",
       "dutch": "schrijven/tekenen",
-      "hiragana": "\u304b\u304f"
+      "hiragana": "\u304b\u304f",
+      "nihongo": "\u66f8\u304f"
     },
     {
       "id": "jem1-773",
@@ -6595,7 +6954,8 @@
       "chapter": "jem1-20",
       "romaji": "guuzen",
       "dutch": "toeval/toevallig",
-      "hiragana": "\u3050\u3046\u305c\u3093"
+      "hiragana": "\u3050\u3046\u305c\u3093",
+      "nihongo": "\u5076\u7136"
     },
     {
       "id": "jem1-774",
@@ -6603,7 +6963,8 @@
       "chapter": "jem1-20",
       "romaji": "e",
       "dutch": "tekening/schilderij",
-      "hiragana": "\u3048"
+      "hiragana": "\u3048",
+      "nihongo": "\u7d75"
     },
     {
       "id": "jem1-775",
@@ -6611,7 +6972,8 @@
       "chapter": "jem1-20",
       "romaji": "kun kun",
       "dutch": "snuf snuf",
-      "hiragana": "\u304f\u3093\u304f\u3093"
+      "hiragana": "\u304f\u3093\u304f\u3093",
+      "nihongo": "\u30af\u30f3\u30af\u30f3"
     },
     {
       "id": "jem1-776",
@@ -6619,7 +6981,8 @@
       "chapter": "jem1-20",
       "romaji": "wan wan",
       "dutch": "woef woef",
-      "hiragana": "\u308f\u3093\u308f\u3093"
+      "hiragana": "\u308f\u3093\u308f\u3093",
+      "nihongo": "\u30ef\u30f3\u30ef\u30f3"
     },
     {
       "id": "jem1-777",
@@ -6627,7 +6990,8 @@
       "chapter": "jem1-20",
       "romaji": "kurasumeeto",
       "dutch": "klasgenoot",
-      "hiragana": "\u304f\u3089\u3059\u3081\u3048\u3068"
+      "hiragana": "\u304f\u3089\u3059\u3081\u3048\u3068",
+      "nihongo": "\u30af\u30e9\u30b9\u30e1\u30fc\u30c8"
     },
     {
       "id": "jem1-778",
@@ -6635,7 +6999,8 @@
       "chapter": "jem1-20",
       "romaji": "onaji",
       "dutch": "hetzelfde/dezelfde",
-      "hiragana": "\u304a\u306a\u3058"
+      "hiragana": "\u304a\u306a\u3058",
+      "nihongo": "\u540c\u3058"
     },
     {
       "id": "jem1-779",
@@ -6643,7 +7008,8 @@
       "chapter": "jem1-20",
       "romaji": "shukudai",
       "dutch": "huiswerk",
-      "hiragana": "\u3057\u3085\u304f\u3060\u3044"
+      "hiragana": "\u3057\u3085\u304f\u3060\u3044",
+      "nihongo": "\u5bbf\u984c"
     },
     {
       "id": "jem1-780",
@@ -6651,7 +7017,8 @@
       "chapter": "jem1-20",
       "romaji": "hansamu",
       "dutch": "knap",
-      "hiragana": "\u306f\u3093\u3055\u3080"
+      "hiragana": "\u306f\u3093\u3055\u3080",
+      "nihongo": "\u30cf\u30f3\u30b5\u30e0"
     },
     {
       "id": "jem1-781",
@@ -6659,7 +7026,8 @@
       "chapter": "jem1-20",
       "romaji": "motte iru",
       "dutch": "bij zich hebben",
-      "hiragana": "\u3082\u3063\u3066\u3044\u308b"
+      "hiragana": "\u3082\u3063\u3066\u3044\u308b",
+      "nihongo": "\u6301\u3063\u3066\u3044\u308b"
     },
     {
       "id": "jem1-782",
@@ -6667,7 +7035,8 @@
       "chapter": "jem1-20",
       "romaji": "jisho",
       "dutch": "woordenboek",
-      "hiragana": "\u3058\u3057\u3087"
+      "hiragana": "\u3058\u3057\u3087",
+      "nihongo": "\u8f9e\u66f8"
     },
     {
       "id": "jem1-783",
@@ -6675,7 +7044,8 @@
       "chapter": "jem1-20",
       "romaji": "sumu",
       "dutch": "wonen",
-      "hiragana": "\u3059\u3080"
+      "hiragana": "\u3059\u3080",
+      "nihongo": "\u4f4f\u3080"
     },
     {
       "id": "jem1-784",
@@ -6683,7 +7053,8 @@
       "chapter": "jem1-20",
       "romaji": "ikemen",
       "dutch": "knappe man",
-      "hiragana": "\u3044\u3051\u3081\u3093"
+      "hiragana": "\u3044\u3051\u3081\u3093",
+      "nihongo": "\u30a4\u30b1\u30e1\u30f3"
     },
     {
       "id": "jem1-785",
@@ -6691,7 +7062,8 @@
       "chapter": "jem1-20",
       "romaji": "kakkoii",
       "dutch": "knap/cool/stoer",
-      "hiragana": "\u304b\u3063\u3053\u3044\u3044"
+      "hiragana": "\u304b\u3063\u3053\u3044\u3044",
+      "nihongo": "\u304b\u3063\u3053\u3044\u3044"
     },
     {
       "id": "jem1-786",
@@ -6699,7 +7071,8 @@
       "chapter": "jem1-20",
       "romaji": "amai",
       "dutch": "zoet",
-      "hiragana": "\u3042\u307e\u3044"
+      "hiragana": "\u3042\u307e\u3044",
+      "nihongo": "\u7518\u3044"
     },
     {
       "id": "jem1-787",
@@ -6707,7 +7080,8 @@
       "chapter": "jem1-20",
       "romaji": "tai",
       "dutch": "Thailand",
-      "hiragana": "\u305f\u3044"
+      "hiragana": "\u305f\u3044",
+      "nihongo": "\u30bf\u30a4"
     },
     {
       "id": "jem1-788",
@@ -6715,7 +7089,8 @@
       "chapter": "jem1-20",
       "romaji": "karai",
       "dutch": "pittig",
-      "hiragana": "\u304b\u3089\u3044"
+      "hiragana": "\u304b\u3089\u3044",
+      "nihongo": "\u8f9b\u3044"
     },
     {
       "id": "jem1-789",
@@ -6723,7 +7098,8 @@
       "chapter": "jem1-20",
       "romaji": "doubutsuen",
       "dutch": "dierentuin",
-      "hiragana": "\u3069\u3046\u3076\u3064\u3048\u3093"
+      "hiragana": "\u3069\u3046\u3076\u3064\u3048\u3093",
+      "nihongo": "\u52d5\u7269\u5712"
     },
     {
       "id": "jem1-790",
@@ -6731,7 +7107,8 @@
       "chapter": "jem1-20",
       "romaji": "mainichi",
       "dutch": "iedere dag",
-      "hiragana": "\u307e\u3044\u306b\u3061"
+      "hiragana": "\u307e\u3044\u306b\u3061",
+      "nihongo": "\u6bce\u65e5"
     },
     {
       "id": "jem2-1",
@@ -10978,8 +11355,8 @@
       "course": "jem2",
       "chapter": "jem2-14",
       "dutch": "schoonheidssalon/kapper",
-      "hiragana": "\u3073\u3087\u3046\u3044\u3093",
-      "romaji": "byouin"
+      "hiragana": "\u3073\u3088\u3046\u3044\u3093",
+      "romaji": "biyouin"
     },
     {
       "id": "jem2-532",
