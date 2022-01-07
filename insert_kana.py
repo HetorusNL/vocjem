@@ -5,11 +5,13 @@ def get_user_input(course, kana):
     # get next id from user
     with open("dictionary.json") as f:
         _dict = json.load(f)
-        max_id = f"{course}-0"
-        # ugly last id fetching
+        max_id = -1
         for obj in _dict["vocabulary"]:
-            max_id = obj["id"] if kana in obj and f"{course}-" in obj["id"] else max_id
-        max_id = int(max_id[5:])
+            if kana in obj and f"{course}-" in obj["id"]:
+                try:
+                    max_id = max(int(obj["id"][5:]), max_id)
+                except:
+                    pass
     next_id = input(f"next id ({max_id + 1}): ")
 
     # verify next_id
