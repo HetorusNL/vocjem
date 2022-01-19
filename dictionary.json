@@ -18998,6 +18998,86 @@
   ],
   "chapters": [
     {
+      "id": "jem1-1",
+      "name": "Introduceren van jezelf en anderen"
+    },
+    {
+      "id": "jem1-2",
+      "name": "Respect en cultuur in de taal"
+    },
+    {
+      "id": "jem1-3",
+      "name": "Tellen, stuks, leeftijd en telefoonnummer vragen"
+    },
+    {
+      "id": "jem1-4",
+      "name": "Klokkijken en tijden gebruiken"
+    },
+    {
+      "id": "jem1-5",
+      "name": "Ik ga naar..."
+    },
+    {
+      "id": "jem1-6",
+      "name": "Winkelen, yen en het wo partikel"
+    },
+    {
+      "id": "jem1-7",
+      "name": "Objecten omschrijven met adjectieven en telwoorden"
+    },
+    {
+      "id": "jem1-8",
+      "name": "Zich bevinden van iets en negatieve werkwoorden"
+    },
+    {
+      "id": "jem1-9",
+      "name": "Adjectieven in het negatief en datums"
+    },
+    {
+      "id": "jem1-10",
+      "name": "Voorzetsels en opsommen"
+    },
+    {
+      "id": "jem1-11",
+      "name": "Verwerkwoorden en activiteit op locatie"
+    },
+    {
+      "id": "jem1-12",
+      "name": "Aangeven dat je iets snapt en vervoersmiddelen"
+    },
+    {
+      "id": "jem1-13",
+      "name": "Reden aanduiden, geven en ontvangen"
+    },
+    {
+      "id": "jem1-14",
+      "name": "Adjectieven vervoegen naar v.t. en iets beschrijven"
+    },
+    {
+      "id": "jem1-15",
+      "name": "Verzoek doen en ni/de arimasu"
+    },
+    {
+      "id": "jem1-16",
+      "name": "Informele werkwoorden"
+    },
+    {
+      "id": "jem1-17",
+      "name": "Te-vorm voor meerdere werkwoorden in een zin"
+    },
+    {
+      "id": "jem1-18",
+      "name": "Alstublieft, in- en uitstappen"
+    },
+    {
+      "id": "jem1-19",
+      "name": "Om toestemming vragen en de weg wijzen"
+    },
+    {
+      "id": "jem1-20",
+      "name": "Aangeven dat iets gaande is en houden van/haten"
+    },
+    {
       "id": "jem-old-1-1",
       "name": "Introduceren van jezelf en anderen"
     },
