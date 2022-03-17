@@ -18985,232 +18985,289 @@
   "courses": [
     {
       "id": "jem1",
-      "name": "Japanese E-Mastery 1"
+      "name": "Japanese E-Mastery 1",
+      "abbreviation": "JEM1"
     },
     {
       "id": "jem-old-1",
-      "name": "Japanese E-Mastery (old) 1"
+      "name": "Japanese E-Mastery (old) 1",
+      "abbreviation": "JEM(old)1"
     },
     {
       "id": "jem2",
-      "name": "Japanese E-Mastery 2"
+      "name": "Japanese E-Mastery 2",
+      "abbreviation": "JEM2"
     }
   ],
   "chapters": [
     {
       "id": "jem1-1",
+      "course": "jem1",
       "name": "Introduceren van jezelf en anderen"
     },
     {
       "id": "jem1-2",
+      "course": "jem1",
       "name": "Respect en cultuur in de taal"
     },
     {
       "id": "jem1-3",
+      "course": "jem1",
       "name": "Tellen, stuks, leeftijd en telefoonnummer vragen"
     },
     {
       "id": "jem1-4",
+      "course": "jem1",
       "name": "Klokkijken en tijden gebruiken"
     },
     {
       "id": "jem1-5",
+      "course": "jem1",
       "name": "Ik ga naar..."
     },
     {
       "id": "jem1-6",
+      "course": "jem1",
       "name": "Winkelen, yen en het wo partikel"
     },
     {
       "id": "jem1-7",
+      "course": "jem1",
       "name": "Objecten omschrijven met adjectieven en telwoorden"
     },
     {
       "id": "jem1-8",
+      "course": "jem1",
       "name": "Zich bevinden van iets en negatieve werkwoorden"
     },
     {
       "id": "jem1-9",
+      "course": "jem1",
       "name": "Adjectieven in het negatief en datums"
     },
     {
       "id": "jem1-10",
+      "course": "jem1",
       "name": "Voorzetsels en opsommen"
     },
     {
       "id": "jem1-11",
+      "course": "jem1",
       "name": "Verwerkwoorden en activiteit op locatie"
     },
     {
       "id": "jem1-12",
+      "course": "jem1",
       "name": "Aangeven dat je iets snapt en vervoersmiddelen"
     },
     {
       "id": "jem1-13",
+      "course": "jem1",
       "name": "Reden aanduiden, geven en ontvangen"
     },
     {
       "id": "jem1-14",
+      "course": "jem1",
       "name": "Adjectieven vervoegen naar v.t. en iets beschrijven"
     },
     {
       "id": "jem1-15",
+      "course": "jem1",
       "name": "Verzoek doen en ni/de arimasu"
     },
     {
       "id": "jem1-16",
+      "course": "jem1",
       "name": "Informele werkwoorden"
     },
     {
       "id": "jem1-17",
+      "course": "jem1",
       "name": "Te-vorm voor meerdere werkwoorden in een zin"
     },
     {
       "id": "jem1-18",
+      "course": "jem1",
       "name": "Alstublieft, in- en uitstappen"
     },
     {
       "id": "jem1-19",
+      "course": "jem1",
       "name": "Om toestemming vragen en de weg wijzen"
     },
     {
       "id": "jem1-20",
+      "course": "jem1",
       "name": "Aangeven dat iets gaande is en houden van/haten"
     },
     {
       "id": "jem-old-1-1",
+      "course": "jem-old-1",
       "name": "Introduceren van jezelf en anderen"
     },
     {
       "id": "jem-old-1-2",
+      "course": "jem-old-1",
       "name": "Respect en cultuur in de taal"
     },
     {
       "id": "jem-old-1-3",
+      "course": "jem-old-1",
       "name": "Tellen, leeftijd, telefoonnummer vragen en ontkennen"
     },
     {
       "id": "jem-old-1-4",
+      "course": "jem-old-1",
       "name": "Klokkijken en tijden gebruiken"
     },
     {
       "id": "jem-old-1-5",
+      "course": "jem-old-1",
       "name": "Ik ga naar..."
     },
     {
       "id": "jem-old-1-6",
+      "course": "jem-old-1",
       "name": "Winkelen, yen en het wo partikel"
     },
     {
       "id": "jem-old-1-7",
+      "course": "jem-old-1",
       "name": "Objecten omschrijven met adjectieven en telwoorden"
     },
     {
       "id": "jem-old-1-8",
+      "course": "jem-old-1",
       "name": "Adjectieven in het negatief en datums"
     },
     {
       "id": "jem-old-1-9",
+      "course": "jem-old-1",
       "name": "Bevinden van iets en opsommen"
     },
     {
       "id": "jem-old-1-10",
+      "course": "jem-old-1",
       "name": "Negatieve werkwoordsvorm en voorzetsels"
     },
     {
       "id": "jem-old-1-11",
+      "course": "jem-old-1",
       "name": "Verledentijdsvorm en verwerkwoorden"
     },
     {
       "id": "jem-old-1-12",
+      "course": "jem-old-1",
       "name": "Frequentie aangeven en vervoersmiddelen"
     },
     {
       "id": "jem-old-1-13",
+      "course": "jem-old-1",
       "name": "Nieuwe manier van ni gebruiken, reden aanduiden, geven en ontvangen"
     },
     {
       "id": "jem-old-1-14",
+      "course": "jem-old-1",
       "name": "Werkwoorden en adjectieven vervoegen naar negatief v.t."
     },
     {
       "id": "jem-old-1-15",
+      "course": "jem-old-1",
       "name": "Verzoek doen en ni/de arimasu"
     },
     {
       "id": "jem-old-1-16",
+      "course": "jem-old-1",
       "name": "Start van de informele werkwoorden"
     },
     {
       "id": "jem-old-1-17",
+      "course": "jem-old-1",
       "name": "Te-vorm voor meerdere werkwoorden in een zin"
     },
     {
       "id": "jem-old-1-18",
+      "course": "jem-old-1",
       "name": "Alstublieft, instappen en uitstappen"
     },
     {
       "id": "jem-old-1-19",
+      "course": "jem-old-1",
       "name": "Om toestemming vragen en de weg wijzen"
     },
     {
       "id": "jem-old-1-20",
+      "course": "jem-old-1",
       "name": "Aangeven dat iets gaande is en houden van/haten"
     },
     {
       "id": "jem2-1",
+      "course": "jem2",
       "name": "Beschrijven met meerdere adjectieven"
     },
     {
       "id": "jem2-2",
+      "course": "jem2",
       "name": "Iedere zo vaak ga ik zoveel keer iets doen"
     },
     {
       "id": "jem2-3",
+      "course": "jem2",
       "name": "Aangeven dat je iets wilt hebben of wilt gaan doen"
     },
     {
       "id": "jem2-4",
+      "course": "jem2",
       "name": "Ontkennend informeel en ontkennend verzoek"
     },
     {
       "id": "jem2-5",
+      "course": "jem2",
       "name": "Verleden tijd in het informeel"
     },
     {
       "id": "jem2-6",
+      "course": "jem2",
       "name": "'Ik ben van plan om te...', en je hobby's aangeven"
     },
     {
       "id": "jem2-7",
+      "course": "jem2",
       "name": "Waarom je ergens heen gaat en twee dingen tegelijk doen"
     },
     {
       "id": "jem2-8",
+      "course": "jem2",
       "name": "Aangeven waar je goed of slecht in bent en wat je wilt worden"
     },
     {
       "id": "jem2-9",
+      "course": "jem2",
       "name": "'Ik houd meer van...' of 'minder van...'"
     },
     {
       "id": "jem2-10",
+      "course": "jem2",
       "name": "Tegenstellingen en 'alleen/slechts' aangeven"
     },
     {
       "id": "jem2-11",
+      "course": "jem2",
       "name": "Aangeven dat je iets doet na afloop van iets en meer over het \u304b partikel"
     },
     {
       "id": "jem2-12",
+      "course": "jem2",
       "name": "Aangeven dat je iets moet doen of juist niet hoeft te doen"
     },
     {
       "id": "jem2-13",
+      "course": "jem2",
       "name": "Je ervaring delen en zeggen dat je iets kan"
     },
     {
       "id": "jem2-14",
+      "course": "jem2",
       "name": "Bijvoeglijke bijzin en verplichting aangeven"
     }
   ],
