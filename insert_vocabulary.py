@@ -29,8 +29,8 @@ def get_user_input(course):
 
 def parse_vocab(vocab, id, chapter, course, fields_to_enter):
     # verify the passed vocab
-    parsed_vocab = vocab.split(";")
-    fields_to_enter = fields_to_enter.split(";")
+    parsed_vocab = vocab.split("|")
+    fields_to_enter = fields_to_enter.split("|")
     if len(parsed_vocab) != len(fields_to_enter):
         return False
 
@@ -52,17 +52,19 @@ def parse_vocab(vocab, id, chapter, course, fields_to_enter):
 
 
 def main():
-    course = "jem2"
+    course = "jem3"
     override_course = input(f"course ({course}): ")
     if override_course:
         course = override_course
     user_input = get_user_input(course)
     chapter = user_input["chapter"]
     next_id = user_input["next_id"]
+    default_fields = "dutch|hiragana|romaji|nihongo"
     fields_to_enter = input(
-        "enter fields to be entered separated by ';' "
-        "(e.g. romaji;dutch;hiragana): "
+        f"enter fields to be entered separated by '|' [{default_fields}]: "
     )
+    if not fields_to_enter:
+        fields_to_enter = default_fields
     with open("dictionary.json") as f:
         dict = json.load(f)
     chapter_text = list(
