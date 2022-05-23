@@ -21518,6 +21518,375 @@
       "hiragana": "\u3050\u3046\u305c\u3093",
       "romaji": "guuzen",
       "nihongo": "\u5076\u7136"
+    },
+    {
+      "id": "jem3-283",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "wennen; gewend raken",
+      "hiragana": "\u306a\u308c\u308b",
+      "romaji": "nareru",
+      "nihongo": "\u6163\u308c\u308b"
+    },
+    {
+      "id": "jem3-284",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "lijken op~",
+      "hiragana": "\u306b\u308b",
+      "romaji": "niru",
+      "nihongo": "\u4f3c\u308b"
+    },
+    {
+      "id": "jem3-285",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "verven; aanbrengen; smeren",
+      "hiragana": "\u306c\u308b",
+      "romaji": "nuru",
+      "nihongo": "\u5857\u308b"
+    },
+    {
+      "id": "jem3-286",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "slapen (niet bewust gaan liggen)",
+      "hiragana": "\u306d\u3080\u308b",
+      "romaji": "nemuru",
+      "nihongo": "\u7720\u308b"
+    },
+    {
+      "id": "jem3-287",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "blij zijn; tevreden zijn",
+      "hiragana": "\u3088\u308d\u3053\u3076",
+      "romaji": "yorokobu",
+      "nihongo": "\u559c\u3076"
+    },
+    {
+      "id": "jem3-288",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "opwarmen (van iets)",
+      "hiragana": "\u3042\u305f\u305f\u3081\u308b",
+      "romaji": "atatameru",
+      "nihongo": "\u6e29\u3081\u308b"
+    },
+    {
+      "id": "jem3-289",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "dromen",
+      "hiragana": "\u3086\u3081\u3092\u307f\u308b",
+      "romaji": "yume wo miru",
+      "nihongo": "\u5922\u3092\u898b\u308b"
+    },
+    {
+      "id": "jem3-290",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "uitdaging (uitdagen)",
+      "hiragana": "\u3061\u3083\u308c\u3093\u3058\uff08\u3059\u308b\uff09",
+      "romaji": "charenji(suru)",
+      "nihongo": "\u30c1\u30e3\u30ec\u30f3\u30b8\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-291",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "ouder persoon; senior",
+      "hiragana": "\u304a\u3068\u3057\u3088\u308a",
+      "romaji": "otoshiyori",
+      "nihongo": "\u304a\u5e74\u5bc4\u308a"
+    },
+    {
+      "id": "jem3-292",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "kind",
+      "hiragana": "\u3053",
+      "romaji": "ko",
+      "nihongo": "\u5b50"
+    },
+    {
+      "id": "jem3-293",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "partner; persoon; tegenstander",
+      "hiragana": "\u3042\u3044\u3066",
+      "romaji": "aite",
+      "nihongo": "\u76f8\u624b"
+    },
+    {
+      "id": "jem3-294",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "aap",
+      "hiragana": "\u3055\u308b",
+      "romaji": "saru",
+      "nihongo": "\u30b5\u30eb\u30fb\u733f"
+    },
+    {
+      "id": "jem3-295",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "kersenbloesem",
+      "hiragana": "\u3055\u304f\u3089",
+      "romaji": "sakura",
+      "nihongo": "\u685c"
+    },
+    {
+      "id": "jem3-296",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "~periode; tijdperk",
+      "hiragana": "\uff5e\u3060\u3044",
+      "romaji": "~dai",
+      "nihongo": "\uff5e\u4ee3"
+    },
+    {
+      "id": "jem3-297",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "Edo tijdperk",
+      "hiragana": "\u3048\u3069\u3058\u3060\u3044",
+      "romaji": "edojidai",
+      "nihongo": "\u6c5f\u6238\u6642\u4ee3"
+    },
+    {
+      "id": "jem3-298",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "straat; weg",
+      "hiragana": "\u3068\u304a\u308a",
+      "romaji": "toori",
+      "nihongo": "\u901a\u308a"
+    },
+    {
+      "id": "jem3-299",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "meeting; vergadering",
+      "hiragana": "\u307f\u3044\u3066\u3043\u3093\u3050",
+      "romaji": "miitingu",
+      "nihongo": "\u30df\u30fc\u30c6\u30a3\u30f3\u30b0"
+    },
+    {
+      "id": "jem3-300",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "op weg naar ~; richting ~ (trein/bus, etc.)",
+      "hiragana": "\uff5e\u3086\u304d\u30fb\uff5e\u3044\u304d",
+      "romaji": "~yuki/~iki",
+      "nihongo": "\uff5e\u884c\u304d"
+    },
+    {
+      "id": "jem3-301",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "gaat naar Tokio",
+      "hiragana": "\u3068\u3046\u304d\u3087\u3046\u3086\u304d",
+      "romaji": "toukyouyuki",
+      "nihongo": "\u6771\u4eac\u884c\u304d"
+    },
+    {
+      "id": "jem3-302",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "gemaakt in ~",
+      "hiragana": "\uff5e\u305b\u3044",
+      "romaji": "~sei",
+      "nihongo": "\uff5e\u88fd"
+    },
+    {
+      "id": "jem3-303",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "gemaakt in japan",
+      "hiragana": "\u306b\u307b\u3093\u305b\u3044",
+      "romaji": "nihonsei",
+      "nihongo": "\u65e5\u672c\u88fd"
+    },
+    {
+      "id": "jem3-304",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "New York",
+      "hiragana": "\u306b\u3085\u3046\u3088\u304a\u304f",
+      "romaji": "nyuuyooku",
+      "nihongo": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af"
+    },
+    {
+      "id": "jem3-305",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "museum",
+      "hiragana": "\u306f\u304f\u3076\u3064\u304b\u3093",
+      "romaji": "hakubutsukan",
+      "nihongo": "\u535a\u7269\u9928"
+    },
+    {
+      "id": "jem3-306",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "geboorte",
+      "hiragana": "\u3046\u307e\u308c",
+      "romaji": "umare",
+      "nihongo": "\u751f\u307e\u308c"
+    },
+    {
+      "id": "jem3-307",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "idee",
+      "hiragana": "\u3042\u3044\u3067\u3043\u3042",
+      "romaji": "aidia",
+      "nihongo": "\u30a2\u30a4\u30c7\u30a3\u30a2"
+    },
+    {
+      "id": "jem3-308",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "watervoorziening",
+      "hiragana": "\u3059\u3044\u3069\u3046",
+      "romaji": "suidou",
+      "nihongo": "\u6c34\u9053"
+    },
+    {
+      "id": "jem3-309",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "Furigana (Hiragana over Kanji)",
+      "hiragana": "\u3075\u308a\u304c\u306a",
+      "romaji": "furigana",
+      "nihongo": "\u632f\u308a\u4eee\u540d\u30fb\u30d5\u30ea\u30ac\u30ca"
+    },
+    {
+      "id": "jem3-310",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "scherm",
+      "hiragana": "\u3059\u304f\u308a\u3044\u3093",
+      "romaji": "sukuriin",
+      "nihongo": "\u30b9\u30af\u30ea\u30fc\u30f3"
+    },
+    {
+      "id": "jem3-311",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "geur",
+      "hiragana": "\u306b\u304a\u3044",
+      "romaji": "nioi",
+      "nihongo": "\u5302\u3044"
+    },
+    {
+      "id": "jem3-312",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "gewoonte; gebruiken",
+      "hiragana": "\u3057\u3085\u3046\u304b\u3093",
+      "romaji": "shuukan",
+      "nihongo": "\u7fd2\u6163"
+    },
+    {
+      "id": "jem3-313",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "temperatuur (atmosfeer)",
+      "hiragana": "\u304d\u304a\u3093",
+      "romaji": "kion",
+      "nihongo": "\u6c17\u6e29"
+    },
+    {
+      "id": "jem3-314",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "populariteit; welvarend",
+      "hiragana": "\u3055\u304b\u3093",
+      "romaji": "sakan",
+      "nihongo": "\u76db\u3093"
+    },
+    {
+      "id": "jem3-315",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "gestaag; beetje bij beetje",
+      "hiragana": "\u3069\u3093\u3069\u3093",
+      "romaji": "dondon",
+      "nihongo": "\u3069\u3093\u3069\u3093"
+    },
+    {
+      "id": "jem3-316",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "compleet",
+      "hiragana": "\u3059\u3063\u304b\u308a",
+      "romaji": "sukkari",
+      "nihongo": "\u3059\u3063\u304b\u308a"
+    },
+    {
+      "id": "jem3-317",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "alsof; net als",
+      "hiragana": "\u307e\u308b\u3067",
+      "romaji": "marude",
+      "nihongo": "\u307e\u308b\u3067"
+    },
+    {
+      "id": "jem3-318",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "mogelijk; blijkbaar; waarschijnlijk (lijken)",
+      "hiragana": "\u3069\u3046\u3084\u3089",
+      "romaji": "douyara",
+      "nihongo": "\u3069\u3046\u3084\u3089"
+    },
+    {
+      "id": "jem3-319",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "donker (kleur); sterk (smaak/geur); dik (consistentie)",
+      "hiragana": "\u3053\u3044",
+      "romaji": "koi",
+      "nihongo": "\u6fc3\u3044"
+    },
+    {
+      "id": "jem3-320",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "oppervlakkig",
+      "hiragana": "\u3042\u3055\u3044",
+      "romaji": "asai",
+      "nihongo": "\u6d45\u3044"
+    },
+    {
+      "id": "jem3-321",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "beleefd; hoffelijk",
+      "hiragana": "\u3066\u3044\u306d\u3044\uff08\u306a\uff09",
+      "romaji": "teinei(na)",
+      "nihongo": "\u4e01\u5be7\uff08\u306a\uff09"
+    },
+    {
+      "id": "jem3-322",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "genoeg",
+      "hiragana": "\u3058\u3085\u3046\u3076\u3093\uff08\u306a\uff09",
+      "romaji": "juubun(na)",
+      "nihongo": "\u5341\u5206\uff08\u306a\uff09"
+    },
+    {
+      "id": "jem3-323",
+      "course": "jem3",
+      "chapter": "jem3-8",
+      "dutch": "enorm; zeer",
+      "hiragana": "\u3060\u3044\u3076\uff08\u306a\uff09",
+      "romaji": "daibu(na)",
+      "nihongo": "\u5927\u5206\uff08\u306a\uff09"
     }
   ],
   "courses": [
