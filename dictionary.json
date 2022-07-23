@@ -23507,6 +23507,384 @@
       "hiragana": "\uff5e\u3070\u3044",
       "romaji": "~bai",
       "nihongo": "\uff5e\u500d"
+    },
+    {
+      "id": "jem3-504",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "geven; gegeven worden",
+      "hiragana": "\u304f\u308c\u308b",
+      "romaji": "kureru",
+      "nihongo": "\u304f\u308c\u308b"
+    },
+    {
+      "id": "jem3-505",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "geven (beleefd)",
+      "hiragana": "\u304f\u3060\u3055\u308b",
+      "romaji": "kudasaru",
+      "nihongo": "\u4e0b\u3055\u308b"
+    },
+    {
+      "id": "jem3-506",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "geven (beleefd)",
+      "hiragana": "\u3055\u3057\u3042\u3052\u308b",
+      "romaji": "sashiageru",
+      "nihongo": "\u5dee\u3057\u4e0a\u3052\u308b"
+    },
+    {
+      "id": "jem3-507",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "onderzoek (medisch)",
+      "hiragana": "\u307f\u308b",
+      "romaji": "miru",
+      "nihongo": "\u8a3a\u308b"
+    },
+    {
+      "id": "jem3-508",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "verzamelen; opzetten; bouwen",
+      "hiragana": "\u304f\u307f\u305f\u3066\u308b",
+      "romaji": "kumitateru",
+      "nihongo": "\u7d44\u307f\u7acb\u3066\u308b"
+    },
+    {
+      "id": "jem3-509",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "bezoeken; langskomen (onderweg naar doel/locatie)",
+      "hiragana": "\u3088\u308b",
+      "romaji": "yoru",
+      "nihongo": "\u5bc4\u308b"
+    },
+    {
+      "id": "jem3-510",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "gaan liggen",
+      "hiragana": "\u3088\u3053\u306b\u306a\u308b",
+      "romaji": "yokoninaru",
+      "nihongo": "\u6a2a\u306b\u306a\u308b"
+    },
+    {
+      "id": "jem3-511",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "bloeden",
+      "hiragana": "\u3061\u304c\u3067\u308b",
+      "romaji": "chigaderu",
+      "nihongo": "\u8840\u304c\u51fa\u308b"
+    },
+    {
+      "id": "jem3-512",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "akkoord; overeenstemming (akkoord gaan; mee instemmen)",
+      "hiragana": "\u3055\u3093\u305b\u3044\uff08\u3059\u308b\uff09",
+      "romaji": "sansei(suru)",
+      "nihongo": "\u8cdb\u6210\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-513",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "helpen; zorgen voor",
+      "hiragana": "\uff08\u304a\uff09\u305b\u308f\uff08\u3059\u308b\uff09",
+      "romaji": "(o)sewa(suru)",
+      "nihongo": "\uff08\u304a\uff09\u4e16\u8a71\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-514",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "hulp; ondersteuning; gejuich (ondersteunen; juichen)",
+      "hiragana": "\u304a\u3046\u3048\u3093\uff08\u3059\u308b\uff09",
+      "romaji": "ouen(suru)",
+      "nihongo": "\u5fdc\u63f4\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-515",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "mondelinge interpretatie; vertaling (interpreteren; tolken)",
+      "hiragana": "\u3064\u3046\u3084\u304f\uff08\u3059\u308b\uff09",
+      "romaji": "tsuuyaku(suru)",
+      "nihongo": "\u901a\u8a33\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-516",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "organisatie; regulatie (sorteren; ordenen; regelen)",
+      "hiragana": "\u305b\u3044\u308a\uff08\u3059\u308b\uff09",
+      "romaji": "seiri(suru)",
+      "nihongo": "\u6574\u7406\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-517",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "bezoek (bezoeken (beleefd))",
+      "hiragana": "\u307b\u3046\u3082\u3093\uff08\u3059\u308b\uff09",
+      "romaji": "houmon(suru)",
+      "nihongo": "\u8a2a\u554f\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-518",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "antwoord; reactie (antwoorden; reageren)",
+      "hiragana": "\u3078\u3093\u3058\uff08\u3059\u308b\uff09",
+      "romaji": "henji(suru)",
+      "nihongo": "\u8fd4\u4e8b\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-519",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "netjes; nauwkeurig (het netjes/nauwkeurig uitvoeren)",
+      "hiragana": "\u304d\u3061\u3093\u3068\uff08\u3059\u308b\uff09",
+      "romaji": "kichinto(suru)",
+      "nihongo": "\u304d\u3061\u3093\u3068\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-520",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "nooduitgang",
+      "hiragana": "\u3072\u3058\u3087\u3046\u3050\u3061",
+      "romaji": "hijouguchi",
+      "nihongo": "\u975e\u5e38\u53e3"
+    },
+    {
+      "id": "jem3-521",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "hoek; hoekje",
+      "hiragana": "\u3059\u307f",
+      "romaji": "sumi",
+      "nihongo": "\u9685"
+    },
+    {
+      "id": "jem3-522",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "helling; heuvel",
+      "hiragana": "\u3055\u304b",
+      "romaji": "saka",
+      "nihongo": "\u962a"
+    },
+    {
+      "id": "jem3-523",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "voorkant; oppervlak",
+      "hiragana": "\u304a\u3082\u3066",
+      "romaji": "omote",
+      "nihongo": "\u8868"
+    },
+    {
+      "id": "jem3-524",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "voorhoofd (alleen mensen)",
+      "hiragana": "\u304a\u3067\u3053",
+      "romaji": "odeko",
+      "nihongo": "\u304a\u51f8"
+    },
+    {
+      "id": "jem3-525",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "voorhoofd (alles en iedereen)",
+      "hiragana": "\u3072\u305f\u3044",
+      "romaji": "hitai",
+      "nihongo": "\u984d"
+    },
+    {
+      "id": "jem3-526",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "kin; kaak",
+      "hiragana": "\u3042\u3054",
+      "romaji": "ago",
+      "nihongo": "\u984e"
+    },
+    {
+      "id": "jem3-527",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "lip(pen)",
+      "hiragana": "\u304f\u3061\u3073\u308b",
+      "romaji": "kuchibiru",
+      "nihongo": "\u5507"
+    },
+    {
+      "id": "jem3-528",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "maag",
+      "hiragana": "\u3044",
+      "romaji": "i",
+      "nihongo": "\u80c3"
+    },
+    {
+      "id": "jem3-529",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "billen",
+      "hiragana": "\u304a\u3057\u308a",
+      "romaji": "oshiri",
+      "nihongo": "\u304a\u5c3b"
+    },
+    {
+      "id": "jem3-530",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "nek",
+      "hiragana": "\u304f\u3073",
+      "romaji": "kubi",
+      "nihongo": "\u9996"
+    },
+    {
+      "id": "jem3-531",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "lengte (lichaam)",
+      "hiragana": "\u3057\u3093\u3061\u3087\u3046",
+      "romaji": "shinchou",
+      "nihongo": "\u8eab\u9577"
+    },
+    {
+      "id": "jem3-532",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "gewicht (lichaam)",
+      "hiragana": "\u305f\u3044\u3058\u3085\u3046",
+      "romaji": "taijuu",
+      "nihongo": "\u4f53\u91cd"
+    },
+    {
+      "id": "jem3-533",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "temperatuur (lichaam)",
+      "hiragana": "\u305f\u3044\u304a\u3093",
+      "romaji": "taion",
+      "nihongo": "\u4f53\u6e29"
+    },
+    {
+      "id": "jem3-534",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "thermometer",
+      "hiragana": "\u305f\u3044\u304a\u3093\u3051\u3044",
+      "romaji": "taionkei",
+      "nihongo": "\u4f53\u6e29\u8a08"
+    },
+    {
+      "id": "jem3-535",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "bloed",
+      "hiragana": "\u3061",
+      "romaji": "chi",
+      "nihongo": "\u8840"
+    },
+    {
+      "id": "jem3-536",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "tarwe",
+      "hiragana": "\u3053\u3080\u304e",
+      "romaji": "komugi",
+      "nihongo": "\u5c0f\u9ea6"
+    },
+    {
+      "id": "jem3-537",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "uiterlijk; situatie; toestand",
+      "hiragana": "\u3088\u3046\u3059",
+      "romaji": "yousu",
+      "nihongo": "\u69d8\u5b50"
+    },
+    {
+      "id": "jem3-538",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "geboorte",
+      "hiragana": "\u305f\u3093\u3058\u3087\u3046",
+      "romaji": "tanjou",
+      "nihongo": "\u8a95\u751f"
+    },
+    {
+      "id": "jem3-539",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "vissen",
+      "hiragana": "\u3064\u308a",
+      "romaji": "tsuri",
+      "nihongo": "\u91e3\u308a"
+    },
+    {
+      "id": "jem3-540",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "dankzij ~",
+      "hiragana": "\u304a\u304b\u3052\uff08\u3067\uff09",
+      "romaji": "okage(de)",
+      "nihongo": "\u304a\u852d\uff08\u3067\uff09"
+    },
+    {
+      "id": "jem3-541",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "met uitzondering van; behalve",
+      "hiragana": "\uff5e\u3044\u304c\u3044",
+      "romaji": "~igai",
+      "nihongo": "\uff5e\u4ee5\u5916"
+    },
+    {
+      "id": "jem3-542",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "binnen in, onder",
+      "hiragana": "\uff5e\u3044\u306a\u3044",
+      "romaji": "~inai",
+      "nihongo": "\uff5e\u4ee5\u5185"
+    },
+    {
+      "id": "jem3-543",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "en daarom",
+      "hiragana": "\u305d\u308c\u3067",
+      "romaji": "sorede",
+      "nihongo": "\u305d\u308c\u3067"
+    },
+    {
+      "id": "jem3-544",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "of; anders",
+      "hiragana": "\u307e\u305f\u306f",
+      "romaji": "matawa",
+      "nihongo": "\u53c8\u306f"
+    },
+    {
+      "id": "jem3-545",
+      "course": "jem3",
+      "chapter": "jem3-13",
+      "dutch": "redelijk; genoeg",
+      "hiragana": "\u305a\u3044\u3076\u3093\uff08\u306a\uff09",
+      "romaji": "zuibun(na)",
+      "nihongo": "\u968f\u5206\uff08\u306a\uff09"
     }
   ],
   "courses": [
