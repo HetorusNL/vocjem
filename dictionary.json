@@ -24097,13 +24097,22 @@
       "id": "jem3-569",
       "course": "jem3",
       "chapter": "jem3-14",
+      "dutch": "heel erg (keigo van \u307b\u3093\u3068\u3046\u306b)",
+      "hiragana": "\u307e\u3053\u3068\u306b",
+      "romaji": "makotoni",
+      "nihongo": "\u8aa0\u306b"
+    },
+    {
+      "id": "jem3-570",
+      "course": "jem3",
+      "chapter": "jem3-14",
       "dutch": "telegram",
       "hiragana": "\u3067\u3093\u307d\u3046",
       "romaji": "denpou",
       "nihongo": "\u96fb\u5831"
     },
     {
-      "id": "jem3-570",
+      "id": "jem3-571",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "elektrisch licht",
@@ -24112,7 +24121,7 @@
       "nihongo": "\u96fb\u706f"
     },
     {
-      "id": "jem3-571",
+      "id": "jem3-572",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "punt; stip",
@@ -24121,7 +24130,7 @@
       "nihongo": "\u70b9"
     },
     {
-      "id": "jem3-572",
+      "id": "jem3-573",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "bel",
@@ -24130,7 +24139,7 @@
       "nihongo": "\u30d9\u30eb"
     },
     {
-      "id": "jem3-573",
+      "id": "jem3-574",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "sleutelwoord",
@@ -24139,7 +24148,7 @@
       "nihongo": "\u30ad\u30fc\u30ef\u30fc\u30c9"
     },
     {
-      "id": "jem3-574",
+      "id": "jem3-575",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "grondstoffen",
@@ -24148,7 +24157,7 @@
       "nihongo": "\u539f\u6599"
     },
     {
-      "id": "jem3-575",
+      "id": "jem3-576",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "industrie",
@@ -24157,7 +24166,7 @@
       "nihongo": "\u7523\u696d"
     },
     {
-      "id": "jem3-576",
+      "id": "jem3-577",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "verwerkende industrie",
@@ -24166,7 +24175,7 @@
       "nihongo": "\u5de5\u696d"
     },
     {
-      "id": "jem3-577",
+      "id": "jem3-578",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "fout, blunder",
@@ -24175,7 +24184,7 @@
       "nihongo": "\u9593\u9055\u3044"
     },
     {
-      "id": "jem3-578",
+      "id": "jem3-579",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "enthousiasme",
@@ -24184,7 +24193,7 @@
       "nihongo": "\u71b1\u5fc3"
     },
     {
-      "id": "jem3-579",
+      "id": "jem3-580",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "dan",
@@ -24193,7 +24202,7 @@
       "nihongo": "\u3042\u306e"
     },
     {
-      "id": "jem3-580",
+      "id": "jem3-581",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "tot zo ver",
@@ -24202,7 +24211,7 @@
       "nihongo": "\u305d\u308c\u7a0b"
     },
     {
-      "id": "jem3-581",
+      "id": "jem3-582",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "continu; voor een lange tijd",
@@ -24211,7 +24220,7 @@
       "nihongo": "\u305a\u3063\u3068"
     },
     {
-      "id": "jem3-582",
+      "id": "jem3-583",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "recht; snel; ineens",
@@ -24220,7 +24229,7 @@
       "nihongo": "\u3059\u3063\u3068"
     },
     {
-      "id": "jem3-583",
+      "id": "jem3-584",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "speciaal; vooral; uitdrukkelijk genereus; met (veel) moeite",
@@ -24229,7 +24238,7 @@
       "nihongo": "\u6298\u89d2"
     },
     {
-      "id": "jem3-584",
+      "id": "jem3-585",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "door de schuld van",
@@ -24238,7 +24247,7 @@
       "nihongo": "\u6240\u70ba\uff08\u3067\uff09"
     },
     {
-      "id": "jem3-585",
+      "id": "jem3-586",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "extreem; heel erg (beleefd)",
@@ -24247,7 +24256,7 @@
       "nihongo": "\u975e\u5e38\u306b"
     },
     {
-      "id": "jem3-586",
+      "id": "jem3-587",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "perfectie, compleet",
@@ -24256,7 +24265,7 @@
       "nihongo": "\u5b8c\u5168\uff08\u306a\uff09"
     },
     {
-      "id": "jem3-587",
+      "id": "jem3-588",
       "course": "jem3",
       "chapter": "jem3-14",
       "dutch": "telwoord voor huizen",
