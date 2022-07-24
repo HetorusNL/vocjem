@@ -24263,6 +24263,447 @@
       "hiragana": "\uff5e\u3051\u3093",
       "romaji": "~ken",
       "nihongo": "\uff5e\u8ed2"
+    },
+    {
+      "id": "jem3-589",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "iemand prijzen; complimenteren",
+      "hiragana": "\u307b\u3081\u308b",
+      "romaji": "homeru",
+      "nihongo": "\u8912\u3081\u308b"
+    },
+    {
+      "id": "jem3-590",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "een uitbrander geven; schelden; een standje geven",
+      "hiragana": "\u3057\u304b\u308b",
+      "romaji": "shikaru",
+      "nihongo": "\u3057\u304b\u308b"
+    },
+    {
+      "id": "jem3-591",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "gooien",
+      "hiragana": "\u306a\u3052\u308b",
+      "romaji": "nageru",
+      "nihongo": "\u6295\u3052\u308b"
+    },
+    {
+      "id": "jem3-592",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "produceren; ontstaan; vormen",
+      "hiragana": "\u3057\u3087\u3046\u3058\u308b",
+      "romaji": "shoujiru",
+      "nihongo": "\u751f\u3058\u308b"
+    },
+    {
+      "id": "jem3-593",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "teruggeven (van iets); herstellen; terugleggen; omkeren/omdraaien; terugbetalen (wraak)",
+      "hiragana": "\u304b\u3048\u3059",
+      "romaji": "kaesu",
+      "nihongo": "\u8fd4\u3059"
+    },
+    {
+      "id": "jem3-594",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "planten; groeien",
+      "hiragana": "\u3046\u3048\u308b",
+      "romaji": "ueru",
+      "nihongo": "\u690d\u3048\u308b"
+    },
+    {
+      "id": "jem3-595",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "leren kennen",
+      "hiragana": "\u3057\u308a\u3042\u3046",
+      "romaji": "shiriau",
+      "nihongo": "\u77e5\u308a\u5408\u3046"
+    },
+    {
+      "id": "jem3-596",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "schudden; wiebelen",
+      "hiragana": "\u3086\u308c\u308b",
+      "romaji": "yureru",
+      "nihongo": "\u63fa\u308c\u308b"
+    },
+    {
+      "id": "jem3-597",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "lijken; waarschijnlijk lijken; denken (persoonlijke mening)",
+      "hiragana": "\u304a\u3082\u3048\u308b",
+      "romaji": "omoeru",
+      "nihongo": "\u601d\u3048\u308b"
+    },
+    {
+      "id": "jem3-598",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "ontvangen; krijgen; accepteren",
+      "hiragana": "\u3046\u3051\u3068\u308b",
+      "romaji": "uketoru",
+      "nihongo": "\u53d7\u3051\u53d6\u308b"
+    },
+    {
+      "id": "jem3-599",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "in/op een stoel zitten",
+      "hiragana": "\u3044\u3059\u306b\u304b\u3051\u308b",
+      "romaji": "isunikakeru",
+      "nihongo": "\u6905\u5b50\u306b\u304b\u3051\u308b"
+    },
+    {
+      "id": "jem3-600",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "in handen krijgen; verkrijgen; aanschaffen",
+      "hiragana": "\u3066\u306b\u3044\u308c\u308b",
+      "romaji": "teniireru",
+      "nihongo": "\u624b\u306b\u5165\u308c\u308b"
+    },
+    {
+      "id": "jem3-601",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "geven om (iets, negatief); zorgen maken",
+      "hiragana": "\u304d\u306b\u3059\u308b",
+      "romaji": "kinisuru",
+      "nihongo": "\u6c17\u306b\u3059\u308b"
+    },
+    {
+      "id": "jem3-602",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "educatie; opleiding; scholing (opleiden; onderwijzen)",
+      "hiragana": "\u304d\u3087\u3046\u3044\u304f\uff08\u3059\u308b\uff09",
+      "romaji": "kyouiku(suru)",
+      "nihongo": "\u6559\u80b2\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-603",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "waarschuwing; voorzichtigheid; aandacht (waarschuwen; aandacht geven; opletten)",
+      "hiragana": "\u3061\u3085\u3046\u3044\uff08\u3059\u308b\uff09",
+      "romaji": "chuui(suru)",
+      "nihongo": "\u6ce8\u610f\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-604",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "opname (opnemen)",
+      "hiragana": "\u308d\u304f\u304c\uff08\u3059\u308b\uff09",
+      "romaji": "rokuga(suru)",
+      "nihongo": "\u9332\u753b\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-605",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "uitvinding (uitvinden)",
+      "hiragana": "\u306f\u3064\u3081\u3044\uff08\u3059\u308b\uff09",
+      "romaji": "hatsumei(suru)",
+      "nihongo": "\u767a\u660e\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-606",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "teleurstelling (teleurstellen)",
+      "hiragana": "\u304c\u3063\u304b\u308a\uff08\u3059\u308b\uff09",
+      "romaji": "gakkari(suru)",
+      "nihongo": "\u304c\u3063\u304b\u308a\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem3-607",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "iemand anders kind",
+      "hiragana": "\u304a\u3053\u3055\u3093",
+      "romaji": "okosan",
+      "nihongo": "\u304a\u5b50\u3055\u3093"
+    },
+    {
+      "id": "jem3-608",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "dochter (beleefd); jongedame",
+      "hiragana": "\u304a\u3058\u3087\u3046\u3055\u3093",
+      "romaji": "ojousan",
+      "nihongo": "\u304a\u5b22\u3055\u3093"
+    },
+    {
+      "id": "jem3-609",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "familieleden",
+      "hiragana": "\u3057\u3093\u305b\u304d",
+      "romaji": "shinseki",
+      "nihongo": "\u89aa\u621a"
+    },
+    {
+      "id": "jem3-610",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "mooi; beeldschoon persoon",
+      "hiragana": "\u3073\u3058\u3093",
+      "romaji": "bijin",
+      "nihongo": "\u7f8e\u4eba"
+    },
+    {
+      "id": "jem3-611",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "rol; karakter (in toneelstuk/film, etc)",
+      "hiragana": "\u3084\u304f",
+      "romaji": "yaku",
+      "nihongo": "\u5f79"
+    },
+    {
+      "id": "jem3-612",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "design; ontwerp",
+      "hiragana": "\u3067\u3056\u3044\u3093",
+      "romaji": "dezain",
+      "nihongo": "\u30c7\u30b6\u30a4\u30f3"
+    },
+    {
+      "id": "jem3-613",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "geest; levenskracht; stemming",
+      "hiragana": "\u304d",
+      "romaji": "ki",
+      "nihongo": "\u6c17"
+    },
+    {
+      "id": "jem3-614",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "gevoel; gemoedstoestand",
+      "hiragana": "\u304d\u3082\u3061",
+      "romaji": "kimochi",
+      "nihongo": "\u6c17\u6301\u3061"
+    },
+    {
+      "id": "jem3-615",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "op een dag",
+      "hiragana": "\u3042\u308b\u3072",
+      "romaji": "aruhi",
+      "nihongo": "\u3042\u308b\u65e5"
+    },
+    {
+      "id": "jem3-616",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "eeuw",
+      "hiragana": "\u305b\u3044\u304d",
+      "romaji": "seiki",
+      "nihongo": "\u4e16\u7d00"
+    },
+    {
+      "id": "jem3-617",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "pijl (symbool)",
+      "hiragana": "\u3084\u3058\u308b\u3057",
+      "romaji": "yajirushi",
+      "nihongo": "\u77e2\u5370"
+    },
+    {
+      "id": "jem3-618",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "olie; petroleum",
+      "hiragana": "\u305b\u304d\u3086",
+      "romaji": "sekiyu",
+      "nihongo": "\u77f3\u6cb9"
+    },
+    {
+      "id": "jem3-619",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "ijs",
+      "hiragana": "\u3053\u304a\u308a",
+      "romaji": "koori",
+      "nihongo": "\u6c37"
+    },
+    {
+      "id": "jem3-620",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "liefde; affectie",
+      "hiragana": "\u3042\u3044",
+      "romaji": "ai",
+      "nihongo": "\u611b"
+    },
+    {
+      "id": "jem3-621",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "op een of andere manier",
+      "hiragana": "\u3069\u3046\u3082",
+      "romaji": "doumo",
+      "nihongo": "\u3069\u3046\u3082"
+    },
+    {
+      "id": "jem3-622",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "en daarbij; bovendien",
+      "hiragana": "\u305d\u308c\u306b",
+      "romaji": "soreni",
+      "nihongo": "\u305d\u308c\u306b"
+    },
+    {
+      "id": "jem3-623",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "dan; in dat geval",
+      "hiragana": "\u305d\u308c\u306a\u3089",
+      "romaji": "sorenara",
+      "nihongo": "\u305d\u308c\u306a\u3089"
+    },
+    {
+      "id": "jem3-624",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "verder; daarbij; daarnaast",
+      "hiragana": "\u305d\u306e\u3046\u3048",
+      "romaji": "sonoue",
+      "nihongo": "\u305d\u306e\u4e0a"
+    },
+    {
+      "id": "jem3-625",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "voor ~ (gericht naar iets/iemand)",
+      "hiragana": "\uff5e\u3088\u3046",
+      "romaji": "~you",
+      "nihongo": "\uff5e\u7528"
+    },
+    {
+      "id": "jem3-626",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "gebruik; doel",
+      "hiragana": "\u3088\u3046",
+      "romaji": "you",
+      "nihongo": "\u69d8"
+    },
+    {
+      "id": "jem3-627",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "aanzienlijk; geweldig",
+      "hiragana": "\u305f\u3044\u3057\u305f",
+      "romaji": "taishita",
+      "nihongo": "\u5927\u3057\u305f"
+    },
+    {
+      "id": "jem3-628",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "goed; oke (beleefd)",
+      "hiragana": "\u3088\u308d\u3057\u3044",
+      "romaji": "yoroshii",
+      "nihongo": "\u5b9c\u3057\u3044"
+    },
+    {
+      "id": "jem3-629",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "diep",
+      "hiragana": "\u3075\u304b\u3044",
+      "romaji": "fukai",
+      "nihongo": "\u6df1\u3044"
+    },
+    {
+      "id": "jem3-630",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "precies goed/genoeg",
+      "hiragana": "\u3061\u3087\u3046\u3069\u3044\u3044",
+      "romaji": "choudoii",
+      "nihongo": "\u3061\u3087\u3046\u3069\u3044\u3044"
+    },
+    {
+      "id": "jem3-631",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "aangenaam; fijn (gevoel)",
+      "hiragana": "\u304d\u3082\u3061\uff08\u304c\uff09\u3044\u3044",
+      "romaji": "kimochi(ga)ii",
+      "nihongo": "\u6c17\u6301\u3061\uff08\u304c\uff09\u3044\u3044"
+    },
+    {
+      "id": "jem3-632",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "onaangenaam; walgelijk (gevoel)",
+      "hiragana": "\u304d\u3082\u3061\uff08\u304c\uff09\u308f\u308b\u3044",
+      "romaji": "kimochi(ga)warui",
+      "nihongo": "\u6c17\u6301\u3061\uff08\u304c\uff09\u60aa\u3044"
+    },
+    {
+      "id": "jem3-633",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "voldoende; passend; geschikt",
+      "hiragana": "\u3066\u304d\u3068\u3046\uff08\u306a\uff09",
+      "romaji": "tekitou(na)",
+      "nihongo": "\u9069\u5f53\uff08\u306a\uff09"
+    },
+    {
+      "id": "jem3-634",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "vrede; harmonie (vredig; harmonieus)",
+      "hiragana": "\u3078\u3044\u308f\uff08\u306a\uff09",
+      "romaji": "heiwa(na)",
+      "nihongo": "\u5e73\u548c\uff08\u306a\uff09"
+    },
+    {
+      "id": "jem3-635",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "iets om naar uit te kijken",
+      "hiragana": "\u305f\u306e\u3057\u307f\uff08\u306a\uff09",
+      "romaji": "tanoshimi(na)",
+      "nihongo": "\u697d\u3057\u307f\uff08\u306a\uff09"
+    },
+    {
+      "id": "jem3-636",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "serieus",
+      "hiragana": "\u307e\u3058\u3081\uff08\u306a\uff09",
+      "romaji": "majime(na)",
+      "nihongo": "\u771f\u9762\u76ee\uff08\u306a\uff09"
+    },
+    {
+      "id": "jem3-637",
+      "course": "jem3",
+      "chapter": "jem3-15",
+      "dutch": "~stijl; ~manier",
+      "hiragana": "\uff5e\u3075\u3046",
+      "romaji": "~fuu",
+      "nihongo": "\uff5e\u98a8"
     }
   ],
   "courses": [
