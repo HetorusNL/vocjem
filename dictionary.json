@@ -24735,6 +24735,11 @@
       "id": "jem3",
       "name": "Japanese E-Mastery 3",
       "abbreviation": "JEM3"
+    },
+    {
+      "id": "jem4",
+      "name": "Japanese E-Mastery 4",
+      "abbreviation": "JEM4"
     }
   ],
   "chapters": [
@@ -25082,6 +25087,81 @@
       "id": "jem3-15",
       "course": "jem3",
       "name": "Passieve vorm van werkwoorden en adjectieven met werkwoorden gebruiken"
+    },
+    {
+      "id": "jem4-1",
+      "course": "jem4",
+      "name": "Gebiedende wijs en deze/die manier"
+    },
+    {
+      "id": "jem4-2",
+      "course": "jem4",
+      "name": "Informeel verbod en negatief gebiedende wijs"
+    },
+    {
+      "id": "jem4-3",
+      "course": "jem4",
+      "name": "Zeggen dat iets gedaan is of voorbereid"
+    },
+    {
+      "id": "jem4-4",
+      "course": "jem4",
+      "name": "Moeilijkheidsgraad aangeven en meten met \u3044-adjectieven"
+    },
+    {
+      "id": "jem4-5",
+      "course": "jem4",
+      "name": "Zeggen waar je aan begint of wat je net hebt gedaan"
+    },
+    {
+      "id": "jem4-6",
+      "course": "jem4",
+      "name": "Zeggen waar je mee bezig bent, en 'tijdens' aangeven"
+    },
+    {
+      "id": "jem4-7",
+      "course": "jem4",
+      "name": "Je schema delen en in het geval dat aangeven"
+    },
+    {
+      "id": "jem4-8",
+      "course": "jem4",
+      "name": "Zeggen dat iets begint of afgerond is en door alleen deze actie..."
+    },
+    {
+      "id": "jem4-9",
+      "course": "jem4",
+      "name": "Actie zonder andere actie en verwachtingen"
+    },
+    {
+      "id": "jem4-10",
+      "course": "jem4",
+      "name": "Iets wat opvalt en een gevoel aangeven"
+    },
+    {
+      "id": "jem4-11",
+      "course": "jem4",
+      "name": "Verschillende grammatica met \u3088\u3046\u306b"
+    },
+    {
+      "id": "jem4-12",
+      "course": "jem4",
+      "name": "Anderen acties laten uitvoeren en toelaten"
+    },
+    {
+      "id": "jem4-13",
+      "course": "jem4",
+      "name": "Een 'zekere hoogte' en voortduren aangeven"
+    },
+    {
+      "id": "jem4-14",
+      "course": "jem4",
+      "name": "\u5c0a\u656c\u8a9e\uff08\u305d\u3093\u3051\u3044\u3054\uff09 beleefd taalgebruik"
+    },
+    {
+      "id": "jem4-15",
+      "course": "jem4",
+      "name": "\u8b19\u8b72\u8a9e\uff08\u3051\u3093\u3058\u3087\u3046\u3054\uff09 nederig taalgebruik"
     }
   ],
   "lut": {
