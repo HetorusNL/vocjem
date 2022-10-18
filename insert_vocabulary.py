@@ -1,30 +1,44 @@
 import json
 
 
-def get_user_input(course):
-    # get chapter and next id from user
+def get_user_input():
+    # get course chapter and next id from user
     with open("dictionary.json") as f:
-        dict = json.load(f)
-        max_chapter = 0
-        max_id = 0
-        # ugly last chapter/id fetching
-        last_item = dict["vocabulary"][-1]
-        if last_item["course"] == f"{course}":
-            max_chapter = int(last_item["chapter"][5:])
-            max_id = int(last_item["id"][5:])
-    chapter = input(f"chapter ({max_chapter + 1}): ")
-    next_id = input(f"next id ({max_id + 1}): ")
+        dictionary: dict = json.load(f)
 
-    # verify chapter and next_id
+    # fetch the last course
+    last_course = "course"
+    if dictionary.get("vocabulary"):
+        last_item = dictionary["vocabulary"][-1]
+        last_course = last_item["course"]
+    # confirm last course by user
+    course = input(f"course ({last_course}): ")
+    if not course:
+        course = last_course
+
+    # fetch the last chapter/id
+    max_chapter = 0
+    max_id = 0
+    if dictionary.get("vocabulary"):
+        for entry in reversed(dictionary["vocabulary"]):
+            if entry["course"] == course:
+                max_chapter = int(entry["chapter"][5:])
+                max_id = int(entry["id"][5:])
+                break
+    # confirm last chapter/id by user
+    chapter = input(f"chapter ({max_chapter + 1}): ")
     if not chapter:
         chapter = max_chapter + 1
+    next_id = input(f"next id ({max_id + 1}): ")
     if not next_id:
         next_id = max_id + 1
+
+    # convert chapter and next_id to int (should be numeric)
     chapter = int(chapter)
     next_id = int(next_id)
     print()
 
-    return {"chapter": chapter, "next_id": next_id}
+    return {"course": course, "chapter": chapter, "next_id": next_id}
 
 
 def parse_vocab(vocab, id, chapter, course, fields_to_enter):
@@ -52,11 +66,8 @@ def parse_vocab(vocab, id, chapter, course, fields_to_enter):
 
 
 def main():
-    course = "jem3"
-    override_course = input(f"course ({course}): ")
-    if override_course:
-        course = override_course
-    user_input = get_user_input(course)
+    user_input = get_user_input()
+    course = user_input["course"]
     chapter = user_input["chapter"]
     next_id = user_input["next_id"]
     default_fields = "dutch|hiragana|romaji|nihongo"
