@@ -26576,6 +26576,366 @@
       "hiragana": "\uff5e\u304b",
       "romaji": "~ka",
       "nihongo": "\uff5e\u8ab2"
+    },
+    {
+      "id": "jem4-207",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "veroorzaken; aanleiding geven; opwekken",
+      "hiragana": "\u304a\u3053\u3059",
+      "romaji": "okosu",
+      "nihongo": "\u8d77\u3053\u3059"
+    },
+    {
+      "id": "jem4-208",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "falen; zakken; verliezen (voor toets/vak/interview/wedstrijd)",
+      "hiragana": "\u304a\u3061\u308b",
+      "romaji": "ochiru",
+      "nihongo": "\u843d\u3061\u308b"
+    },
+    {
+      "id": "jem4-209",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "falen/zakken voor een toets",
+      "hiragana": "\u3057\u3051\u3093\u306b\u304a\u3061\u308b",
+      "romaji": "shikenniochiru",
+      "nihongo": "\u8a66\u9a13\u306b\u843d\u3061\u308b"
+    },
+    {
+      "id": "jem4-210",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "besmet worden; besmettelijk zijn",
+      "hiragana": "\u3046\u3064\u308b",
+      "romaji": "utsuru",
+      "nihongo": "\u79fb\u308b\u30fb\u4f1d\u67d3\u308b"
+    },
+    {
+      "id": "jem4-211",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "een woordenboek raadplegen",
+      "hiragana": "\u3058\u3057\u3087\u3092\u3072\u304f",
+      "romaji": "jishowohiku",
+      "nihongo": "\u8f9e\u66f8\u3092\u5f15\u304f"
+    },
+    {
+      "id": "jem4-212",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "op het fornuis zetten",
+      "hiragana": "\u3072\u306b\u304b\u3051\u308b",
+      "romaji": "hinikakeru",
+      "nihongo": "\u706b\u306b\u304b\u3051\u308b"
+    },
+    {
+      "id": "jem4-213",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "oud worden",
+      "hiragana": "\uff08\u3068\u3057\u3092\uff09\u3068\u308b",
+      "romaji": "(toshiwo)toru",
+      "nihongo": "\uff08\u5e74\u3092\uff09\u53d6\u308b"
+    },
+    {
+      "id": "jem4-214",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "handel (handelen)",
+      "hiragana": "\u307c\u3046\u3048\u304d\uff08\u3059\u308b\uff09",
+      "romaji": "boueki(suru)",
+      "nihongo": "\u8cbf\u6613\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-215",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "aanpassing; regeling (aanpassen)",
+      "hiragana": "\u3061\u3087\u3046\u305b\u3064\uff08\u3059\u308b\uff09",
+      "romaji": "chousetsu(suru)",
+      "nihongo": "\u8abf\u7bc0\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-216",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "toelatingstoets (een toets nemen)",
+      "hiragana": "\u3058\u3085\u3051\u3093\uff08\u3059\u308b\uff09",
+      "romaji": "juken(suru)",
+      "nihongo": "\u53d7\u9a13\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-217",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "een aantal dagen",
+      "hiragana": "\u3059\u3046\u3058\u3064",
+      "romaji": "suujitsu",
+      "nihongo": "\u6570\u65e5"
+    },
+    {
+      "id": "jem4-218",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "afgestudeerde; alumnus",
+      "hiragana": "\u305d\u3064\u304e\u3087\u3046\u305b\u3044",
+      "romaji": "sotsugyousei",
+      "nihongo": "\u5352\u696d\u751f"
+    },
+    {
+      "id": "jem4-219",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "manager",
+      "hiragana": "\u307e\u306d\u3048\u3058\u3083\u3042",
+      "romaji": "maneejaa",
+      "nihongo": "\u30de\u30cd\u30fc\u30b8\u30e3\u30fc"
+    },
+    {
+      "id": "jem4-220",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "weg; snelweg",
+      "hiragana": "\u3069\u3046\u308d",
+      "romaji": "douro",
+      "nihongo": "\u9053\u8def"
+    },
+    {
+      "id": "jem4-221",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "betaling",
+      "hiragana": "\uff08\u304a\uff09\u3057\u306f\u3089\u3044",
+      "romaji": "(o)shiharai",
+      "nihongo": "\uff08\u304a\uff09\u652f\u6255\u3044"
+    },
+    {
+      "id": "jem4-222",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "blok (gebied in stad)",
+      "hiragana": "\u3076\u308d\u3063\u304f",
+      "romaji": "burokku",
+      "nihongo": "\u30d6\u30ed\u30c3\u30af"
+    },
+    {
+      "id": "jem4-223",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "moskee",
+      "hiragana": "\u3082\u3059\u304f",
+      "romaji": "mosuku",
+      "nihongo": "\u30e2\u30b9\u30af"
+    },
+    {
+      "id": "jem4-224",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "immigratie bureau",
+      "hiragana": "\u306b\u3085\u3046\u3053\u304f\u304b\u3093\u308a\u304d\u3087\u304f",
+      "romaji": "nyuukokukanrikyoku",
+      "nihongo": "\u5165\u56fd\u7ba1\u7406\u5c40"
+    },
+    {
+      "id": "jem4-225",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "botanische tuin",
+      "hiragana": "\u3057\u3087\u304f\u3076\u3064\u3048\u3093",
+      "romaji": "shokubutsuen",
+      "nihongo": "\u690d\u7269\u5712"
+    },
+    {
+      "id": "jem4-226",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "bunraku; poppentheater",
+      "hiragana": "\u3076\u3093\u3089\u304f",
+      "romaji": "bunraku",
+      "nihongo": "\u6587\u697d"
+    },
+    {
+      "id": "jem4-227",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "Noh (traditioneel Japans theater)",
+      "hiragana": "\u306e\u3046",
+      "romaji": "nou",
+      "nihongo": "\u80fd"
+    },
+    {
+      "id": "jem4-228",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "letter; karakter; teken (alfabet)",
+      "hiragana": "\u3082\u3058",
+      "romaji": "moji",
+      "nihongo": "\u6587\u5b57"
+    },
+    {
+      "id": "jem4-229",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "kaligrafie",
+      "hiragana": "\u3057\u3087\u3069\u3046",
+      "romaji": "shodou",
+      "nihongo": "\u66f8\u9053"
+    },
+    {
+      "id": "jem4-230",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "karate",
+      "hiragana": "\u304b\u3089\u3066",
+      "romaji": "karate",
+      "nihongo": "\u7a7a\u624b"
+    },
+    {
+      "id": "jem4-231",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "pachinko (gokautomaten met balletjes)",
+      "hiragana": "\u3071\u3061\u3093\u3053",
+      "romaji": "pachinko",
+      "nihongo": "\u30d1\u30c1\u30f3\u30b3"
+    },
+    {
+      "id": "jem4-232",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "tas",
+      "hiragana": "\u3070\u3063\u3050",
+      "romaji": "baggu",
+      "nihongo": "\u30d0\u30c3\u30b0"
+    },
+    {
+      "id": "jem4-233",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "blouse",
+      "hiragana": "\u3076\u3089\u3046\u3059",
+      "romaji": "burausu",
+      "nihongo": "\u30d6\u30e9\u30a6\u30b9"
+    },
+    {
+      "id": "jem4-234",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "Japanse sokken (met split voor een teen)",
+      "hiragana": "\u305f\u3073",
+      "romaji": "tabi",
+      "nihongo": "\u8db3\u888b"
+    },
+    {
+      "id": "jem4-235",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "Japanse sandalen",
+      "hiragana": "\u305e\u3046\u308a",
+      "romaji": "zouri",
+      "nihongo": "\u8349\u5c65"
+    },
+    {
+      "id": "jem4-236",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "notitieboekje; notitieblok; (mini) dagboek",
+      "hiragana": "\u3066\u3061\u3087\u3046",
+      "romaji": "techou",
+      "nihongo": "\u624b\u5e33"
+    },
+    {
+      "id": "jem4-237",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "ansichtkaart",
+      "hiragana": "\u3048\u306f\u304c\u304d",
+      "romaji": "ehagaki",
+      "nihongo": "\u7d75\u8449\u66f8"
+    },
+    {
+      "id": "jem4-238",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "schaaldieren",
+      "hiragana": "\u304b\u3044",
+      "romaji": "kai",
+      "nihongo": "\u8c9d"
+    },
+    {
+      "id": "jem4-239",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "vast menu; set maaltijd",
+      "hiragana": "\u3066\u3044\u3057\u3087\u304f",
+      "romaji": "teishoku",
+      "nihongo": "\u5b9a\u98df"
+    },
+    {
+      "id": "jem4-240",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "nietmachine",
+      "hiragana": "\u307b\u3063\u3061\u304d\u3059",
+      "romaji": "hocchikisu",
+      "nihongo": "\u30db\u30c3\u30c1\u30ad\u30b9"
+    },
+    {
+      "id": "jem4-241",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "perforator; kaartjes knipper",
+      "hiragana": "\u3071\u3093\u3061",
+      "romaji": "panchi",
+      "nihongo": "\u30d1\u30f3\u30c1"
+    },
+    {
+      "id": "jem4-242",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "niveau",
+      "hiragana": "\u308c\u3079\u308b",
+      "romaji": "reberu",
+      "nihongo": "\u30ec\u30d9\u30eb"
+    },
+    {
+      "id": "jem4-243",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "situatie; geval",
+      "hiragana": "\u3070\u3042\u3044",
+      "romaji": "baai",
+      "nihongo": "\u5834\u5408"
+    },
+    {
+      "id": "jem4-244",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "beide",
+      "hiragana": "\u3069\u3061\u3089\u3082",
+      "romaji": "dochiramo",
+      "nihongo": "\u3069\u3061\u3089\u3082"
+    },
+    {
+      "id": "jem4-245",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "(nog) een klein beetje",
+      "hiragana": "\u3082\u3046\u3059\u3053\u3057",
+      "romaji": "mousukoshi",
+      "nihongo": "\u3082\u3046\u5c11\u3057"
+    },
+    {
+      "id": "jem4-246",
+      "course": "jem4",
+      "chapter": "jem4-7",
+      "dutch": "afzonderlijk; apart",
+      "hiragana": "\u3079\u3064\u3079\u3064\u306b",
+      "romaji": "betsubetsuni",
+      "nihongo": "\u5225\u3005\u306b"
     }
   ],
   "courses": [
