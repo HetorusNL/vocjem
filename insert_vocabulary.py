@@ -71,16 +71,12 @@ def main():
     chapter = user_input["chapter"]
     next_id = user_input["next_id"]
     default_fields = "dutch|hiragana|romaji|nihongo"
-    fields_to_enter = input(
-        f"enter fields to be entered separated by '|' [{default_fields}]: "
-    )
+    fields_to_enter = input(f"enter fields to be entered separated by '|' [{default_fields}]: ")
     if not fields_to_enter:
         fields_to_enter = default_fields
     with open("dictionary.json") as f:
         dict = json.load(f)
-    chapter_text = list(
-        filter(lambda a: a["id"] == f"{course}-{chapter}", dict["chapters"])
-    )
+    chapter_text = list(filter(lambda a: a["id"] == f"{course}-{chapter}", dict["chapters"]))
     chapter_text = chapter_text[0]["name"] if len(chapter_text) else ""
     print(f"next chapter: {chapter} ({chapter_text})")
     print(f"next id: {next_id}")

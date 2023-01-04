@@ -38,9 +38,7 @@ def parse_vocab(course, vocab, id, kana):
 def get_next_id(course, next_id):
     with open("dictionary.json") as f:
         _dict = json.load(f)
-        res = list(
-            filter(lambda a: a["id"] == f"{course}-{next_id}", _dict["vocabulary"])
-        )
+        res = list(filter(lambda a: a["id"] == f"{course}-{next_id}", _dict["vocabulary"]))
         hiragana = res[0]["hiragana"] if res else ""
         romaji = res[0]["romaji"] if res else ""
         info = "/".join([hiragana, romaji])
