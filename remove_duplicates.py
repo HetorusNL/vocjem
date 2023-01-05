@@ -62,7 +62,7 @@ def main():
     for key in ["hiragana", "romaji", "nihongo"]:
         equal_words = 0
         for word in from_words:
-            if any(word_japanese_equal(word, rest_word) for rest_word in rest_words):
+            if any(word_equal_in(word, rest_word, key) for rest_word in rest_words):
                 print(f"found equal in {key} word: {word['id']}")
                 check_remove(vocabulary, word)
                 equal_words += 1
