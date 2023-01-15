@@ -23678,6 +23678,303 @@
       "hiragana": "\u308f\u308a\u3042\u3044\u306b",
       "romaji": "wariaini",
       "nihongo": "\u5272\u5408\u306b"
+    },
+    {
+      "id": "jem4-390",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "aanvraag indienen; aanmelden (voor toets/school/vacature, etc.)",
+      "hiragana": "\u3082\u3046\u3057\u3053\u3080",
+      "romaji": "moushikomu",
+      "nihongo": "\u7533\u3057\u8fbc\u3080"
+    },
+    {
+      "id": "jem4-391",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "dichtbij komen; benaderen",
+      "hiragana": "\u3061\u304b\u3065\u304f",
+      "romaji": "chikadzuku",
+      "nihongo": "\u8fd1\u3065\u304f"
+    },
+    {
+      "id": "jem4-392",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "gescheiden zijn (grote afstand); verlaten; vertrekken (een baan, enz.); opgeven; uit elkaar drijven",
+      "hiragana": "\u306f\u306a\u308c\u308b",
+      "romaji": "hanareru",
+      "nihongo": "\u96e2\u308c\u308b"
+    },
+    {
+      "id": "jem4-393",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "rijden (voertuigen)",
+      "hiragana": "\u306f\u3057\u308b",
+      "romaji": "hashiru",
+      "nihongo": "\u8d70\u308b"
+    },
+    {
+      "id": "jem4-394",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "stelen",
+      "hiragana": "\u3068\u308b",
+      "romaji": "toru",
+      "nihongo": "\u53d6\u308b"
+    },
+    {
+      "id": "jem4-395",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "eraf komen; verwijderd worden; verkrijgbaar zijn",
+      "hiragana": "\u3068\u308c\u308b",
+      "romaji": "toreru",
+      "nihongo": "\u53d6\u308c\u308b"
+    },
+    {
+      "id": "jem4-396",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "ontvangen; begrijpen",
+      "hiragana": "\u3046\u3051\u3068\u308b",
+      "romaji": "uketoru",
+      "nihongo": "\u53d7\u3051\u53d6\u308b"
+    },
+    {
+      "id": "jem4-397",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "inbeelden; voorstellen; uitdrukken (van fysiek iets in beeld of woorden; droom)",
+      "hiragana": "\u3048\u304c\u304f",
+      "romaji": "egaku",
+      "nihongo": "\u63cf\u304f"
+    },
+    {
+      "id": "jem4-398",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "vroeg weggaan",
+      "hiragana": "\u305d\u3046\u305f\u3044\uff08\u3059\u308b\uff09",
+      "romaji": "soutai(suru)",
+      "nihongo": "\u65e9\u9000\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-399",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "samenwerking; medewerking (samenwerken)",
+      "hiragana": "\u304d\u3087\u3046\u308a\u3087\u304f\uff08\u3059\u308b\uff09",
+      "romaji": "kyouryoku(suru)",
+      "nihongo": "\u5354\u529b\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-400",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "injectie; vaccinatie (injecteren; vaccineren)",
+      "hiragana": "\u3061\u3085\u3046\u3057\u3083\uff08\u3059\u308b\uff09",
+      "romaji": "chuusha(suru)",
+      "nihongo": "\u6ce8\u5c04\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-401",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "beurs; studie (aan het leren)",
+      "hiragana": "\u304c\u304f\u3082\u3093\uff08\u3059\u308b\uff09",
+      "romaji": "gakumon(suru)",
+      "nihongo": "\u5b66\u554f\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-402",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "man; jongeman",
+      "hiragana": "\u3060\u3093\u3057",
+      "romaji": "danshi",
+      "nihongo": "\u7537\u5b50"
+    },
+    {
+      "id": "jem4-403",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "vrouw; jongedame",
+      "hiragana": "\u3058\u3087\u3057",
+      "romaji": "joshi",
+      "nihongo": "\u5973\u5b50"
+    },
+    {
+      "id": "jem4-404",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "auteur; schrijver (romans/fictie)",
+      "hiragana": "\u3057\u3087\u3046\u305b\u3064\u304b",
+      "romaji": "shousetsuka",
+      "nihongo": "\u5c0f\u8aac\u5bb6"
+    },
+    {
+      "id": "jem4-405",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "geleerde",
+      "hiragana": "\u304c\u304f\u3057\u3083",
+      "romaji": "gakusha",
+      "nihongo": "\u5b66\u8005"
+    },
+    {
+      "id": "jem4-406",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "winkel voor elektrische apparaten; elektricien",
+      "hiragana": "\u3067\u3093\u304d\u3084",
+      "romaji": "denkiya",
+      "nihongo": "\u96fb\u6c17\u5c4b"
+    },
+    {
+      "id": "jem4-407",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "automaat (voor drankjes/kaartjes, etc.)",
+      "hiragana": "\u3058\u3069\u3046\u3051\u3093\u3070\u3044\u304d",
+      "romaji": "jidoukenbaiki",
+      "nihongo": "\u81ea\u52d5\u5238\u58f2\u6a5f"
+    },
+    {
+      "id": "jem4-408",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "luchtpost",
+      "hiragana": "\u3053\u3046\u304f\u3046\u3073\u3093",
+      "romaji": "koukuubin",
+      "nihongo": "\u822a\u7a7a\u4fbf"
+    },
+    {
+      "id": "jem4-409",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "post per boot",
+      "hiragana": "\u3075\u306a\u3073\u3093",
+      "romaji": "funabin",
+      "nihongo": "\u8239\u4fbf"
+    },
+    {
+      "id": "jem4-410",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "postdienst; post (fysieke items)",
+      "hiragana": "\u3086\u3046\u3073\u3093",
+      "romaji": "yuubin",
+      "nihongo": "\u90f5\u4fbf"
+    },
+    {
+      "id": "jem4-411",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "postorder; online winkel service",
+      "hiragana": "\u3064\u3046\u3057\u3093\u306f\u3093\u3070\u3044",
+      "romaji": "tsuushinhanbai",
+      "nihongo": "\u901a\u4fe1\u8ca9\u58f2"
+    },
+    {
+      "id": "jem4-412",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "artikel; verslag",
+      "hiragana": "\u304d\u3058",
+      "romaji": "kiji",
+      "nihongo": "\u8a18\u4e8b"
+    },
+    {
+      "id": "jem4-413",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "Engelse conversatie",
+      "hiragana": "\u3048\u3044\u304b\u3044\u308f",
+      "romaji": "eikaiwa",
+      "nihongo": "\u82f1\u4f1a\u8a71"
+    },
+    {
+      "id": "jem4-414",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "luide/harde stem",
+      "hiragana": "\u304a\u304a\u3054\u3048",
+      "romaji": "oogoe",
+      "nihongo": "\u5927\u58f0"
+    },
+    {
+      "id": "jem4-415",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "verkeersongeval; verkeersongeluk",
+      "hiragana": "\u3053\u3046\u3064\u3046\u3058\u3053",
+      "romaji": "koutsuujiko",
+      "nihongo": "\u4ea4\u901a\u4e8b\u6545"
+    },
+    {
+      "id": "jem4-416",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "verkeersregels",
+      "hiragana": "\u3053\u3046\u3064\u3046\u304d\u305d\u304f",
+      "romaji": "koutsuukisoku",
+      "nihongo": "\u4ea4\u901a\u898f\u5247"
+    },
+    {
+      "id": "jem4-417",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "binnenste; binnen (in); diep (in bos); achterin (huis/la, etc.)",
+      "hiragana": "\u304a\u304f",
+      "romaji": "oku",
+      "nihongo": "\u5965"
+    },
+    {
+      "id": "jem4-418",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "verrassing",
+      "hiragana": "\u3055\u3077\u3089\u3044\u305a",
+      "romaji": "sapuraizu",
+      "nihongo": "\u30b5\u30d7\u30e9\u30a4\u30ba"
+    },
+    {
+      "id": "jem4-419",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "ongeveer (deze grootte/hoeveelheid)",
+      "hiragana": "\u3053\u306e\u3050\u3089\u3044",
+      "romaji": "konogurai",
+      "nihongo": "\u3053\u306e\u3050\u3089\u3044"
+    },
+    {
+      "id": "jem4-420",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "een voor een; ieder; een per keer",
+      "hiragana": "\u3072\u3068\u308a\u3072\u3068\u308a",
+      "romaji": "hitorihitori",
+      "nihongo": "\uff11\u4eba\uff11\u4eba\u30fb\u4e00\u4eba\u4e00\u4eba"
+    },
+    {
+      "id": "jem4-421",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "omgekeerd; integendeel",
+      "hiragana": "\u304e\u3083\u304f\u306b",
+      "romaji": "gyakuni",
+      "nihongo": "\u9006\u306b"
+    },
+    {
+      "id": "jem4-422",
+      "course": "jem4",
+      "chapter": "jem4-11",
+      "dutch": "~procent",
+      "hiragana": "\uff5e\u3071\u3042\u305b\u3093\u3068",
+      "romaji": "~paasento",
+      "nihongo": "\uff5e\u30d1\u30fc\u30bb\u30f3\u30c8"
     }
   ],
   "courses": [
