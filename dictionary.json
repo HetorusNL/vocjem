@@ -8902,15 +8902,6 @@
       "nihongo": "\u305f\u3081\u53e3"
     },
     {
-      "id": "jem-old-1-608",
-      "course": "jem-old-1",
-      "chapter": "jem-old-1-16",
-      "romaji": "douryou",
-      "dutch": "collega",
-      "hiragana": "\u3069\u3046\u308a\u3087\u3046",
-      "nihongo": "\u540c\u50da"
-    },
-    {
       "id": "jem-old-1-614",
       "course": "jem-old-1",
       "chapter": "jem-old-1-16",
@@ -23836,7 +23827,7 @@
       "id": "jem4-407",
       "course": "jem4",
       "chapter": "jem4-11",
-      "dutch": "automaat (voor drankjes/kaartjes, etc.)",
+      "dutch": "automaat (voor tickets, kaartjes, etc.)",
       "hiragana": "\u3058\u3069\u3046\u3051\u3093\u3070\u3044\u304d",
       "romaji": "jidoukenbaiki",
       "nihongo": "\u81ea\u52d5\u5238\u58f2\u6a5f"
