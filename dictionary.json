@@ -25109,6 +25109,249 @@
       "hiragana": "\u3057\u3087\u3046\u3057\u3087\u3046",
       "romaji": "shoushou",
       "nihongo": "\u5c11\u3005"
+    },
+    {
+      "id": "jem4-550",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "in bewaring achterlaten/toestellen; toevertrouwen; (iets) in iemands handen laten; (iemand) leiding geven over",
+      "hiragana": "\u3042\u305a\u3051\u308b",
+      "romaji": "azukeru",
+      "nihongo": "\u9810\u3051\u308b"
+    },
+    {
+      "id": "jem4-551",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "gaan; komen (nederig)",
+      "hiragana": "\u307e\u3044\u308b",
+      "romaji": "mairu",
+      "nihongo": "\u53c2\u308b"
+    },
+    {
+      "id": "jem4-552",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "zeggen; vertellen (nederig)",
+      "hiragana": "\u3082\u3046\u3057\u3042\u3052\u308b",
+      "romaji": "moushiageru",
+      "nihongo": "\u7533\u3057\u4e0a\u3052\u308b"
+    },
+    {
+      "id": "jem4-553",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "heten; zeggen (nederig)",
+      "hiragana": "\u3082\u3046\u3059",
+      "romaji": "mousu",
+      "nihongo": "\u7533\u3059"
+    },
+    {
+      "id": "jem4-554",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "zijn; bevinden (nederig)",
+      "hiragana": "\u304a\u308b",
+      "romaji": "oru",
+      "nihongo": "\u304a\u308b"
+    },
+    {
+      "id": "jem4-555",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "eten (nederig)",
+      "hiragana": "\u3044\u305f\u3060\u304f",
+      "romaji": "itadaku",
+      "nihongo": "\u9802\u304f"
+    },
+    {
+      "id": "jem4-556",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "geven (nederig)",
+      "hiragana": "\u3055\u3057\u3042\u3052\u308b",
+      "romaji": "sashiageru",
+      "nihongo": "\u5dee\u3057\u4e0a\u3052\u308b"
+    },
+    {
+      "id": "jem4-557",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "laten zien (nederig)",
+      "hiragana": "\u304a\u3081\u306b\u304b\u3051\u308b",
+      "romaji": "omenikakeru",
+      "nihongo": "\u304a\u76ee\u306b\u304b\u3051\u308b"
+    },
+    {
+      "id": "jem4-558",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "ontmoeten (nederig)",
+      "hiragana": "\u304a\u3081\u306b\u304b\u304b\u308b",
+      "romaji": "omenikakaru",
+      "nihongo": "\u304a\u76ee\u306b\u304b\u304b\u308b"
+    },
+    {
+      "id": "jem4-559",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "weten (nederig)",
+      "hiragana": "\u305e\u3093\u3058\u308b",
+      "romaji": "zonjiru",
+      "nihongo": "\u5b58\u3058\u308b"
+    },
+    {
+      "id": "jem4-560",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "luisteren; vragen; bezoeken (nederig)",
+      "hiragana": "\u3046\u304b\u304c\u3046",
+      "romaji": "ukagau",
+      "nihongo": "\u4f3a\u3046"
+    },
+    {
+      "id": "jem4-561",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "doen (nederig)",
+      "hiragana": "\u3044\u305f\u3059",
+      "romaji": "itasu",
+      "nihongo": "\u81f4\u3059"
+    },
+    {
+      "id": "jem4-562",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "kijken; zien (nederig)",
+      "hiragana": "\u306f\u3044\u3051\u3093\uff08\u3059\u308b\uff09",
+      "romaji": "haiken(suru)",
+      "nihongo": "\u62dd\u898b\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-563",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "dankbaarheid; dank (bedanken)",
+      "hiragana": "\u304b\u3093\u3057\u3083\uff08\u3059\u308b\uff09",
+      "romaji": "kansha(suru)",
+      "nihongo": "\u611f\u8b1d\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-564",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "lenen",
+      "hiragana": "\u306f\u3044\u3057\u3083\u304f\uff08\u3059\u308b\uff09",
+      "romaji": "haishaku(suru)",
+      "nihongo": "\u62dd\u501f\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-565",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "ik (nederig)",
+      "hiragana": "\u308f\u305f\u304f\u3057",
+      "romaji": "watakushi",
+      "nihongo": "\u79c1"
+    },
+    {
+      "id": "jem4-566",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "baas; leidinggevende",
+      "hiragana": "\u3058\u3087\u3046\u3057",
+      "romaji": "joushi",
+      "nihongo": "\u4e0a\u53f8"
+    },
+    {
+      "id": "jem4-567",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "ons/mijn bedrijf (nederig)",
+      "hiragana": "\u3078\u3044\u3057\u3083",
+      "romaji": "heisha",
+      "nihongo": "\u5f0a\u793e"
+    },
+    {
+      "id": "jem4-568",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "rooster; dienstregeling",
+      "hiragana": "\u3058\u304b\u3093\u308f\u308a",
+      "romaji": "jikanwari",
+      "nihongo": "\u6642\u9593\u5272"
+    },
+    {
+      "id": "jem4-569",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "bijeenkomst; drinkfeestje (vaak na werk met collega's drinken)",
+      "hiragana": "\u306e\u307f\u304b\u3044",
+      "romaji": "nomikai",
+      "nihongo": "\u98f2\u307f\u4f1a"
+    },
+    {
+      "id": "jem4-570",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "naamplaatje/bordje",
+      "hiragana": "\u306a\u3075\u3060",
+      "romaji": "nafuda",
+      "nihongo": "\u540d\u672d"
+    },
+    {
+      "id": "jem4-571",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "onervaren",
+      "hiragana": "\u307f\u3051\u3044\u3051\u3093",
+      "romaji": "mikeiken",
+      "nihongo": "\u672a\u7d4c\u9a13"
+    },
+    {
+      "id": "jem4-572",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "vanuit (de grond van) je hart",
+      "hiragana": "\u3053\u3053\u308d\u304b\u3089",
+      "romaji": "kokorokara",
+      "nihongo": "\u5fc3\u304b\u3089"
+    },
+    {
+      "id": "jem4-573",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "met liefde",
+      "hiragana": "\u3042\u3044\u3092\u3053\u3081\u3066",
+      "romaji": "aiwokomete",
+      "nihongo": "\u611b\u3092\u8fbc\u3081\u3066"
+    },
+    {
+      "id": "jem4-574",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "met dank",
+      "hiragana": "\u304b\u3093\u3057\u3083\u3092\u3053\u3081\u3066",
+      "romaji": "kanshawokomete",
+      "nihongo": "\u611f\u8b1d\u3092\u8fbc\u3081\u3066"
+    },
+    {
+      "id": "jem4-575",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "met heel je hart",
+      "hiragana": "\u3053\u3053\u308d\u3092\u3053\u3081\u3066",
+      "romaji": "kokorowokomete",
+      "nihongo": "\u5fc3\u3092\u8fbc\u3081\u3066"
+    },
+    {
+      "id": "jem4-576",
+      "course": "jem4",
+      "chapter": "jem4-15",
+      "dutch": "onder de indruk geraakt zijn",
+      "hiragana": "\u304b\u3093\u3069\u3046\u3066\u304d\uff08\u306a\uff09",
+      "romaji": "kandouteki(na)",
+      "nihongo": "\u611f\u52d5\u7684\uff08\u306a\uff09"
     }
   ],
   "courses": [
