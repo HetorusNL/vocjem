@@ -24362,6 +24362,357 @@
       "hiragana": "\u3080\u308a\u3084\u308a",
       "romaji": "muriyari",
       "nihongo": "\u7121\u7406\u3084\u308b"
+    },
+    {
+      "id": "jem4-467",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "moe worden van; interesse verliezen in; beu zijn",
+      "hiragana": "\u3042\u304d\u308b",
+      "romaji": "akiru",
+      "nihongo": "\u98fd\u304d\u308b"
+    },
+    {
+      "id": "jem4-468",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "verdelen; splitsen; scheiden",
+      "hiragana": "\u308f\u3051\u308b",
+      "romaji": "wakeru",
+      "nihongo": "\u5206\u3051\u308b"
+    },
+    {
+      "id": "jem4-469",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "voorbijgaan; verstrijken (van tijd)",
+      "hiragana": "\u305f\u3064",
+      "romaji": "tatsu",
+      "nihongo": "\u7d4c\u3064"
+    },
+    {
+      "id": "jem4-470",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "passen (bij); worden/zijn zoals",
+      "hiragana": "\u306b\u3042\u3046",
+      "romaji": "niau",
+      "nihongo": "\u4f3c\u5408\u3046"
+    },
+    {
+      "id": "jem4-471",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "je zorgen/ergens druk om maken; ongemakelijk/angst voelen; geinteresseerd zijn in; nieuwsgierig zijn (naar)",
+      "hiragana": "\u304d\u306b\u306a\u308b",
+      "romaji": "kiniaru",
+      "nihongo": "\u6c17\u306b\u306a\u308b"
+    },
+    {
+      "id": "jem4-472",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "problemen; moeilijkheid; zorg; probleem (zwoegen; pijnen/moeite hebben)",
+      "hiragana": "\u304f\u308d\u3046\uff08\u3059\u308b\uff09",
+      "romaji": "kurou(suru)",
+      "nihongo": "\u82e6\u52b4\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-473",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "experiment (experimenteren)",
+      "hiragana": "\u3058\u3063\u3051\u3093\uff08\u3059\u308b\uff09",
+      "romaji": "jikken(suru)",
+      "nihongo": "\u5b9f\u9a13\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-474",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "inspectie; studie door observatie; excursie (inspecteren; op excursie gaan; bezoeken)",
+      "hiragana": "\u3051\u3093\u304c\u304f\uff08\u3059\u308b\uff09",
+      "romaji": "kengaku(suru)",
+      "nihongo": "\u898b\u5b66\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-475",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "analyse (analyseren)",
+      "hiragana": "\u3076\u3093\u305b\u304d\uff08\u3059\u308b\uff09",
+      "romaji": "bunseki(suru)",
+      "nihongo": "\u5206\u6790\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-476",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "invoering; invulling (invullen; invoeren)",
+      "hiragana": "\u304d\u306b\u3085\u3046\uff08\u3059\u308b\uff09",
+      "romaji": "kinyuu(suru)",
+      "nihongo": "\u8a18\u5165\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-477",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "rapport; informatie (rapporteren; informeren)",
+      "hiragana": "\u307b\u3046\u3053\u304f\uff08\u3059\u308b\uff09",
+      "romaji": "houkoku(suru)",
+      "nihongo": "\u5831\u544a\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-478",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "een overnachting (overnachten)",
+      "hiragana": "\u3044\u3063\u3071\u304f\uff08\u3059\u308b\uff09",
+      "romaji": "ippaku(suru)",
+      "nihongo": "\u4e00\u6cca\u30fb\uff11\u6cca\uff08\u3059\u308b\uff09"
+    },
+    {
+      "id": "jem4-479",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "vanaf nu; hierna",
+      "hiragana": "\u3053\u3093\u3054",
+      "romaji": "kongo",
+      "nihongo": "\u4eca\u5f8c"
+    },
+    {
+      "id": "jem4-480",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "nu; deze keer; volgende keer",
+      "hiragana": "\u3053\u3093\u304b\u3044",
+      "romaji": "konkai",
+      "nihongo": "\u4eca\u56de"
+    },
+    {
+      "id": "jem4-481",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "recentelijk; laatste dagen",
+      "hiragana": "\u3053\u306e\u3053\u308d",
+      "romaji": "konokoro",
+      "nihongo": "\u3053\u306e\u9803\u30fb\u3053\u306e\u3053\u308d"
+    },
+    {
+      "id": "jem4-482",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "een maand",
+      "hiragana": "\u3072\u3068\u3064\u304d",
+      "romaji": "hitotsuki",
+      "nihongo": "\u4e00\u6708"
+    },
+    {
+      "id": "jem4-483",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "andere winkel/restaurant",
+      "hiragana": "\u305f\u3066\u3093",
+      "romaji": "taten",
+      "nihongo": "\u4ed6\u5e97"
+    },
+    {
+      "id": "jem4-484",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "kleingeld",
+      "hiragana": "\u3053\u307e\u304b\u3044\u304a\u304b\u306d",
+      "romaji": "komakaiokane",
+      "nihongo": "\u7d30\u304b\u3044\u304a\u91d1"
+    },
+    {
+      "id": "jem4-485",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "visum",
+      "hiragana": "\u3073\u3056",
+      "romaji": "biza",
+      "nihongo": "\u30d3\u30b6"
+    },
+    {
+      "id": "jem4-486",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "gerst; tarwe",
+      "hiragana": "\u3080\u304e",
+      "romaji": "mugi",
+      "nihongo": "\u9ea6"
+    },
+    {
+      "id": "jem4-487",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "paal; staaf; stok",
+      "hiragana": "\u307c\u3046",
+      "romaji": "bou",
+      "nihongo": "\u68d2"
+    },
+    {
+      "id": "jem4-488",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "diamand",
+      "hiragana": "\u3060\u3044\u3084\u30fb\u3060\u3044\u3084\u3082\u3093\u3069",
+      "romaji": "daiya/daiyamondo",
+      "nihongo": "\u30c0\u30a4\u30e4\u30fb\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9"
+    },
+    {
+      "id": "jem4-489",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "schakelaar (licht, etc.)",
+      "hiragana": "\u3059\u3044\u3063\u3061",
+      "romaji": "suicchi",
+      "nihongo": "\u30b9\u30a4\u30c3\u30c1"
+    },
+    {
+      "id": "jem4-490",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "mixer",
+      "hiragana": "\u307f\u304d\u3055\u3042",
+      "romaji": "mikisaa",
+      "nihongo": "\u30df\u30ad\u30b5\u30fc"
+    },
+    {
+      "id": "jem4-491",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "set",
+      "hiragana": "\u305b\u3063\u3068",
+      "romaji": "setto",
+      "nihongo": "\u30bb\u30c3\u30c8"
+    },
+    {
+      "id": "jem4-492",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "zon",
+      "hiragana": "\u305f\u3044\u3088\u3046",
+      "romaji": "taiyou",
+      "nihongo": "\u592a\u967d"
+    },
+    {
+      "id": "jem4-493",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "storm",
+      "hiragana": "\u3042\u3089\u3057",
+      "romaji": "arashi",
+      "nihongo": "\u5d50"
+    },
+    {
+      "id": "jem4-494",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "vergelijking; iets dat de vergelijking waard is",
+      "hiragana": "\u304f\u3089\u3079\u3082\u306e",
+      "romaji": "kurabemono",
+      "nihongo": "\u6bd4\u3079\u7269"
+    },
+    {
+      "id": "jem4-495",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "aangetekende post",
+      "hiragana": "\u304b\u304d\u3068\u3081",
+      "romaji": "kakitome",
+      "nihongo": "\u66f8\u7559"
+    },
+    {
+      "id": "jem4-496",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "expres; speciale levering",
+      "hiragana": "\u305d\u304f\u305f\u3064",
+      "romaji": "sokutatsu",
+      "nihongo": "\u901f\u9054"
+    },
+    {
+      "id": "jem4-497",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "verzendkosten",
+      "hiragana": "\u305d\u3046\u308a\u3087\u3046",
+      "romaji": "souryou",
+      "nihongo": "\u9001\u6599"
+    },
+    {
+      "id": "jem4-498",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "wereldvrede",
+      "hiragana": "\u305b\u304b\u3044\u3078\u3044\u308f",
+      "romaji": "sekaiheiwa",
+      "nihongo": "\u4e16\u754c\u5e73\u548c"
+    },
+    {
+      "id": "jem4-499",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "gevoel voor humor",
+      "hiragana": "\u3086\u3046\u3082\u3042",
+      "romaji": "yuumoa",
+      "nihongo": "\u30e6\u30fc\u30e2\u30a2"
+    },
+    {
+      "id": "jem4-500",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "deel; sectie; deel van",
+      "hiragana": "\u3076\u3076\u3093",
+      "romaji": "bubun",
+      "nihongo": "\u90e8\u5206"
+    },
+    {
+      "id": "jem4-501",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "een deel; segment; rantsoen",
+      "hiragana": "\u3076\u3093",
+      "romaji": "bun",
+      "nihongo": "\u5206"
+    },
+    {
+      "id": "jem4-502",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "schitterend; leuk; voldoende; prima; goed genoeg; oke; nogal redelijk",
+      "hiragana": "\u3051\u3063\u3053\u3046\uff08\u306a\uff09",
+      "romaji": "kekkou(na)",
+      "nihongo": "\u7d50\u69cb\uff08\u306a\uff09"
+    },
+    {
+      "id": "jem4-503",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "heel; redelijk; liever; niet gemakkelijk; kost tijd",
+      "hiragana": "\u306a\u304b\u306a\u304b",
+      "romaji": "nakanaka",
+      "nihongo": "\u306a\u304b\u306a\u304b"
+    },
+    {
+      "id": "jem4-504",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "telwoord voor overnachtingen",
+      "hiragana": "\uff5e\u306f\u304f",
+      "romaji": "~haku",
+      "nihongo": "\uff5e\u6cca"
+    },
+    {
+      "id": "jem4-505",
+      "course": "jem4",
+      "chapter": "jem4-13",
+      "dutch": "telwoord voor maanden",
+      "hiragana": "\uff5e\u3064\u304d",
+      "romaji": "~tsuki",
+      "nihongo": "\uff5e\u6708"
     }
   ],
   "courses": [
