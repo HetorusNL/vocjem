@@ -8542,15 +8542,6 @@
       "nihongo": "\u554f\u984c\u3042\u308a\u307e\u305b\u3093"
     },
     {
-      "id": "jem-old-1-522",
-      "course": "jem-old-1",
-      "chapter": "jem-old-1-14",
-      "romaji": "nomikai",
-      "dutch": "bijeenkomst met drank",
-      "hiragana": "\u306e\u307f\u304b\u3044",
-      "nihongo": "\u98f2\u307f\u4f1a"
-    },
-    {
       "id": "jem-old-1-523",
       "course": "jem-old-1",
       "chapter": "jem-old-1-14",
@@ -8929,15 +8920,6 @@
       "nihongo": "\u79c1"
     },
     {
-      "id": "jem-old-1-619",
-      "course": "jem-old-1",
-      "chapter": "jem-old-1-16",
-      "romaji": "bun",
-      "dutch": "deel",
-      "hiragana": "\u3076\u3093",
-      "nihongo": "\u5206"
-    },
-    {
       "id": "jem-old-1-620",
       "course": "jem-old-1",
       "chapter": "jem-old-1-16",
@@ -9125,15 +9107,6 @@
       "dutch": "direct/onmiddelijk/meteen",
       "hiragana": "\u3059\u3050",
       "nihongo": "\u76f4\u3050"
-    },
-    {
-      "id": "jem-old-1-674",
-      "course": "jem-old-1",
-      "chapter": "jem-old-1-18",
-      "romaji": "tadaima",
-      "dutch": "ik ben thuis (op dit moment)",
-      "hiragana": "\u305f\u3060\u3044\u307e",
-      "nihongo": "\u305f\u3060\u4eca"
     },
     {
       "id": "jem-old-1-675",
@@ -25087,7 +25060,7 @@
       "id": "jem4-547",
       "course": "jem4",
       "chapter": "jem4-14",
-      "dutch": "nu; op dit moment (beleefd)",
+      "dutch": "ik ben thuis (op dit moment); nu; op dit moment (beleefd)",
       "hiragana": "\u305f\u3060\u3044\u307e",
       "romaji": "tadaima",
       "nihongo": "\u53ea\u4eca\u30fb\u305f\u3060\u4eca"
